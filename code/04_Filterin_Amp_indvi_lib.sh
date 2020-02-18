@@ -5,42 +5,21 @@ hashline= "################################################################"
 echo $hashline 
 echo "This is the START of Data Filtering" `date` 
 
-output=../output_log.txt #where to store the ouput logs
 
 START=$(date +%s) #timming tool to record the running time
 
-cd 02_merged
-
-for f in *; do sed -e "s/\(^@.*\) .*$/\1;sample=${f%.*};/" $f >> ../03_mbc_concat.fastq; done
-
-cd ../
-echo $hashline 
-echo "check No. reads in 03_concat.fastq @ " `date`
-echo $hashline 
-
-grep -c "^@" 03_mbc_concat*
-
-
-NOW0=$(date +%s)
-echo $hashline 
-echo "STEP3_Concatenation took $(($NOW4 - $NOW3))s" 
-
-
-echo $hashline 
-echo "check No. reads in 03_mbc_concat.fastq @ " `date` 
-
-grep -c "^@" 03_mbc*.fastq
 
 echo $hashline 
 echo "STEP4_Quality_Filtering @ " `date` 
 echo $hashline 
 
-vsearch --fastx_filter 03_mbc_concat.fastq --fastq_maxee 1 --fastaout 04_error_filtered.fasta
+mkdir 04_error_filtered
+while read f ; do vsearch --fastx_filter $f --fastq_maxee 1 --fastaout 04_error_filtered/$f & done< <(ls 02_trimmed)
 
 echo $hashline 
 echo "check No. reads in 04_error_filtered.fasta @ " `date` 
 
-grep -c "^>" 04_error_filtered.fasta
+grep -c "^>" 04_error_filtered/
 NOW1=$(date +%s)
 echo $hashline 
 echo "STEP4_Quality_filtering took $(($NOW1 - $NOW0))s" 
@@ -49,7 +28,8 @@ echo $hashline
 echo "STEP5_Dereplication @ " `date` 
 echo $hashline 
 
-vsearch --derep_fulllength 04_error_filtered.fasta --output 05_dereped.fasta --sizeout --relabel uniq
+mkdir 05_dereped
+while read f ; do vsearch --derep_fulllength 04_error_filtered.fasta --output 05_dereped.fasta --sizeout --relabel uniq & done< <(ls 04_error_filtered)
 
 
 echo $hashline 
