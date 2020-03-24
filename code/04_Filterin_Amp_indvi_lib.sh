@@ -148,6 +148,8 @@ echo $hashline
 echo "STEP9_chimera_filtered took $(($NOW6 - $NOW5))s" 
 echo $hashline 
 
+rm *transfail.fa
+
 echo $hashline 
 echo "This is the END of Data Filtering" `date` 
 echo $hashline 

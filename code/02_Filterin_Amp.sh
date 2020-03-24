@@ -1,15 +1,15 @@
 #!/bin/bash
 
 #NOTE:bash run in the directory where data folders stored(mbc/ or sandbox/)
-hashline= "################################################################" 
+hashline="################################################################" 
 echo $hashline 
 echo "This is the START of Data Filtering" `date` 
 
-output=../output_log.txt #where to store the ouput logs
+
 
 START=$(date +%s) #timming tool to record the running time
 
-cd 02_merged
+cd 02_trimmed
 
 for f in *; do sed -e "s/\(^@.*\) .*$/\1;sample=${f%.*};/" $f >> ../03_mbc_concat.fastq; done
 
