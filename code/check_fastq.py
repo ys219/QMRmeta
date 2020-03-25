@@ -2,182 +2,117 @@
 # # -*- coding: utf-8 -*-
 
 
-import subprocess
-import pandas as pd
+
 from Bio import SeqIO
 from Bio import BiopythonWarning
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 from Bio.SeqIO.FastaIO import SimpleFastaParser
 
+import subprocess
+import pandas as pd
 import argparse
 import os
 import sys
 import warnings
 
-f = open("04_RNMB_dereped_test.fasta")
-f.close()
-
-
 ## frequency
 
-# for l in f : ## to match the index
-#     if l.startswith('>') :
-#         l = l.rstrip()
-#         index = l.split(';')[0].replace('>','')
-#         freq = l.split('=')[1]
-#         out_df.loc[index, 'freq'] = freqquit
 def freq_check(in_head):
-        head = in_head.rstrip()
-        head = head.split('=')[1])
+    """
+    reads frequency checker by extracting the infromation from fasta head lines
+    Args:
+        in_head: input header for extraction
+    """
+    head = in_head.rstrip()
+    head = head.split('=')[1]
     return head
-
-
 
 ## length
 def length_check(in_seq):
+    """
+    reads length checker
+    Args:
+        in_seq: input sequence
+    """
     length = (len(in_seq))
     return length
 
+## stop codon
+def stopcount(seq_record, table, frame = (1,2,3)):
+    """
+    number of stop codons checker, developed by Dr. Thomas Creedy
+    Args: 
+        seq_record: input sequence for checking
+        table: translation table, which follows the NCBI numbering convention
+        frame: ORF 1,2,3
+    """
+    # Check input types
+    run_frame = (frame,) if not isinstance(frame, (tuple, list)) else frame
 
-# len(l)
-# for l in f:
-#     if l.startswith('>uniq') and block :# if it's the name line and block got contents
-#         seq = l# merge all the contents in the block
-#         block = [] # empty the block
-#     elif seq != None : 
-#         seq = seq.join()
-#             # len_list.append(len(seq))
-#             # seq = None
-#     else:
-#         block.append(l.strip())
-# out_df.index
+    # Run counting
+    with warnings.catch_warnings():
+        warnings.simplefilter('ignore', BiopythonWarning)
+        counts = [seq_record.seq[(i-1):].translate(table = table).count("*") for i in run_frame]
 
-# len_list
-
-
-
-
-
-
-
-
-# for l in f : ## to make list of data then append to df
-#     if not l.startswith('>'):
-#         l = l.rstrip()
-#         freq_list.append(len(l))
+    # Return string or list depending on length
+    if(len(counts) > 1):
+        return counts
+    else:
+        return counts[0]
 
 
-# out_df['len'] = len_list
-
-
-
-
-
-##  stop codons
-subprocess.Popen(['filtertranslate.py','04_RNMB_dereped_test.fasta','5','-f_failed']) # do the stop codon detection with `filtertranslate.py`
-
-# do the results extraction
-f = open("04_RNMB_dereped_test_transfiltered.fa")
-translate = []
-for l in f :
-    if l.startswith('>'):
-        if l.endswith('_failed\n'):
-            translate.append('FAIL')
-        else:
-            translate.append('P')
-
-f.close()
-
-out_df['filter_trans'] = translate
-
-
-# chimera
-subprocess.Popen(['vsearch', '--uchime3_denovo ', '04_RNMB_dereped_test.fasta', '--chimeras', '06_chime.fasta', '--nonchimeras', '06_non_chim.fasta'
-])
-chim_inf = []
-# with openC as chime_f :
-#     for l in chime_f :
-#         if l.startswith('>uniq'):
-#             chim_inf.append(l.rstrip()+'_chimera')
-
-# with open('06_non_chim.fasta') as non_chime_f :
-#     for l in non_chime_f :
-#         if l.startswith('>uniq'):
-#             chim_inf.append(l.rstrip())
-
-out_df['chime'] = 'False'
-f = open('06_chime.fasta')
-for l in f : 
-    if l.startswith('>') :
-        index = l.split(';')[0].replace('>','')
-        out_df.loc[out_df.name == index ,'chime'] = 'True'
-
-
-# out_df.loc[out_df.name == index,'chime'] = 'True'
-
-out_df.head
-
-
-
-out_df.to_csv(r'08_check_fasta.csv',index= False, header = True)
-
+## main ##
+def main():
+    parser = argparse.ArgumentParser(description = "This is a tool that extract frequency, length, stop codon and chimera information from QUALITY FILTERED and DEREPLICATED input fasta file")
+    # input
+    parser.add_argument("input", help = "input file path", metavar = "FASTA")
+    # extract filename
+    # translation table numer
+    parser.add_argument("-t","--table", help = "the number referring to the translation table to use which follows the NCBI numbering convention (https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)", metavar = "TABLE")
+    # output file name with default
+    parser.add_argument("-o","--output", help = "output directory (default is current directory)", default = "./", metavar = "OUTPUTFILENAME")# output
+    args = parser.parse_args()
+    filename = os.path.splitext(os.path.basename(args.input))[0]
+    ## potentially can add switch to each function?
+    #check the inputfile and options:
+    if os.path.getsize(args.input) == 0:# in input have contents
+        sys.exit("Error: input file is empty")
+    # maybe add checker to table?
+    #
+    # now open the file and do something :P
+    with open(args.input) as infasta : 
+        uniqs = [] # to save row names
+        freq_list = [] # to save frequency info
+        len_list = []# to save length info
+        stop_list = [] # to save stop codon
+        #
+        # loop loop loop!
+        for head, seq in SimpleFastaParser(infasta):
+            uniqs.append(head.split(';')[0].replace('>',''))## split by ; symbol, keep the first part then remove the > symbol
+            freq_list.append(freq_check(head))# add frequency info
+            len_list.append(length_check(seq))# add length info
+            stop_codon = min(stopcount(SeqRecord(Seq(seq)),5, frame = (1,2,3))) # check stop codon and retain the minimum
+            stop_list.append(stop_codon)# append stop codon info
+        out_df = pd.DataFrame(data = uniqs, columns =['name'])# reate dataframe for data
+        out_df['freq'] = freq_list # add list to dataframe 
+        out_df['length'] = len_list
+        out_df['stop_codon'] = stop_list
+    infasta.close()
+    #
+    # now let's do the chimera filtering!
+    subprocess.Popen(['vsearch','--uchime3_denovo','05_dereped_filtered.fasta','--chimeras',filename+'_chimeras.fa'])# chimeras will be exported
+    out_df['chime'] = 'False'# make all the cell be 'false'
+    with open(filename+'_chimeras.fa') as chimes:
+        for l in chimes:
+            if l.startswith('>'):
+                index = l.split(';')[0].replace('>uniq','')#########change here!!!
+                out_df.loc[out_df.name == index ,'chime'] = 'True'# check the uniq name and if the id been found, turn False to True
+    chimes.close()
+    # output export
+    out_df.to_csv(filename+'_info.csv',index= False, header = True)  
+    print('done')
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description = "")
-
-    parser.add_argument("input", help = "input file path", metavar = "FASTA")#input
-
-    parser.add_argument("-o","--output_directory", help = "output directory (default is current directory)", default = "./", metavar = "OUTDIR")# output
-    
-    args = parser.parse_args()
-    
-    filename = os.path.splitext(os.path.basename(args.input))[0]
-
-    with open(args.input) as infasta : 
-        uniqs = [] # to save row names
-        for l in infasta : #get row names
-            if l.startswith('>'):
-                uniqs.append(l.split(';')[0].replace('>','')) # split by ; symbol, keep the first part then remove the > symbol
-        out_df = pd.DataFrame(data = uniqs, columns = ['name'])
-
-        freq_list = []
-        len_list = []
-
-        for head, seq in SimpleFastaParser(infasta):
-
-            freq_list.append(freq_check(head))
-
-            len_list.append(length_check(seq))
-        
-        out_df['freq'] = freq_list
-        out_df['length'] = len_list
-
-        subprocess.Popen(['vsearch','--uchime3_denovo',args.input,'--nonchimeras',filename+'_chimeras.fa'])
-        out_df['chime'] = 'False'
-        with open(filename+'_chimeras.fa') as chimes:
-            for l in chimes : 
-                if l.startswith('>') :
-                    index = l.split(';')[0].replace('>','')
-                    out_df.loc[out_df.name == index ,'chime'] = 'True'
-    
-
-
-        
-
-
-            
-
-
-
-
-
-
-## create dataframe:
-
-
-
-
-# append output
-
+    main()
