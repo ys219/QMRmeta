@@ -59,26 +59,12 @@ def stopcount(seq_record, table, frame = (1,2,3)):
     else:
         return counts[0]
 
-
 ## main ##
-def main():
-    parser = argparse.ArgumentParser(description = "This is a tool that extract frequency, length, stop codon and chimera information from QUALITY FILTERED and DEREPLICATED input fasta file")
-    # input
-    parser.add_argument("input", help = "input file path", metavar = "INPUT.fasta/INPUT.fa")
-    # extract filename
-    # translation table numer
-    parser.add_argument("-t","--table", help = "the number referring to the translation table to use which follows the NCBI numbering convention (https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)", metavar = "TABLE")
-    # output file name with default
-    parser.add_argument("-o","--output", help = "output directory (default is current directory)", default = "./", metavar = "OUTPUTFILENAME")# output
-    args = parser.parse_args()
-    filename = os.path.splitext(os.path.basename(args.input))[0]
-    ## potentially can add switch to each function?
-    #check the inputfile and options:
-    if os.path.getsize(args.input) == 0:# in input have contents
-        sys.exit("Error: input file is empty")
-    # maybe add checker to table?
-    #
-    # now open the file and do something :P
+
+# now open the file and do something :P
+def check_property():
+    global uniqs
+    global out_df
     with open(args.input) as infasta : 
         uniqs = [] # to save row names
         freq_list = [] # to save frequency info
@@ -110,10 +96,15 @@ def main():
         out_df['length'] = len_list
         out_df['stop_codon'] = stop_list
     infasta.close()
+
+
+# to check chimera
+def check_chimera():
+    global out_df
     print('#Using Vsearch Filtering Chimera#')
     #
     # now let's do the chimera filtering!
-    subprocess.Popen("vsearch --uchime3_denovo 05_dereped_filtered.fasta --chimeras %s_chimeras.fa"%(filename),shell = True).wait()# chimeras will be exported
+    subprocess.Popen("vsearch --uchime3_denovo %s --chimeras %s_chimeras.fa"%(args.input,filename),shell = True).wait()# chimeras will be exported
     chime_list = ['False']*len(uniqs)# make all the cell be 'false'
     print('#Start checking Chimeras output#')
     with open(filename+'_chimeras.fa') as chimes:
@@ -132,10 +123,31 @@ def main():
                 # sys.stdout.flush()# progress bar
         out_df['chime'] = chime_list
     chimes.close()
+
+
+def out():
     # output export
     out_df.to_csv(filename+'_info.csv',index= False, header = True)  
     print('done')
 
 
 if __name__ == "__main__":
-    main()
+    #
+    parser = argparse.ArgumentParser(description = "This is a tool that extract frequency, length, stop codon and chimera information from QUALITY FILTERED and DEREPLICATED input fasta file")
+    # input
+    parser.add_argument("input", help = "input file path", metavar = "INPUT.fasta/INPUT.fa")
+    # extract filename
+    # translation table numer
+    parser.add_argument("-t","--table", help = "the number referring to the translation table to use which follows the NCBI numbering convention (https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)", metavar = "TABLE")
+    # output file name with default
+    parser.add_argument("-o","--output", help = "output directory (default is current directory)", default = "./", metavar = "OUTPUTFILENAME")# output
+    args = parser.parse_args()
+    filename = os.path.splitext(os.path.basename(args.input))[0]
+    ## potentially can add switch to each function?
+    #check the inputfile and options:
+    if os.path.getsize(args.input) == 0:# in input have contents
+        sys.exit("Error: input file is empty")
+    # maybe add checker to table?
+    check_property()
+    check_chimera()
+    out()
