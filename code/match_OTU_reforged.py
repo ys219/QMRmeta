@@ -40,21 +40,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description = "This tool match the OTUs for filtered and unfiltered unique reads")
     # dereped input
     parser.add_argument("-d","--dereped_input", help = "dereplicated, quality filtered input file", metavar = "INPUT.fasta/INPUT.fa")
-    # extract filename
     # otu before input
     parser.add_argument("-b","--otu_bef", help = "OTUs for unfiltered(but quality filtered and dereplcated) reads", metavar = "OTU_bef.fasta")
-    # output file name with default
+    # output file path with default
     parser.add_argument("-o","--output", help = "output directory (default is current directory)", default = "./", metavar = "OUTPUTFILENAME")# output
     # otu after input
     parser.add_argument("-a","--otu_aft", help = "OTUs for filtered reads", metavar = "OTU_aft.fasta")# 
     parser.add_argument("-id","--id_otu", help = "identity for OTU clustering, e.g. for 3%% clustering should input 0.97",metavar = "float", default = "0.97" )
     args = parser.parse_args()
-
-    # filename = os.path.splitext(os.path.basename(args.input))[0]
-    ## potentially can add switch to each function?
-    #check the inputfile and options:
-    # if os.path.getsize(args.dereped_input) == 0:# in input have contents
-    #     sys.exit("Error: dereped_input file is empty")
     #
     print("START generating maps for analysis")
     # OTU_before mapping
@@ -75,7 +68,7 @@ if __name__ == "__main__":
     otu_map = "[tmp]OTUs_map.txt"
     # 
     # parse the map and match otus
-    print("Parsing and matchin OTUs")
+    print("Parsing and matching OTUs")
     bef_dic = map_to_dic(bef_map)
     aft_dic = map_to_dic(aft_map)
     otu_dic = map_to_dic(otu_map)
