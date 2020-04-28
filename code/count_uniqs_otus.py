@@ -71,7 +71,7 @@ if __name__ == "__main__":
     #replace uniqs in sample_uniq_dic with OTU_bef
     sample_befOTU_dic = {}
     for k in sample_uniqs_dic:
-        sample_befOTU_dic[k] = replace(sample_uniqs_dic[k],bef_dic)
+        sample_befOTU_dic[k] = replace(sample_uniqs_dic[k],bef_dic) # What happens if a uniq in the list isn't a key in the bef_dic
     #
     #replace uniqs in sample_uniq_dic with OTU_aft
     sample_aftOTU_dic = {}
