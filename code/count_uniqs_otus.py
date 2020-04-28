@@ -62,11 +62,10 @@ if __name__ == "__main__":
     # 3. How many bef_otus?
     # 4. How many uniqs match to aft_otus?
     # 5. How many aft_otus?
-    
-    
-    
-    
-    
+    # 6. How many uniqs match to bef_otus and/or aft_otus?
+    # 7. How many uniqs match to bef_otus AND aft_otus?
+    # 8. How many uniqs do not match to either?
+    # 9. How many unique OTUs are there in total (i.e. need to use a mapping of aft_otus to bef_otus)   
     
     
     #extract dic from origin map
