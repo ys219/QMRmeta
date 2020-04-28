@@ -56,6 +56,19 @@ if __name__ == "__main__":
     # parser.add_argument("-id","--id_otu", help = "identity for OTU clustering, e.g. for 3%% clustering should input 0.97",metavar = "float", default = "0.97" )
     args = parser.parse_args()
     #
+    # FOR EACH SAMPLE:
+    # 1. How many total uniqs?
+    # 2. How many uniqs match to bef_otus?
+    # 3. How many bef_otus?
+    # 4. How many uniqs match to aft_otus?
+    # 5. How many aft_otus?
+    
+    
+    
+    
+    
+    
+    
     #extract dic from origin map
     # oringin_map = open(args.sample_dereped_input,"r")
     sample_uniqs_dic = extract_multiple_dictionary(args.sample_dereped_input)
