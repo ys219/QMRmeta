@@ -57,7 +57,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     #
     # FOR EACH SAMPLE:
-    # 0. HOW MANY READS match to a uniq?
+    # 0. HOW MANY READS match to a uniq? i.e. len of value of sample_uniqs_dic
     # 1. How many total uniqs?
     # 2. How many uniqs match to bef_otus?
     # 3. How many bef_otus?
