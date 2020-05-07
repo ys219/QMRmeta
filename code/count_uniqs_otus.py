@@ -65,6 +65,12 @@ def replace_retain(in_list,dictionary):
     rep_list = [dictionary[x] if x in dictionary else x for x in in_list]
     return rep_list
 
+def check_exist(in_list,dictionary):
+    """check if values are in the given dictionary
+    and ignore any thing not in dictionary"""
+    out_list = [x for x in in_list if x in dictionary]
+    return out_list
+
 # def check_or_exist(index_dic,check_dic_1,check_dic_2):
 #     out_dic = {}
 #     for k in index_dic:
@@ -150,11 +156,12 @@ if __name__ == "__main__":
     sample_aftOTU_dic = {}
     for k in sample_uniqs_dic:
         sample_aftOTU_dic[k] = replace_ignore(sample_uniqs_dic[k],aft_dic)
+    ### for OTU nor
     # before move on:
     sample_m_befOTU_dic = {}
     for k in sample_uniqs_dic:
         sample_m_befOTU_dic[k] = replace_missing(sample_uniqs_dic[k],bef_dic)
-        # before move on:
+    #
     sample_m_aftOTU_dic = {}
     for k in sample_uniqs_dic:
         sample_m_aftOTU_dic[k] = replace_missing(sample_uniqs_dic[k],aft_dic)
@@ -164,22 +171,25 @@ if __name__ == "__main__":
     sample_bef_count_dic = get_u_len(sample_befOTU_dic)#3
     u_aft_count_dic = get_len(sample_aftOTU_dic)#4
     sample_aft_count_dic = get_u_len(sample_aftOTU_dic)#5
-    #6 8
+    #6 7 8
+    u_OTU_and = {}
     u_OTU_or = {}#6 empty dic
     # u_OTU_and = {}
     u_OTU_nor = {}#8
     #
     for k in sample_uniqs_dic:## fill in dictionaries
-        u_OTU_or[k] = len(sample_befOTU_dic[k]+sample_aftOTU_dic[k])
-        u_OTU_nor[k] = len(sample_m_befOTU_dic[k]+sample_m_aftOTU_dic[k])
+        tmp = check_exist(sample_uniqs_dic[k],bef_dic) + check_exist(sample_uniqs_dic[k],aft_dic)
+        u_OTU_and[k] = len(set([x for x in tmp if tmp.count(x) > 1 ]))
+        u_OTU_or[k] = len(set(tmp))
+        u_OTU_nor[k] = sample_uniqs_count_dic[k]- u_OTU_or[k]
         # if sample_befOTU_dic[k] != [] and sample_aftOTU_dic[k] != []:
-        #     u_OTU_and[k] = len(sample_befOTU_dic[k]+sample_aftOTU_dic[k])
+        #     u_OTU_and[k] = len(sample_befOTU_dic[k]+sample_aftOTU_dic[k])[]
     #9
     master_OTUs = {}
     for k in sample_befOTU_dic:
         sample_befOTU_dic[k] = replace_retain(sample_befOTU_dic[k],otu_match_dic)
         master_OTUs[k] = len(set(sample_befOTU_dic[k]+sample_aftOTU_dic[k]))
-    out_df = pd.DataFrame([reads_count_dic, sample_uniqs_count_dic, u_bef_count_dic, sample_bef_count_dic, u_aft_count_dic, sample_aft_count_dic, u_OTU_or, u_OTU_nor, master_OTUs ],index = ["reads","uniqs","uniqs_in_bef_OTU","bef_OTU","uniqs_in_aft_OTU","aft_OTU","Got_a_OTU(inv)","uniqs_got_nor","master_OTU"])
+    out_df = pd.DataFrame([reads_count_dic, sample_uniqs_count_dic, u_bef_count_dic, sample_bef_count_dic, u_aft_count_dic, sample_aft_count_dic, u_OTU_or, u_OTU_and, u_OTU_nor, master_OTUs ],index = ["reads","uniqs","uniqs_in_bef_OTU","bef_OTU","uniqs_in_aft_OTU","aft_OTU","Got_a_OTU","Got_both","Got_nor","master_OTU"])
     #
     out_df.T.to_csv(args.output,index=True)
-    exit()
+    # exit()
