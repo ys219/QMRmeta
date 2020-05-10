@@ -1,0 +1,1148 @@
+"","seqname","seqset","plate.x","well.x","location.x","trap.x","sizeclass.x","label.x","bodypart.x","nparts.x","unrarereads","Tag.number","tagF","tagR"
+"1","RNMB_Foping_BS_P1_tag21_A1",2,NA,"A1","Foping","FIT",3,"FP_MT_4-1_1+J2:J67","head",25,2395,"tag21","CAAGCA","CAAGCA"
+"2","RNMB_Foping_BS_P1_tag21_A10",2,NA,"A10","Foping","Pit",3,"FP_Pit3-1","leg",101,563,"tag21","CAAGCA","CAAGCA"
+"3","RNMB_Foping_BS_P1_tag21_A11",2,NA,"A11","Foping","FIT",5,"FP_FIT5-1_7","whole body",25,12077,"tag21","CAAGCA","CAAGCA"
+"4","RNMB_Foping_BS_P1_tag21_A12",2,NA,"A12","Foping","FIT",5,"FP_FIT5-2_7","whole body",50,6529,"tag21","CAAGCA","CAAGCA"
+"5","RNMB_Foping_BS_P1_tag21_A2",2,NA,"A2","Foping","FIT",3,"FP_FIT3-1_9","head",25,1138,"tag21","CAAGCA","CAAGCA"
+"6","RNMB_Foping_BS_P1_tag21_A3",2,NA,"A3","Foping","FIT",3,"FP_FIT3-1_17","head",25,51620,"tag21","CAAGCA","CAAGCA"
+"7","RNMB_Foping_BS_P1_tag21_A4",2,NA,"A4","Foping","FIT",3,"FP_FIT3-1_25","head",25,38517,"tag21","CAAGCA","CAAGCA"
+"8","RNMB_Foping_BS_P1_tag21_A5",2,NA,"A5","Foping","FIT",3,"FP_FIT3-1_33","head",25,31372,"tag21","CAAGCA","CAAGCA"
+"9","RNMB_Foping_BS_P1_tag21_A6",2,NA,"A6","Foping","FIT",3,"FP_FIT3-1_41","head",25,1260,"tag21","CAAGCA","CAAGCA"
+"10","RNMB_Foping_BS_P1_tag21_A7",2,NA,"A7","Foping","FIT",4,"FP_FIT4-2_8","head and thorax",50,22755,"tag21","CAAGCA","CAAGCA"
+"11","RNMB_Foping_BS_P1_tag21_A8",2,NA,"A8","Foping","FIT",4,"FP_FIT4-2_16","head and thorax",50,36,"tag21","CAAGCA","CAAGCA"
+"12","RNMB_Foping_BS_P1_tag21_A9",2,NA,"A9","Foping","FIT",1,"FP_FIT1-1","leg",25,990,"tag21","CAAGCA","CAAGCA"
+"13","RNMB_Foping_BS_P1_tag21_B1",2,NA,"B1","Foping","FIT",3,"FP_FIT3-1_2","head",25,9134,"tag21","CAAGCA","CAAGCA"
+"14","RNMB_Foping_BS_P1_tag21_B10",2,NA,"B10","Foping","Pit",4,"FP_Pit4-1_1","head",68,60,"tag21","CAAGCA","CAAGCA"
+"15","RNMB_Foping_BS_P1_tag21_B11",2,NA,"B11","Foping","FIT",5,"FP_FIT5-1_8","whole body",25,57,"tag21","CAAGCA","CAAGCA"
+"16","RNMB_Foping_BS_P1_tag21_B12",2,NA,"B12","Foping","FIT",5,"FP_FIT5-1_8","whole body",50,1526,"tag21","CAAGCA","CAAGCA"
+"17","RNMB_Foping_BS_P1_tag21_B2",2,NA,"B2","Foping","FIT",3,"FP_FIT3-1_10","head",25,249,"tag21","CAAGCA","CAAGCA"
+"18","RNMB_Foping_BS_P1_tag21_B3",2,NA,"B3","Foping","FIT",3,"FP_FIT3-1_18","head",25,4049,"tag21","CAAGCA","CAAGCA"
+"19","RNMB_Foping_BS_P1_tag21_B4",2,NA,"B4","Foping","FIT",3,"FP_FIT3-1_26","head",25,25482,"tag21","CAAGCA","CAAGCA"
+"20","RNMB_Foping_BS_P1_tag21_B5",2,NA,"B5","Foping","FIT",3,"FP_FIT3-1_34","head",25,2885,"tag21","CAAGCA","CAAGCA"
+"21","RNMB_Foping_BS_P1_tag21_B6",2,NA,"B6","Foping","FIT",4,"FP_FIT4-2_1","head and thorax",50,51,"tag21","CAAGCA","CAAGCA"
+"22","RNMB_Foping_BS_P1_tag21_B7",2,NA,"B7","Foping","FIT",4,"FP_FIT4-2_9","head and thorax",50,21198,"tag21","CAAGCA","CAAGCA"
+"23","RNMB_Foping_BS_P1_tag21_B8",2,NA,"B8","Foping","FIT",4,"FP_FIT4-2_17","head and thorax",50,7278,"tag21","CAAGCA","CAAGCA"
+"24","RNMB_Foping_BS_P1_tag21_B9",2,NA,"B9","Foping","FIT",1,"FP_FIT1-2","leg",16,156,"tag21","CAAGCA","CAAGCA"
+"25","RNMB_Foping_BS_P1_tag21_C1",2,NA,"C1","Foping","FIT",3,"FP_FIT3-1_3","head",25,1553,"tag21","CAAGCA","CAAGCA"
+"26","RNMB_Foping_BS_P1_tag21_C10",2,NA,"C10","Foping","FIT",5,"FP_FIT5-1_1","whole body",25,636,"tag21","CAAGCA","CAAGCA"
+"27","RNMB_Foping_BS_P1_tag21_C11",2,NA,"C11","Foping","FIT",5,"FP_FIT5-2_1","whole body",50,7554,"tag21","CAAGCA","CAAGCA"
+"28","RNMB_Foping_BS_P1_tag21_C12",2,NA,"C12","Foping","FIT",5,"FP_FIT5-2_8","whole body",50,11713,"tag21","CAAGCA","CAAGCA"
+"29","RNMB_Foping_BS_P1_tag21_C2",2,NA,"C2","Foping","FIT",3,"FP_FIT3-1_11","head",25,401,"tag21","CAAGCA","CAAGCA"
+"30","RNMB_Foping_BS_P1_tag21_C3",2,NA,"C3","Foping","FIT",3,"FP_FIT3-1_19","head",25,1333,"tag21","CAAGCA","CAAGCA"
+"31","RNMB_Foping_BS_P1_tag21_C4",2,NA,"C4","Foping","FIT",3,"FP_FIT3-1_27","head",25,1251,"tag21","CAAGCA","CAAGCA"
+"32","RNMB_Foping_BS_P1_tag21_C5",2,NA,"C5","Foping","FIT",3,"FP_FIT3-1_35","head",25,974,"tag21","CAAGCA","CAAGCA"
+"33","RNMB_Foping_BS_P1_tag21_C6",2,NA,"C6","Foping","FIT",4,"FP_FIT4-2_2","head and thorax",50,111,"tag21","CAAGCA","CAAGCA"
+"34","RNMB_Foping_BS_P1_tag21_C7",2,NA,"C7","Foping","FIT",4,"FP_FIT4-2_10","head and thorax",50,7594,"tag21","CAAGCA","CAAGCA"
+"35","RNMB_Foping_BS_P1_tag21_C8",2,NA,"C8","Foping","FIT",4,"FP_FIT4-2_18","head and thorax",50,4247,"tag21","CAAGCA","CAAGCA"
+"36","RNMB_Foping_BS_P1_tag21_C9",2,NA,"C9","Foping","MT",4,"FP_MT_4-1_1","head and thorax",50,6368,"tag21","CAAGCA","CAAGCA"
+"37","RNMB_Foping_BS_P1_tag21_D1",2,NA,"D1","Foping","FIT",3,"FP_FIT3-1_4","head",25,1871,"tag21","CAAGCA","CAAGCA"
+"38","RNMB_Foping_BS_P1_tag21_D10",2,NA,"D10","Foping","FIT",5,"FP_FIT5-1_2","whole body",25,184,"tag21","CAAGCA","CAAGCA"
+"39","RNMB_Foping_BS_P1_tag21_D11",2,NA,"D11","Foping","FIT",5,"FP_FIT5-2_2","whole body",50,13692,"tag21","CAAGCA","CAAGCA"
+"40","RNMB_Foping_BS_P1_tag21_D12",2,NA,"D12","Foping","FIT",5,"FP_FIT5-2_9","whole body",50,20625,"tag21","CAAGCA","CAAGCA"
+"41","RNMB_Foping_BS_P1_tag21_D2",2,NA,"D2","Foping","FIT",3,"FP_FIT3-1_12","head",25,79,"tag21","CAAGCA","CAAGCA"
+"42","RNMB_Foping_BS_P1_tag21_D3",2,NA,"D3","Foping","FIT",3,"FP_FIT3-1_20","head",25,652,"tag21","CAAGCA","CAAGCA"
+"43","RNMB_Foping_BS_P1_tag21_D4",2,NA,"D4","Foping","FIT",3,"FP_FIT3-1_28","head",25,1944,"tag21","CAAGCA","CAAGCA"
+"44","RNMB_Foping_BS_P1_tag21_D5",2,NA,"D5","Foping","FIT",3,"FP_FIT3-1_36","head",25,1277,"tag21","CAAGCA","CAAGCA"
+"45","RNMB_Foping_BS_P1_tag21_D6",2,NA,"D6","Foping","FIT",4,"FP_FIT4-2_3","head and thorax",50,75,"tag21","CAAGCA","CAAGCA"
+"46","RNMB_Foping_BS_P1_tag21_D7",2,NA,"D7","Foping","FIT",4,"FP_FIT4-2_11","head and thorax",50,1287,"tag21","CAAGCA","CAAGCA"
+"47","RNMB_Foping_BS_P1_tag21_D8",2,NA,"D8","Foping","FIT",4,"FP_FIT4-2_19","head and thorax",50,900,"tag21","CAAGCA","CAAGCA"
+"48","RNMB_Foping_BS_P1_tag21_D9",2,NA,"D9","Foping","L/N",2,"FP_L/N_2-1","leg",100,13509,"tag21","CAAGCA","CAAGCA"
+"49","RNMB_Foping_BS_P1_tag21_E1",2,NA,"E1","Foping","FIT",3,"FP_FIT3-1_5","head",25,274,"tag21","CAAGCA","CAAGCA"
+"50","RNMB_Foping_BS_P1_tag21_E10",2,NA,"E10","Foping","FIT",5,"FP_FIT5-1_3","whole body",25,4964,"tag21","CAAGCA","CAAGCA"
+"51","RNMB_Foping_BS_P1_tag21_E11",2,NA,"E11","Foping","FIT",5,"FP_FIT5-2_3","whole body",50,5559,"tag21","CAAGCA","CAAGCA"
+"52","RNMB_Foping_BS_P1_tag21_E12",2,NA,"E12","Foping","FIT",5,"FP_FIT5-2_10","whole body",50,7338,"tag21","CAAGCA","CAAGCA"
+"53","RNMB_Foping_BS_P1_tag21_E2",2,NA,"E2","Foping","FIT",3,"FP_FIT3-1_13","head",25,66,"tag21","CAAGCA","CAAGCA"
+"54","RNMB_Foping_BS_P1_tag21_E3",2,NA,"E3","Foping","FIT",3,"FP_FIT3-1_21","head",25,766,"tag21","CAAGCA","CAAGCA"
+"55","RNMB_Foping_BS_P1_tag21_E4",2,NA,"E4","Foping","FIT",3,"FP_FIT3-1_29","head",25,527,"tag21","CAAGCA","CAAGCA"
+"56","RNMB_Foping_BS_P1_tag21_E5",2,NA,"E5","Foping","FIT",3,"FP_FIT3-1_37","head",25,14764,"tag21","CAAGCA","CAAGCA"
+"57","RNMB_Foping_BS_P1_tag21_E6",2,NA,"E6","Foping","FIT",4,"FP_FIT4-2_4","head and thorax",50,757,"tag21","CAAGCA","CAAGCA"
+"58","RNMB_Foping_BS_P1_tag21_E7",2,NA,"E7","Foping","FIT",4,"FP_FIT4-2_12","head and thorax",50,1595,"tag21","CAAGCA","CAAGCA"
+"59","RNMB_Foping_BS_P1_tag21_E8",2,NA,"E8","Foping","FIT",4,"FP_FIT4-2_20","head and thorax",50,5385,"tag21","CAAGCA","CAAGCA"
+"60","RNMB_Foping_BS_P1_tag21_E9",2,NA,"E9","Foping","L/N",2,"FP_L/N_2-2","leg",69,9938,"tag21","CAAGCA","CAAGCA"
+"61","RNMB_Foping_BS_P1_tag21_F1",2,NA,"F1","Foping","FIT",3,"FP_FIT3-1_6","head",25,886,"tag21","CAAGCA","CAAGCA"
+"62","RNMB_Foping_BS_P1_tag21_F10",2,NA,"F10","Foping","FIT",5,"FP_FIT5-1_4","whole body",25,133,"tag21","CAAGCA","CAAGCA"
+"63","RNMB_Foping_BS_P1_tag21_F11",2,NA,"F11","Foping","FIT",5,"FP_FIT5-2_4","whole body",50,5325,"tag21","CAAGCA","CAAGCA"
+"64","RNMB_Foping_BS_P1_tag21_F12",2,NA,"F12","Foping","FIT",5,"FP_FIT5-2_11","whole body",50,1107,"tag21","CAAGCA","CAAGCA"
+"65","RNMB_Foping_BS_P1_tag21_F2",2,NA,"F2","Foping","FIT",3,"FP_FIT3-1_14","head",25,288,"tag21","CAAGCA","CAAGCA"
+"66","RNMB_Foping_BS_P1_tag21_F3",2,NA,"F3","Foping","FIT",3,"FP_FIT3-1_22","head",25,2579,"tag21","CAAGCA","CAAGCA"
+"67","RNMB_Foping_BS_P1_tag21_F4",2,NA,"F4","Foping","FIT",3,"FP_FIT3-1_30","head",25,7837,"tag21","CAAGCA","CAAGCA"
+"68","RNMB_Foping_BS_P1_tag21_F5",2,NA,"F5","Foping","FIT",3,"FP_FIT3-1_38","head",25,3901,"tag21","CAAGCA","CAAGCA"
+"69","RNMB_Foping_BS_P1_tag21_F6",2,NA,"F6","Foping","FIT",4,"FP_FIT4-2_5","head and thorax",50,304,"tag21","CAAGCA","CAAGCA"
+"70","RNMB_Foping_BS_P1_tag21_F7",2,NA,"F7","Foping","FIT",4,"FP_FIT4-2_13","head and thorax",50,2054,"tag21","CAAGCA","CAAGCA"
+"71","RNMB_Foping_BS_P1_tag21_F8",2,NA,"F8","Foping","FIT",2,"FP_FIT2-1_3","leg",35,8941,"tag21","CAAGCA","CAAGCA"
+"72","RNMB_Foping_BS_P1_tag21_F9",2,NA,"F9","Foping","Pit",1,"FP_Pit1-1","leg",17,2460,"tag21","CAAGCA","CAAGCA"
+"73","RNMB_Foping_BS_P1_tag21_G1",2,NA,"G1","Foping","FIT",3,"FP_FIT3-1_7","head",25,576,"tag21","CAAGCA","CAAGCA"
+"74","RNMB_Foping_BS_P1_tag21_G10",2,NA,"G10","Foping","FIT",5,"FP_FIT5-1_5","whole body",25,681,"tag21","CAAGCA","CAAGCA"
+"75","RNMB_Foping_BS_P1_tag21_G11",2,NA,"G11","Foping","FIT",5,"FP_FIT5-2_5","whole body",50,19658,"tag21","CAAGCA","CAAGCA"
+"76","RNMB_Foping_BS_P1_tag21_G12",2,NA,"G12","Foping","FIT",5,"FP_FIT5-2_12","whole body",50,4510,"tag21","CAAGCA","CAAGCA"
+"77","RNMB_Foping_BS_P1_tag21_G2",2,NA,"G2","Foping","FIT",3,"FP_FIT3-1_15","head",25,176,"tag21","CAAGCA","CAAGCA"
+"78","RNMB_Foping_BS_P1_tag21_G3",2,NA,"G3","Foping","FIT",3,"FP_FIT3-1_23","head",25,896,"tag21","CAAGCA","CAAGCA"
+"79","RNMB_Foping_BS_P1_tag21_G4",2,NA,"G4","Foping","FIT",3,"FP_FIT3-1_31","head",25,9901,"tag21","CAAGCA","CAAGCA"
+"80","RNMB_Foping_BS_P1_tag21_G5",2,NA,"G5","Foping","FIT",3,"FP_FIT3-1_39","head",25,1143,"tag21","CAAGCA","CAAGCA"
+"81","RNMB_Foping_BS_P1_tag21_G6",2,NA,"G6","Foping","FIT",4,"FP_FIT4-2_6","head and thorax",50,1685,"tag21","CAAGCA","CAAGCA"
+"82","RNMB_Foping_BS_P1_tag21_G7",2,NA,"G7","Foping","FIT",4,"FP_FIT4-2_14","head and thorax",50,8945,"tag21","CAAGCA","CAAGCA"
+"83","RNMB_Foping_BS_P1_tag21_G8",2,NA,"G8","Foping","FIT",2,"FP_FIT2-1_4","head",25,19178,"tag21","CAAGCA","CAAGCA"
+"84","RNMB_Foping_BS_P1_tag21_G9",2,NA,"G9","Foping","Pit",1,"FP_Pit1-2","leg",25,10177,"tag21","CAAGCA","CAAGCA"
+"85","RNMB_Foping_BS_P1_tag21_H1",2,NA,"H1","Foping","FIT",3,"FP_FIT3-1_8","head",25,1942,"tag21","CAAGCA","CAAGCA"
+"86","RNMB_Foping_BS_P1_tag21_H10",2,NA,"H10","Foping","FIT",5,"FP_FIT5-1_6","whole body",25,18631,"tag21","CAAGCA","CAAGCA"
+"87","RNMB_Foping_BS_P1_tag21_H11",2,NA,"H11","Foping","FIT",5,"FP_FIT5-2_6","whole body",50,13529,"tag21","CAAGCA","CAAGCA"
+"88","RNMB_Foping_BS_P1_tag21_H12",2,NA,"H12","Foping","FIT",5,"FP_FIT5-2_13","whole body",50,1228,"tag21","CAAGCA","CAAGCA"
+"89","RNMB_Foping_BS_P1_tag21_H2",2,NA,"H2","Foping","FIT",3,"FP_FIT3-1_16","head",25,527,"tag21","CAAGCA","CAAGCA"
+"90","RNMB_Foping_BS_P1_tag21_H3",2,NA,"H3","Foping","FIT",3,"FP_FIT3-1_24","head",25,4936,"tag21","CAAGCA","CAAGCA"
+"91","RNMB_Foping_BS_P1_tag21_H4",2,NA,"H4","Foping","FIT",3,"FP_FIT3-1_32","head",25,25836,"tag21","CAAGCA","CAAGCA"
+"92","RNMB_Foping_BS_P1_tag21_H5",2,NA,"H5","Foping","FIT",3,"FP_FIT3-1_40","head",25,8788,"tag21","CAAGCA","CAAGCA"
+"93","RNMB_Foping_BS_P1_tag21_H6",2,NA,"H6","Foping","FIT",4,"FP_FIT4-2_7","head and thorax",50,2997,"tag21","CAAGCA","CAAGCA"
+"94","RNMB_Foping_BS_P1_tag21_H7",2,NA,"H7","Foping","FIT",4,"FP_FIT4-2_15","head and thorax",50,1883,"tag21","CAAGCA","CAAGCA"
+"95","RNMB_Foping_BS_P1_tag21_H8",2,NA,"H8","Foping","FIT",2,"FP_FIT2-1_1","leg",50,6558,"tag21","CAAGCA","CAAGCA"
+"96","RNMB_Foping_BS_P1_tag21_H9",2,NA,"H9","Foping","Pit",2,"FP_Pit2-1","leg",44,2155,"tag21","CAAGCA","CAAGCA"
+"97","RNMB_Foping_BS_P2_tag24_A1",2,NA,"A1","Foping","FIT",5,"FP_FIT5-2_14","whole body",50,1397,"tag24","CAGGAT","CAGGAT"
+"98","RNMB_Foping_BS_P2_tag24_A10",2,NA,"A10","Foping","FIT",6,"FP_FIT6-29","whole body",50,697,"tag24","CAGGAT","CAGGAT"
+"99","RNMB_Foping_BS_P2_tag24_A11",2,NA,"A11","Foping","FIT",6,"FP_FIT6-37","whole body",50,7817,"tag24","CAGGAT","CAGGAT"
+"100","RNMB_Foping_BS_P2_tag24_A12",2,NA,"A12","Foping","FIT",6,"FP_FIT6-45","whole body",50,7091,"tag24","CAGGAT","CAGGAT"
+"101","RNMB_Foping_BS_P2_tag24_A2",2,NA,"A2","Foping","FIT",5,"FP_FIT5-2_22","whole body",50,442,"tag24","CAGGAT","CAGGAT"
+"102","RNMB_Foping_BS_P2_tag24_A3",2,NA,"A3","Foping","FIT",5,"FP_FIT5-3_5","whole body",50,76437,"tag24","CAGGAT","CAGGAT"
+"103","RNMB_Foping_BS_P2_tag24_A4",2,NA,"A4","Foping","FIT",5,"FP_FIT5-3_13","whole body",50,28670,"tag24","CAGGAT","CAGGAT"
+"104","RNMB_Foping_BS_P2_tag24_A5",2,NA,"A5","Foping","FIT",5,"FP_FIT5-3_21","whole body",50,14566,"tag24","CAGGAT","CAGGAT"
+"105","RNMB_Foping_BS_P2_tag24_A6",2,NA,"A6","Foping","FIT",5,"FP_FIT5-3_29","whole body",50,205,"tag24","CAGGAT","CAGGAT"
+"106","RNMB_Foping_BS_P2_tag24_A7",2,NA,"A7","Foping","FIT",6,"FP_FIT6-5","whole body",50,24886,"tag24","CAGGAT","CAGGAT"
+"107","RNMB_Foping_BS_P2_tag24_A8",2,NA,"A8","Foping","FIT",6,"FP_FIT6-13","whole body",50,53,"tag24","CAGGAT","CAGGAT"
+"108","RNMB_Foping_BS_P2_tag24_A9",2,NA,"A9","Foping","FIT",6,"FP_FIT6-21","whole body",50,961,"tag24","CAGGAT","CAGGAT"
+"109","RNMB_Foping_BS_P2_tag24_B1",2,NA,"B1","Foping","FIT",5,"FP_FIT5-2_15","whole body",50,1568,"tag24","CAGGAT","CAGGAT"
+"110","RNMB_Foping_BS_P2_tag24_B10",2,NA,"B10","Foping","FIT",6,"FP_FIT6-30","whole body",50,87,"tag24","CAGGAT","CAGGAT"
+"111","RNMB_Foping_BS_P2_tag24_B11",2,NA,"B11","Foping","FIT",6,"FP_FIT6-38","whole body",50,86,"tag24","CAGGAT","CAGGAT"
+"112","RNMB_Foping_BS_P2_tag24_B12",2,NA,"B12","Foping","FIT",6,"FP_FIT6-46","whole body",50,804,"tag24","CAGGAT","CAGGAT"
+"113","RNMB_Foping_BS_P2_tag24_B2",2,NA,"B2","Foping","FIT",5,"FP_FIT5-2_23","whole body",50,113,"tag24","CAGGAT","CAGGAT"
+"114","RNMB_Foping_BS_P2_tag24_B3",2,NA,"B3","Foping","FIT",5,"FP_FIT5-3_6","whole body",50,1835,"tag24","CAGGAT","CAGGAT"
+"115","RNMB_Foping_BS_P2_tag24_B4",2,NA,"B4","Foping","FIT",5,"FP_FIT5-3_14","whole body",50,12454,"tag24","CAGGAT","CAGGAT"
+"116","RNMB_Foping_BS_P2_tag24_B5",2,NA,"B5","Foping","FIT",5,"FP_FIT5-3_22","whole body",50,497,"tag24","CAGGAT","CAGGAT"
+"117","RNMB_Foping_BS_P2_tag24_B6",2,NA,"B6","Foping","FIT",5,"FP_FIT5-3_30","whole body",50,75,"tag24","CAGGAT","CAGGAT"
+"118","RNMB_Foping_BS_P2_tag24_B7",2,NA,"B7","Foping","FIT",6,"FP_FIT6-6","whole body",50,12699,"tag24","CAGGAT","CAGGAT"
+"119","RNMB_Foping_BS_P2_tag24_B8",2,NA,"B8","Foping","FIT",6,"FP_FIT6-14","whole body",50,5852,"tag24","CAGGAT","CAGGAT"
+"120","RNMB_Foping_BS_P2_tag24_B9",2,NA,"B9","Foping","FIT",6,"FP_FIT6-22","whole body",50,149,"tag24","CAGGAT","CAGGAT"
+"121","RNMB_Foping_BS_P2_tag24_C1",2,NA,"C1","Foping","FIT",5,"FP_FIT5-2_16","whole body",50,387,"tag24","CAGGAT","CAGGAT"
+"122","RNMB_Foping_BS_P2_tag24_C10",2,NA,"C10","Foping","FIT",6,"FP_FIT6-31","whole body",50,475,"tag24","CAGGAT","CAGGAT"
+"123","RNMB_Foping_BS_P2_tag24_C11",2,NA,"C11","Foping","FIT",6,"FP_FIT6-39","whole body",50,10523,"tag24","CAGGAT","CAGGAT"
+"124","RNMB_Foping_BS_P2_tag24_C12",2,NA,"C12","Foping","FIT",6,"FP_FIT6-47","whole body",50,9986,"tag24","CAGGAT","CAGGAT"
+"125","RNMB_Foping_BS_P2_tag24_C2",2,NA,"C2","Foping","FIT",5,"FP_FIT5-2_24","whole body",50,74,"tag24","CAGGAT","CAGGAT"
+"126","RNMB_Foping_BS_P2_tag24_C3",2,NA,"C3","Foping","FIT",5,"FP_FIT5-3_7","whole body",50,364,"tag24","CAGGAT","CAGGAT"
+"127","RNMB_Foping_BS_P2_tag24_C4",2,NA,"C4","Foping","FIT",5,"FP_FIT5-3_15","whole body",50,205,"tag24","CAGGAT","CAGGAT"
+"128","RNMB_Foping_BS_P2_tag24_C5",2,NA,"C5","Foping","FIT",5,"FP_FIT5-3_23","whole body",50,163,"tag24","CAGGAT","CAGGAT"
+"129","RNMB_Foping_BS_P2_tag24_C6",2,NA,"C6","Foping","FIT",5,"FP_FIT5-3_31","whole body",50,392,"tag24","CAGGAT","CAGGAT"
+"130","RNMB_Foping_BS_P2_tag24_C7",2,NA,"C7","Foping","FIT",6,"FP_FIT6-7","whole body",50,19453,"tag24","CAGGAT","CAGGAT"
+"131","RNMB_Foping_BS_P2_tag24_C8",2,NA,"C8","Foping","FIT",6,"FP_FIT6-15","whole body",50,6800,"tag24","CAGGAT","CAGGAT"
+"132","RNMB_Foping_BS_P2_tag24_C9",2,NA,"C9","Foping","FIT",6,"FP_FIT6-23","whole body",50,3806,"tag24","CAGGAT","CAGGAT"
+"133","RNMB_Foping_BS_P2_tag24_D1",2,NA,"D1","Foping","FIT",5,"FP_FIT5-2_17","whole body",50,265,"tag24","CAGGAT","CAGGAT"
+"134","RNMB_Foping_BS_P2_tag24_D10",2,NA,"D10","Foping","FIT",6,"FP_FIT6-32","whole body",50,260,"tag24","CAGGAT","CAGGAT"
+"135","RNMB_Foping_BS_P2_tag24_D11",2,NA,"D11","Foping","FIT",6,"FP_FIT6-40","whole body",50,19861,"tag24","CAGGAT","CAGGAT"
+"136","RNMB_Foping_BS_P2_tag24_D12",2,NA,"D12","Foping","FIT",6,"FP_FIT6-48","whole body",50,16375,"tag24","CAGGAT","CAGGAT"
+"137","RNMB_Foping_BS_P2_tag24_D2",2,NA,"D2","Foping","FIT",5,"FP_FIT5-2_25","whole body",50,62,"tag24","CAGGAT","CAGGAT"
+"138","RNMB_Foping_BS_P2_tag24_D3",2,NA,"D3","Foping","FIT",5,"FP_FIT5-3_8","whole body",50,104,"tag24","CAGGAT","CAGGAT"
+"139","RNMB_Foping_BS_P2_tag24_D4",2,NA,"D4","Foping","FIT",5,"FP_FIT5-3_16","whole body",50,274,"tag24","CAGGAT","CAGGAT"
+"140","RNMB_Foping_BS_P2_tag24_D5",2,NA,"D5","Foping","FIT",5,"FP_FIT5-3_24","whole body",50,196,"tag24","CAGGAT","CAGGAT"
+"141","RNMB_Foping_BS_P2_tag24_D6",2,NA,"D6","Foping","FIT",5,"FP_FIT5-3_32","whole body",50,277,"tag24","CAGGAT","CAGGAT"
+"142","RNMB_Foping_BS_P2_tag24_D7",2,NA,"D7","Foping","FIT",6,"FP_FIT6-8","whole body",50,1257,"tag24","CAGGAT","CAGGAT"
+"143","RNMB_Foping_BS_P2_tag24_D8",2,NA,"D8","Foping","FIT",6,"FP_FIT6-16","whole body",50,868,"tag24","CAGGAT","CAGGAT"
+"144","RNMB_Foping_BS_P2_tag24_D9",2,NA,"D9","Foping","FIT",6,"FP_FIT6-24","whole body",50,14111,"tag24","CAGGAT","CAGGAT"
+"145","RNMB_Foping_BS_P2_tag24_E1",2,NA,"E1","Foping","FIT",5,"FP_FIT5-2_18","whole body",50,78,"tag24","CAGGAT","CAGGAT"
+"146","RNMB_Foping_BS_P2_tag24_E10",2,NA,"E10","Foping","FIT",6,"FP_FIT6-33","whole body",50,3173,"tag24","CAGGAT","CAGGAT"
+"147","RNMB_Foping_BS_P2_tag24_E11",2,NA,"E11","Foping","FIT",6,"FP_FIT6-41","whole body",50,4911,"tag24","CAGGAT","CAGGAT"
+"148","RNMB_Foping_BS_P2_tag24_E12",2,NA,"E12","Foping","FIT",6,"FP_FIT6-49","whole body",12,5088,"tag24","CAGGAT","CAGGAT"
+"149","RNMB_Foping_BS_P2_tag24_E2",2,NA,"E2","Foping","FIT",5,"FP_FIT5-3_1","whole body",50,50,"tag24","CAGGAT","CAGGAT"
+"150","RNMB_Foping_BS_P2_tag24_E3",2,NA,"E3","Foping","FIT",5,"FP_FIT5-3_9","whole body",50,160,"tag24","CAGGAT","CAGGAT"
+"151","RNMB_Foping_BS_P2_tag24_E4",2,NA,"E4","Foping","FIT",5,"FP_FIT5-3_17","whole body",50,147,"tag24","CAGGAT","CAGGAT"
+"152","RNMB_Foping_BS_P2_tag24_E5",2,NA,"E5","Foping","FIT",5,"FP_FIT5-3_25","whole body",50,12183,"tag24","CAGGAT","CAGGAT"
+"153","RNMB_Foping_BS_P2_tag24_E6",2,NA,"E6","Foping","FIT",6,"FP_FIT6-1","whole body",50,595,"tag24","CAGGAT","CAGGAT"
+"154","RNMB_Foping_BS_P2_tag24_E7",2,NA,"E7","Foping","FIT",6,"FP_FIT6-9","whole body",50,2459,"tag24","CAGGAT","CAGGAT"
+"155","RNMB_Foping_BS_P2_tag24_E8",2,NA,"E8","Foping","FIT",6,"FP_FIT6-17","whole body",50,7374,"tag24","CAGGAT","CAGGAT"
+"156","RNMB_Foping_BS_P2_tag24_E9",2,NA,"E9","Foping","FIT",6,"FP_FIT6-25","whole body",50,11700,"tag24","CAGGAT","CAGGAT"
+"157","RNMB_Foping_BS_P2_tag24_F1",2,NA,"F1","Foping","FIT",5,"FP_FIT5-2_19","whole body",50,157,"tag24","CAGGAT","CAGGAT"
+"158","RNMB_Foping_BS_P2_tag24_F10",2,NA,"F10","Foping","FIT",6,"FP_FIT6-34","whole body",50,122,"tag24","CAGGAT","CAGGAT"
+"159","RNMB_Foping_BS_P2_tag24_F11",2,NA,"F11","Foping","FIT",6,"FP_FIT6-42","whole body",50,19809,"tag24","CAGGAT","CAGGAT"
+"160","RNMB_Foping_BS_P2_tag24_F12",2,NA,"F12","Foping","FIT",7,"FP_FIT7-1","whole body",50,1256,"tag24","CAGGAT","CAGGAT"
+"161","RNMB_Foping_BS_P2_tag24_F2",2,NA,"F2","Foping","FIT",5,"FP_FIT5-3_2","whole body",50,150,"tag24","CAGGAT","CAGGAT"
+"162","RNMB_Foping_BS_P2_tag24_F3",2,NA,"F3","Foping","FIT",5,"FP_FIT5-3_10","whole body",50,1217,"tag24","CAGGAT","CAGGAT"
+"163","RNMB_Foping_BS_P2_tag24_F4",2,NA,"F4","Foping","FIT",5,"FP_FIT5-3_18","whole body",50,1495,"tag24","CAGGAT","CAGGAT"
+"164","RNMB_Foping_BS_P2_tag24_F5",2,NA,"F5","Foping","FIT",5,"FP_FIT5-3_26","whole body",50,2490,"tag24","CAGGAT","CAGGAT"
+"165","RNMB_Foping_BS_P2_tag24_F6",2,NA,"F6","Foping","FIT",6,"FP_FIT6-2","whole body",50,2354,"tag24","CAGGAT","CAGGAT"
+"166","RNMB_Foping_BS_P2_tag24_F7",2,NA,"F7","Foping","FIT",6,"FP_FIT6-10","whole body",50,7296,"tag24","CAGGAT","CAGGAT"
+"167","RNMB_Foping_BS_P2_tag24_F8",2,NA,"F8","Foping","FIT",6,"FP_FIT6-18","whole body",50,7360,"tag24","CAGGAT","CAGGAT"
+"168","RNMB_Foping_BS_P2_tag24_F9",2,NA,"F9","Foping","FIT",6,"FP_FIT6-26","whole body",50,2245,"tag24","CAGGAT","CAGGAT"
+"169","RNMB_Foping_BS_P2_tag24_G1",2,NA,"G1","Foping","FIT",5,"FP_FIT5-2_20","whole body",50,141,"tag24","CAGGAT","CAGGAT"
+"170","RNMB_Foping_BS_P2_tag24_G10",2,NA,"G10","Foping","FIT",6,"FP_FIT6-35","whole body",50,531,"tag24","CAGGAT","CAGGAT"
+"171","RNMB_Foping_BS_P2_tag24_G11",2,NA,"G11","Foping","FIT",6,"FP_FIT6-43","whole body",50,31626,"tag24","CAGGAT","CAGGAT"
+"172","RNMB_Foping_BS_P2_tag24_G12",2,NA,"G12","Foping","FIT",7,"FP_FIT7-2","whole body",50,4752,"tag24","CAGGAT","CAGGAT"
+"173","RNMB_Foping_BS_P2_tag24_G2",2,NA,"G2","Foping","FIT",5,"FP_FIT5-3_3","whole body",50,91,"tag24","CAGGAT","CAGGAT"
+"174","RNMB_Foping_BS_P2_tag24_G3",2,NA,"G3","Foping","FIT",5,"FP_FIT5-3_11","whole body",50,223,"tag24","CAGGAT","CAGGAT"
+"175","RNMB_Foping_BS_P2_tag24_G4",2,NA,"G4","Foping","FIT",5,"FP_FIT5-3_19","whole body",50,3346,"tag24","CAGGAT","CAGGAT"
+"176","RNMB_Foping_BS_P2_tag24_G5",2,NA,"G5","Foping","FIT",5,"FP_FIT5-3_27","whole body",50,550,"tag24","CAGGAT","CAGGAT"
+"177","RNMB_Foping_BS_P2_tag24_G6",2,NA,"G6","Foping","FIT",6,"FP_FIT6-3","whole body",50,3261,"tag24","CAGGAT","CAGGAT"
+"178","RNMB_Foping_BS_P2_tag24_G7",2,NA,"G7","Foping","FIT",6,"FP_FIT6-11","whole body",50,3876,"tag24","CAGGAT","CAGGAT"
+"179","RNMB_Foping_BS_P2_tag24_G8",2,NA,"G8","Foping","FIT",6,"FP_FIT6-19","whole body",50,14548,"tag24","CAGGAT","CAGGAT"
+"180","RNMB_Foping_BS_P2_tag24_G9",2,NA,"G9","Foping","FIT",6,"FP_FIT6-27","whole body",50,19062,"tag24","CAGGAT","CAGGAT"
+"181","RNMB_Foping_BS_P2_tag24_H1",2,NA,"H1","Foping","FIT",5,"FP_FIT5-2_21","whole body",50,725,"tag24","CAGGAT","CAGGAT"
+"182","RNMB_Foping_BS_P2_tag24_H10",2,NA,"H10","Foping","FIT",6,"FP_FIT6-36","whole body",50,11381,"tag24","CAGGAT","CAGGAT"
+"183","RNMB_Foping_BS_P2_tag24_H11",2,NA,"H11","Foping","FIT",6,"FP_FIT6-44","whole body",50,13595,"tag24","CAGGAT","CAGGAT"
+"184","RNMB_Foping_BS_P2_tag24_H12",2,NA,"H12","Foping","FIT",7,"FP_FIT7-3","whole body",50,1152,"tag24","CAGGAT","CAGGAT"
+"185","RNMB_Foping_BS_P2_tag24_H2",2,NA,"H2","Foping","FIT",5,"FP_FIT5-3_4","whole body",50,897,"tag24","CAGGAT","CAGGAT"
+"186","RNMB_Foping_BS_P2_tag24_H3",2,NA,"H3","Foping","FIT",5,"FP_FIT5-3_12","whole body",50,1507,"tag24","CAGGAT","CAGGAT"
+"187","RNMB_Foping_BS_P2_tag24_H4",2,NA,"H4","Foping","FIT",5,"FP_FIT5-3_20","whole body",50,8265,"tag24","CAGGAT","CAGGAT"
+"188","RNMB_Foping_BS_P2_tag24_H5",2,NA,"H5","Foping","FIT",5,"FP_FIT5-3_28","whole body",50,3229,"tag24","CAGGAT","CAGGAT"
+"189","RNMB_Foping_BS_P2_tag24_H6",2,NA,"H6","Foping","FIT",6,"FP_FIT6-4","whole body",50,7104,"tag24","CAGGAT","CAGGAT"
+"190","RNMB_Foping_BS_P2_tag24_H7",2,NA,"H7","Foping","FIT",6,"FP_FIT6-12","whole body",50,2477,"tag24","CAGGAT","CAGGAT"
+"191","RNMB_Foping_BS_P2_tag24_H8",2,NA,"H8","Foping","FIT",6,"FP_FIT6-20","whole body",50,4091,"tag24","CAGGAT","CAGGAT"
+"192","RNMB_Foping_BS_P2_tag24_H9",2,NA,"H9","Foping","FIT",6,"FP_FIT6-28","whole body",50,1324,"tag24","CAGGAT","CAGGAT"
+"193","RNMB_Foping_BS_P3_tag26_A1",2,NA,"A1","Foping","FIT",7,"FP_FIT7-4","whole body",50,407,"tag26","CCGTTA","CCGTTA"
+"194","RNMB_Foping_BS_P3_tag26_A10",2,NA,"A10","Foping","L/N",4,"FP_L/N4-1_1","leg",25,617,"tag26","CCGTTA","CCGTTA"
+"195","RNMB_Foping_BS_P3_tag26_A11",2,NA,"A11","Foping","FIT",5,"HPS_FIT5_2_10","whole body",50,2966,"tag26","CCGTTA","CCGTTA"
+"196","RNMB_Foping_BS_P3_tag26_A12",2,NA,"A12","Foping","FIT",5,"HPS_FIT5_3_1","whole body",50,9120,"tag26","CCGTTA","CCGTTA"
+"197","RNMB_Foping_BS_P3_tag26_A2",2,NA,"A2","Foping","FIT",7,"FP_FIT7-12","whole body",50,58,"tag26","CCGTTA","CCGTTA"
+"198","RNMB_Foping_BS_P3_tag26_A3",2,NA,"A3","Foping","MT",5,"FP_MT5-1_6","whole body",50,51839,"tag26","CCGTTA","CCGTTA"
+"199","RNMB_Foping_BS_P3_tag26_A4",2,NA,"A4","Foping","MT",6,"FP_MT6-5","whole body",50,12085,"tag26","CCGTTA","CCGTTA"
+"200","RNMB_Foping_BS_P3_tag26_A5",2,NA,"A5","Foping","L/N",5,"FP_L/N5-2_1","whole body",50,11325,"tag26","CCGTTA","CCGTTA"
+"201","RNMB_Foping_BS_P3_tag26_A6",2,NA,"A6","Foping","L/N",1,"FP_L/N1-2","leg",25,185,"tag26","CCGTTA","CCGTTA"
+"202","RNMB_Foping_BS_P3_tag26_A7",2,NA,"A7","Foping","L/N",4,"FP_L/N4-2_3","head",50,7769,"tag26","CCGTTA","CCGTTA"
+"203","RNMB_Foping_BS_P3_tag26_A8",2,NA,"A8","Foping","Pit",3,"FP_Pit-3-2_1","leg",82,49,"tag26","CCGTTA","CCGTTA"
+"204","RNMB_Foping_BS_P3_tag26_A9",2,NA,"A9","Foping","MT",3,"FP_MT3-1","head",21,618,"tag26","CCGTTA","CCGTTA"
+"205","RNMB_Foping_BS_P3_tag26_B1",2,NA,"B1","Foping","FIT",7,"FP_FIT7-5","whole body",50,610,"tag26","CCGTTA","CCGTTA"
+"206","RNMB_Foping_BS_P3_tag26_B10",2,NA,"B10","Foping","FIT",5,"HPS_FIT5_2_3","whole body",50,29,"tag26","CCGTTA","CCGTTA"
+"207","RNMB_Foping_BS_P3_tag26_B11",2,NA,"B11","Foping","FIT",5,"HPS_FIT5_2_11","whole body",50,133,"tag26","CCGTTA","CCGTTA"
+"208","RNMB_Foping_BS_P3_tag26_B12",2,NA,"B12","Foping","FIT",5,"HPS_FIT5_3_2","whole body",50,1400,"tag26","CCGTTA","CCGTTA"
+"209","RNMB_Foping_BS_P3_tag26_B2",2,NA,"B2","Foping","FIT",7,"FP_FIT7-13","whole body",50,37,"tag26","CCGTTA","CCGTTA"
+"210","RNMB_Foping_BS_P3_tag26_B3",2,NA,"B3","Foping","MT",5,"FP_MT5-2_1","whole body",50,2419,"tag26","CCGTTA","CCGTTA"
+"211","RNMB_Foping_BS_P3_tag26_B4",2,NA,"B4","Foping","MT",7,"FP_MT7-1","whole body",50,6973,"tag26","CCGTTA","CCGTTA"
+"212","RNMB_Foping_BS_P3_tag26_B5",2,NA,"B5","Foping","L/N",5,"FP_L/N5-2_2","whole body",50,894,"tag26","CCGTTA","CCGTTA"
+"213","RNMB_Foping_BS_P3_tag26_B6",2,NA,"B6","Foping","L/N",1,"FP_L/N1-3","leg",25,42,"tag26","CCGTTA","CCGTTA"
+"214","RNMB_Foping_BS_P3_tag26_B7",2,NA,"B7","Foping","L/N",4,"FP_L/N4-2_4","head",50,3112,"tag26","CCGTTA","CCGTTA"
+"215","RNMB_Foping_BS_P3_tag26_B8",2,NA,"B8","Foping","Pit",3,"FP_Pit-3-2_2","head",29,2424,"tag26","CCGTTA","CCGTTA"
+"216","RNMB_Foping_BS_P3_tag26_B9",2,NA,"B9","Foping","FIT",3,"FP_FIT3-2_5","leg",150,124,"tag26","CCGTTA","CCGTTA"
+"217","RNMB_Foping_BS_P3_tag26_C1",2,NA,"C1","Foping","FIT",7,"FP_FIT7-6","whole body",50,175,"tag26","CCGTTA","CCGTTA"
+"218","RNMB_Foping_BS_P3_tag26_C10",2,NA,"C10","Foping","FIT",5,"HPS_FIT5_2_4","whole body",50,1097,"tag26","CCGTTA","CCGTTA"
+"219","RNMB_Foping_BS_P3_tag26_C11",2,NA,"C11","Foping","FIT",5,"HPS_FIT5_1_9","whole body",50,6493,"tag26","CCGTTA","CCGTTA"
+"220","RNMB_Foping_BS_P3_tag26_C12",2,NA,"C12","Foping","FIT",5,"HPS_FIT5_3_3","whole body",50,21417,"tag26","CCGTTA","CCGTTA"
+"221","RNMB_Foping_BS_P3_tag26_C2",2,NA,"C2","Foping","FIT",7,"FP_FIT7-14","whole body",16,35,"tag26","CCGTTA","CCGTTA"
+"222","RNMB_Foping_BS_P3_tag26_C3",2,NA,"C3","Foping","MT",5,"FP_MT5-2_2","whole body",50,694,"tag26","CCGTTA","CCGTTA"
+"223","RNMB_Foping_BS_P3_tag26_C4",2,NA,"C4","Foping","MT",7,"FP_MT7-2","whole body",50,83,"tag26","CCGTTA","CCGTTA"
+"224","RNMB_Foping_BS_P3_tag26_C5",2,NA,"C5","Foping","L/N",6,"FP_L/N6-1","whole body",50,191,"tag26","CCGTTA","CCGTTA"
+"225","RNMB_Foping_BS_P3_tag26_C6",2,NA,"C6","Foping","L/N",1,"FP_L/N1-4","leg",14,231,"tag26","CCGTTA","CCGTTA"
+"226","RNMB_Foping_BS_P3_tag26_C7",2,NA,"C7","Foping","Pit",1,"FP_Pit-1-3","leg",7,18811,"tag26","CCGTTA","CCGTTA"
+"227","RNMB_Foping_BS_P3_tag26_C8",2,NA,"C8","Foping","MT",4,"FP_MT-4-1_5","head",11,3803,"tag26","CCGTTA","CCGTTA"
+"228","RNMB_Foping_BS_P3_tag26_C9",2,NA,"C9","Foping","FIT",3,"FP_FIT3-2_4","leg",150,4950,"tag26","CCGTTA","CCGTTA"
+"229","RNMB_Foping_BS_P3_tag26_D1",2,NA,"D1","Foping","FIT",7,"FP_FIT7-7","whole body",50,45,"tag26","CCGTTA","CCGTTA"
+"230","RNMB_Foping_BS_P3_tag26_D10",2,NA,"D10","Foping","FIT",5,"HPS_FIT5_2_5","whole body",50,363,"tag26","CCGTTA","CCGTTA"
+"231","RNMB_Foping_BS_P3_tag26_D11",2,NA,"D11","Foping","FIT",5,"HPS_FIT5_2_12","whole body",50,7239,"tag26","CCGTTA","CCGTTA"
+"232","RNMB_Foping_BS_P3_tag26_D12",2,NA,"D12","Foping","FIT",5,"HPS_FIT5_3_4","whole body",50,15253,"tag26","CCGTTA","CCGTTA"
+"233","RNMB_Foping_BS_P3_tag26_D2",2,NA,"D2","Foping","MT",5,"FP_MT5-1_1","whole body",50,19,"tag26","CCGTTA","CCGTTA"
+"234","RNMB_Foping_BS_P3_tag26_D3",2,NA,"D3","Foping","MT",5,"FP_MT5-2_3","whole body",50,398,"tag26","CCGTTA","CCGTTA"
+"235","RNMB_Foping_BS_P3_tag26_D4",2,NA,"D4","Foping","MT",7,"FP_MT7-3","whole body",50,197,"tag26","CCGTTA","CCGTTA"
+"236","RNMB_Foping_BS_P3_tag26_D5",2,NA,"D5","Foping","L/N",6,"FP_L/N6-2","whole body",50,220,"tag26","CCGTTA","CCGTTA"
+"237","RNMB_Foping_BS_P3_tag26_D6",2,NA,"D6","Foping","L/N",3,"FP_L/N3-1","head",39,9,"tag26","CCGTTA","CCGTTA"
+"238","RNMB_Foping_BS_P3_tag26_D7",2,NA,"D7","Foping","Pit",4,"FP_Pit-4-2_1","head and thorax",50,1530,"tag26","CCGTTA","CCGTTA"
+"239","RNMB_Foping_BS_P3_tag26_D8",2,NA,"D8","Foping","MT",4,"FP_MT-4-2_4","head and thorax",50,64,"tag26","CCGTTA","CCGTTA"
+"240","RNMB_Foping_BS_P3_tag26_D9",2,NA,"D9","Foping","FIT",3,"FP_FIT3-2_3","leg",150,5078,"tag26","CCGTTA","CCGTTA"
+"241","RNMB_Foping_BS_P3_tag26_E1",2,NA,"E1","Foping","FIT",7,"FP_FIT7-8","whole body",50,63,"tag26","CCGTTA","CCGTTA"
+"242","RNMB_Foping_BS_P3_tag26_E10",2,NA,"E10","Foping","FIT",5,"HPS_FIT5_2_6","whole body",50,1977,"tag26","CCGTTA","CCGTTA"
+"243","RNMB_Foping_BS_P3_tag26_E11",2,NA,"E11","Foping","FIT",5,"HPS_FIT5_2_13","whole body",50,2031,"tag26","CCGTTA","CCGTTA"
+"244","RNMB_Foping_BS_P3_tag26_E12",2,NA,"E12","Foping","FIT",5,"HPS_FIT5_3_5","whole body",50,2078,"tag26","CCGTTA","CCGTTA"
+"245","RNMB_Foping_BS_P3_tag26_E2",2,NA,"E2","Foping","MT",5,"FP_MT5-1_2","whole body",50,20,"tag26","CCGTTA","CCGTTA"
+"246","RNMB_Foping_BS_P3_tag26_E3",2,NA,"E3","Foping","MT",6,"FP_MT6-1","whole body",50,271,"tag26","CCGTTA","CCGTTA"
+"247","RNMB_Foping_BS_P3_tag26_E4",2,NA,"E4","Foping","MT",7,"FP_MT7-4","whole body",50,65,"tag26","CCGTTA","CCGTTA"
+"248","RNMB_Foping_BS_P3_tag26_E5",2,NA,"E5","Foping","L/N",7,"FP_L/N7-1","whole body",50,1949,"tag26","CCGTTA","CCGTTA"
+"249","RNMB_Foping_BS_P3_tag26_E6",2,NA,"E6","Foping","L/N",3,"FP_L/N3-2","leg",35,665,"tag26","CCGTTA","CCGTTA"
+"250","RNMB_Foping_BS_P3_tag26_E7",2,NA,"E7","Foping","Pit",4,"FP_Pit-4-2_2","head and thorax",50,1899,"tag26","CCGTTA","CCGTTA"
+"251","RNMB_Foping_BS_P3_tag26_E8",2,NA,"E8","Foping","MT",4,"FP_MT-4-2_3","head and thorax",50,1979,"tag26","CCGTTA","CCGTTA"
+"252","RNMB_Foping_BS_P3_tag26_E9",2,NA,"E9","Foping","FIT",3,"FP_FIT3-2_2","leg",150,6345,"tag26","CCGTTA","CCGTTA"
+"253","RNMB_Foping_BS_P3_tag26_F1",2,NA,"F1","Foping","FIT",7,"FP_FIT7-9","whole body",50,85,"tag26","CCGTTA","CCGTTA"
+"254","RNMB_Foping_BS_P3_tag26_F10",2,NA,"F10","Foping","FIT",5,"HPS_FIT5_2_7","whole body",50,98,"tag26","CCGTTA","CCGTTA"
+"255","RNMB_Foping_BS_P3_tag26_F11",2,NA,"F11","Foping","FIT",5,"HPS_FIT5_2_14","whole body",50,9004,"tag26","CCGTTA","CCGTTA"
+"256","RNMB_Foping_BS_P3_tag26_F12",2,NA,"F12","Foping","FIT",5,"HPS_FIT5_3_6","whole body",50,2941,"tag26","CCGTTA","CCGTTA"
+"257","RNMB_Foping_BS_P3_tag26_F2",2,NA,"F2","Foping","MT",5,"FP_MT5-1_3","whole body",50,47,"tag26","CCGTTA","CCGTTA"
+"258","RNMB_Foping_BS_P3_tag26_F3",2,NA,"F3","Foping","MT",6,"FP_MT6-2","whole body",50,1086,"tag26","CCGTTA","CCGTTA"
+"259","RNMB_Foping_BS_P3_tag26_F4",2,NA,"F4","Foping","MT",7,"FP_MT7-5","whole body",50,754,"tag26","CCGTTA","CCGTTA"
+"260","RNMB_Foping_BS_P3_tag26_F5",2,NA,"F5","Foping","L/N",7,"FP_L/N7-2","whole body",50,881,"tag26","CCGTTA","CCGTTA"
+"261","RNMB_Foping_BS_P3_tag26_F6",2,NA,"F6","Foping","L/N",4,"FP_L/N4-1","head",26,14,"tag26","CCGTTA","CCGTTA"
+"262","RNMB_Foping_BS_P3_tag26_F7",2,NA,"F7","Foping","Pit",4,"FP_Pit-4-2_3","head and thorax",50,4347,"tag26","CCGTTA","CCGTTA"
+"263","RNMB_Foping_BS_P3_tag26_F8",2,NA,"F8","Foping","MT",4,"FP_MT-4-2_2","head and thorax",50,2121,"tag26","CCGTTA","CCGTTA"
+"264","RNMB_Foping_BS_P3_tag26_F9",2,NA,"F9","Foping","FIT",3,"FP_FIT3-2_1","leg",150,1514,"tag26","CCGTTA","CCGTTA"
+"265","RNMB_Foping_BS_P3_tag26_G1",2,NA,"G1","Foping","FIT",7,"FP_FIT7-10","whole body",50,52,"tag26","CCGTTA","CCGTTA"
+"266","RNMB_Foping_BS_P3_tag26_G10",2,NA,"G10","Foping","FIT",5,"HPS_FIT5_2_8","whole body",50,1492,"tag26","CCGTTA","CCGTTA"
+"267","RNMB_Foping_BS_P3_tag26_G11",2,NA,"G11","Foping","FIT",5,"HPS_FIT5_2_15","whole body",50,14864,"tag26","CCGTTA","CCGTTA"
+"268","RNMB_Foping_BS_P3_tag26_G12",2,NA,"G12","Foping","FIT",5,"HPS_FIT5_3_7","whole body",50,2117,"tag26","CCGTTA","CCGTTA"
+"269","RNMB_Foping_BS_P3_tag26_G2",2,NA,"G2","Foping","MT",5,"FP_MT5-1_4","whole body",50,52,"tag26","CCGTTA","CCGTTA"
+"270","RNMB_Foping_BS_P3_tag26_G3",2,NA,"G3","Foping","MT",6,"FP_MT6-3","whole body",50,241,"tag26","CCGTTA","CCGTTA"
+"271","RNMB_Foping_BS_P3_tag26_G4",2,NA,"G4","Foping","MT",7,"FP_MT7-6","whole body",18,2014,"tag26","CCGTTA","CCGTTA"
+"272","RNMB_Foping_BS_P3_tag26_G5",2,NA,"G5","Foping","Pit",5,"FP_Pit5-1","whole body",33,274,"tag26","CCGTTA","CCGTTA"
+"273","RNMB_Foping_BS_P3_tag26_G6",2,NA,"G6","Foping","L/N",4,"FP_L/N4-2_1","head",31,828,"tag26","CCGTTA","CCGTTA"
+"274","RNMB_Foping_BS_P3_tag26_G7",2,NA,"G7","Foping","Pit",4,"FP_Pit-4-2_4","head and thorax",50,8089,"tag26","CCGTTA","CCGTTA"
+"275","RNMB_Foping_BS_P3_tag26_G8",2,NA,"G8","Foping","MT",4,"FP_MT-4-2_1","head and thorax",50,2700,"tag26","CCGTTA","CCGTTA"
+"276","RNMB_Foping_BS_P3_tag26_G9",2,NA,"G9","Foping","FIT",4,"FP_FIT4-2_22","head and thorax",50,4796,"tag26","CCGTTA","CCGTTA"
+"277","RNMB_Foping_BS_P3_tag26_H1",2,NA,"H1","Foping","FIT",7,"FP_FIT7-11","whole body",50,128,"tag26","CCGTTA","CCGTTA"
+"278","RNMB_Foping_BS_P3_tag26_H10",2,NA,"H10","Foping","FIT",5,"HPS_FIT5_2_9","whole body",50,8151,"tag26","CCGTTA","CCGTTA"
+"279","RNMB_Foping_BS_P3_tag26_H11",2,NA,"H11","Foping","FIT",5,"HPS_FIT5_2_16","whole body",50,13419,"tag26","CCGTTA","CCGTTA"
+"280","RNMB_Foping_BS_P3_tag26_H12",2,NA,"H12","Foping","FIT",5,"HPS_FIT5_3_8","whole body",50,869,"tag26","CCGTTA","CCGTTA"
+"281","RNMB_Foping_BS_P3_tag26_H2",2,NA,"H2","Foping","MT",5,"FP_MT5-1_5","whole body",50,87,"tag26","CCGTTA","CCGTTA"
+"282","RNMB_Foping_BS_P3_tag26_H3",2,NA,"H3","Foping","MT",6,"FP_MT6-4","whole body",50,1026,"tag26","CCGTTA","CCGTTA"
+"283","RNMB_Foping_BS_P3_tag26_H4",2,NA,"H4","Foping","L/N",5,"FP_L/N5-1_1","whole body",50,3708,"tag26","CCGTTA","CCGTTA"
+"284","RNMB_Foping_BS_P3_tag26_H5",2,NA,"H5","Foping","Pit",6,"FP_Pit6-1","whole body",5,916,"tag26","CCGTTA","CCGTTA"
+"285","RNMB_Foping_BS_P3_tag26_H6",2,NA,"H6","Foping","L/N",4,"FP_L/N4-2_2","head",50,1848,"tag26","CCGTTA","CCGTTA"
+"286","RNMB_Foping_BS_P3_tag26_H7",2,NA,"H7","Foping","Pit",4,"FP_Pit-4-1_2","head and thorax",44,2370,"tag26","CCGTTA","CCGTTA"
+"287","RNMB_Foping_BS_P3_tag26_H8",2,NA,"H8","Foping","MT",4,"FP_MT-4-1_2","head",11,1246,"tag26","CCGTTA","CCGTTA"
+"288","RNMB_Foping_BS_P3_tag26_H9",2,NA,"H9","Foping","FIT",4,"FP_FIT4-2_21","head and thorax",50,337,"tag26","CCGTTA","CCGTTA"
+"289","RNMB_meicity_BS_P1_tag41_A1",2,NA,"A1","Mei city","FIT",1,"HPS_FIT1_1","leg",25,537,"tag41","GCCATT","GCCATT"
+"290","RNMB_meicity_BS_P1_tag41_A10",2,NA,"A10","Mei city","L/N",1,"HPS_L/N1-3","leg",15,1458,"tag41","GCCATT","GCCATT"
+"291","RNMB_meicity_BS_P1_tag41_A11",2,NA,"A11","Mei city","L/N",4,"HPS_L/N4-2_2","head and thorax",32,1565,"tag41","GCCATT","GCCATT"
+"292","RNMB_meicity_BS_P1_tag41_A12",2,NA,"A12","Mei city","L/N",4,"HPS_L/N4-2_8","head and thorax",50,5502,"tag41","GCCATT","GCCATT"
+"293","RNMB_meicity_BS_P1_tag41_A2",2,NA,"A2","Mei city","FIT",2,"HPS_FIT2_1_2","leg",100,56,"tag41","GCCATT","GCCATT"
+"294","RNMB_meicity_BS_P1_tag41_A3",2,NA,"A3","Mei city","FIT",3,"HPS_FIT3_2_1","head",50,27924,"tag41","GCCATT","GCCATT"
+"295","RNMB_meicity_BS_P1_tag41_A4",2,NA,"A4","Mei city","FIT",4,"HPS_FIT4_2_6","head",50,16656,"tag41","GCCATT","GCCATT"
+"296","RNMB_meicity_BS_P1_tag41_A5",2,NA,"A5","Mei city","FIT",4,"HPS_FIT4_3_4","head",50,7493,"tag41","GCCATT","GCCATT"
+"297","RNMB_meicity_BS_P1_tag41_A6",2,NA,"A6","Mei city","FIT",4,"HPS_FIT4_3_12","head",50,130,"tag41","GCCATT","GCCATT"
+"298","RNMB_meicity_BS_P1_tag41_A7",2,NA,"A7","Mei city","FIT",4,"HPS_FIT4_3_20","head",50,12191,"tag41","GCCATT","GCCATT"
+"299","RNMB_meicity_BS_P1_tag41_A8",2,NA,"A8","Mei city","FIT",4,"HPS_FIT4_3_28","head",50,24,"tag41","GCCATT","GCCATT"
+"300","RNMB_meicity_BS_P1_tag41_A9",2,NA,"A9","Mei city","FIT",4,"HPS_FIT4_3_36","head",50,203,"tag41","GCCATT","GCCATT"
+"301","RNMB_meicity_BS_P1_tag41_B1",2,NA,"B1","Mei city","FIT",1,"HPS_FIT1_2","leg",25,448,"tag41","GCCATT","GCCATT"
+"302","RNMB_meicity_BS_P1_tag41_B10",2,NA,"B10","Mei city","L/N",2,"HPS_L/N2-1","leg",100,23,"tag41","GCCATT","GCCATT"
+"303","RNMB_meicity_BS_P1_tag41_B11",2,NA,"B11","Mei city","L/N",4,"HPS_L/N4-2_1","head and thorax",50,20,"tag41","GCCATT","GCCATT"
+"304","RNMB_meicity_BS_P1_tag41_B12",2,NA,"B12","Mei city","L/N",4,"HPS_L/N4-2_9","head and thorax",50,233,"tag41","GCCATT","GCCATT"
+"305","RNMB_meicity_BS_P1_tag41_B2",2,NA,"B2","Mei city","FIT",2,"HPS_FIT2_1_3","leg",100,16,"tag41","GCCATT","GCCATT"
+"306","RNMB_meicity_BS_P1_tag41_B3",2,NA,"B3","Mei city","FIT",3,"HPS_FIT3_2_2","head",50,303,"tag41","GCCATT","GCCATT"
+"307","RNMB_meicity_BS_P1_tag41_B4",2,NA,"B4","Mei city","FIT",4,"HPS_FIT4_2_7","head",50,7766,"tag41","GCCATT","GCCATT"
+"308","RNMB_meicity_BS_P1_tag41_B5",2,NA,"B5","Mei city","FIT",4,"HPS_FIT4_3_5","head",50,341,"tag41","GCCATT","GCCATT"
+"309","RNMB_meicity_BS_P1_tag41_B6",2,NA,"B6","Mei city","FIT",4,"HPS_FIT4_3_13","head",50,29,"tag41","GCCATT","GCCATT"
+"310","RNMB_meicity_BS_P1_tag41_B7",2,NA,"B7","Mei city","FIT",4,"HPS_FIT4_3_21","head",50,15221,"tag41","GCCATT","GCCATT"
+"311","RNMB_meicity_BS_P1_tag41_B8",2,NA,"B8","Mei city","FIT",4,"HPS_FIT4_3_29","head",50,3976,"tag41","GCCATT","GCCATT"
+"312","RNMB_meicity_BS_P1_tag41_B9",2,NA,"B9","Mei city","FIT",4,"HPS_FIT4_3_37","head",50,29,"tag41","GCCATT","GCCATT"
+"313","RNMB_meicity_BS_P1_tag41_C1",2,NA,"C1","Mei city","FIT",1,"HPS_FIT1_3","leg",25,41,"tag41","GCCATT","GCCATT"
+"314","RNMB_meicity_BS_P1_tag41_C10",2,NA,"C10","Mei city","L/N",2,"HPS_L/N2-2","leg",100,532,"tag41","GCCATT","GCCATT"
+"315","RNMB_meicity_BS_P1_tag41_C11",2,NA,"C11","Mei city","L/N",4,"HPS_L/N4-2_2","head and thorax",50,1303,"tag41","GCCATT","GCCATT"
+"316","RNMB_meicity_BS_P1_tag41_C12",2,NA,"C12","Mei city","MT",2,"MT2-1","leg",100,8113,"tag41","GCCATT","GCCATT"
+"317","RNMB_meicity_BS_P1_tag41_C2",2,NA,"C2","Mei city","FIT",2,"HPS_FIT2_1_4","leg",100,39,"tag41","GCCATT","GCCATT"
+"318","RNMB_meicity_BS_P1_tag41_C3",2,NA,"C3","Mei city","FIT",3,"HPS_FIT3_2_3","head",50,77,"tag41","GCCATT","GCCATT"
+"319","RNMB_meicity_BS_P1_tag41_C4",2,NA,"C4","Mei city","FIT",4,"HPS_FIT4_2_8","head",50,54,"tag41","GCCATT","GCCATT"
+"320","RNMB_meicity_BS_P1_tag41_C5",2,NA,"C5","Mei city","FIT",4,"HPS_FIT4_3_6","head",50,54,"tag41","GCCATT","GCCATT"
+"321","RNMB_meicity_BS_P1_tag41_C6",2,NA,"C6","Mei city","FIT",4,"HPS_FIT4_3_14","head",50,142,"tag41","GCCATT","GCCATT"
+"322","RNMB_meicity_BS_P1_tag41_C7",2,NA,"C7","Mei city","FIT",4,"HPS_FIT4_3_22","head",50,6803,"tag41","GCCATT","GCCATT"
+"323","RNMB_meicity_BS_P1_tag41_C8",2,NA,"C8","Mei city","FIT",4,"HPS_FIT4_3_30","head",50,2992,"tag41","GCCATT","GCCATT"
+"324","RNMB_meicity_BS_P1_tag41_C9",2,NA,"C9","Mei city","FIT",4,"HPS_FIT4_3_38","head",50,3362,"tag41","GCCATT","GCCATT"
+"325","RNMB_meicity_BS_P1_tag41_D1",2,NA,"D1","Mei city","FIT",1,"HPS_FIT1_4","leg",25,29,"tag41","GCCATT","GCCATT"
+"326","RNMB_meicity_BS_P1_tag41_D10",2,NA,"D10","Mei city","L/N",2,"HPS_L/N2-3","leg",30,148,"tag41","GCCATT","GCCATT"
+"327","RNMB_meicity_BS_P1_tag41_D11",2,NA,"D11","Mei city","L/N",4,"HPS_L/N4-2_3","head and thorax",50,3580,"tag41","GCCATT","GCCATT"
+"328","RNMB_meicity_BS_P1_tag41_D12",2,NA,"D12","Mei city","MT",3,"MT3-1","leg",150,9753,"tag41","GCCATT","GCCATT"
+"329","RNMB_meicity_BS_P1_tag41_D2",2,NA,"D2","Mei city","FIT",2,"HPS_FIT2_1_5","leg",100,17,"tag41","GCCATT","GCCATT"
+"330","RNMB_meicity_BS_P1_tag41_D3",2,NA,"D3","Mei city","FIT",4,"HPS_FIT4_2_1","head",50,149,"tag41","GCCATT","GCCATT"
+"331","RNMB_meicity_BS_P1_tag41_D4",2,NA,"D4","Mei city","FIT",4,"HPS_FIT4_2_9","head",50,222,"tag41","GCCATT","GCCATT"
+"332","RNMB_meicity_BS_P1_tag41_D5",2,NA,"D5","Mei city","FIT",4,"HPS_FIT4_3_7","head",50,60,"tag41","GCCATT","GCCATT"
+"333","RNMB_meicity_BS_P1_tag41_D6",2,NA,"D6","Mei city","FIT",4,"HPS_FIT4_3_15","head",50,37,"tag41","GCCATT","GCCATT"
+"334","RNMB_meicity_BS_P1_tag41_D7",2,NA,"D7","Mei city","FIT",4,"HPS_FIT4_3_23","head",50,356,"tag41","GCCATT","GCCATT"
+"335","RNMB_meicity_BS_P1_tag41_D8",2,NA,"D8","Mei city","FIT",4,"HPS_FIT4_3_31","head",50,574,"tag41","GCCATT","GCCATT"
+"336","RNMB_meicity_BS_P1_tag41_D9",2,NA,"D9","Mei city","FIT",4,"HPS_FIT4_3_39","head",50,4181,"tag41","GCCATT","GCCATT"
+"337","RNMB_meicity_BS_P1_tag41_E1",2,NA,"E1","Mei city","FIT",1,"HPS_FIT1_5","leg",25,18,"tag41","GCCATT","GCCATT"
+"338","RNMB_meicity_BS_P1_tag41_E10",2,NA,"E10","Mei city","L/N",3,"HPS_L/N3-1","leg",150,6003,"tag41","GCCATT","GCCATT"
+"339","RNMB_meicity_BS_P1_tag41_E11",2,NA,"E11","Mei city","L/N",4,"HPS_L/N4-2_4","head and thorax",50,807,"tag41","GCCATT","GCCATT"
+"340","RNMB_meicity_BS_P1_tag41_E12",2,NA,"E12","Mei city","MT",4,"MT4-1_1","head ",25,2524,"tag41","GCCATT","GCCATT"
+"341","RNMB_meicity_BS_P1_tag41_E2",2,NA,"E2","Mei city","FIT",3,"HPS_FIT3_1_1","leg",150,12,"tag41","GCCATT","GCCATT"
+"342","RNMB_meicity_BS_P1_tag41_E3",2,NA,"E3","Mei city","FIT",4,"HPS_FIT4_2_2","head",50,164,"tag41","GCCATT","GCCATT"
+"343","RNMB_meicity_BS_P1_tag41_E4",2,NA,"E4","Mei city","FIT",4,"HPS_FIT4_2_10","head",50,80,"tag41","GCCATT","GCCATT"
+"344","RNMB_meicity_BS_P1_tag41_E5",2,NA,"E5","Mei city","FIT",4,"HPS_FIT4_3_8","head",50,5845,"tag41","GCCATT","GCCATT"
+"345","RNMB_meicity_BS_P1_tag41_E6",2,NA,"E6","Mei city","FIT",4,"HPS_FIT4_3_16","head",50,484,"tag41","GCCATT","GCCATT"
+"346","RNMB_meicity_BS_P1_tag41_E7",2,NA,"E7","Mei city","FIT",4,"HPS_FIT4_3_24","head",50,3782,"tag41","GCCATT","GCCATT"
+"347","RNMB_meicity_BS_P1_tag41_E8",2,NA,"E8","Mei city","FIT",4,"HPS_FIT4_3_32","head",50,3303,"tag41","GCCATT","GCCATT"
+"348","RNMB_meicity_BS_P1_tag41_E9",2,NA,"E9","Mei city","FIT",4,"HPS_FIT4_3_40","head",50,3613,"tag41","GCCATT","GCCATT"
+"349","RNMB_meicity_BS_P1_tag41_F1",2,NA,"F1","Mei city","FIT",1,"HPS_FIT1_6","leg",25,29,"tag41","GCCATT","GCCATT"
+"350","RNMB_meicity_BS_P1_tag41_F10",2,NA,"F10","Mei city","L/N",3,"HPS_L/N3-2","leg",150,199,"tag41","GCCATT","GCCATT"
+"351","RNMB_meicity_BS_P1_tag41_F11",2,NA,"F11","Mei city","L/N",4,"HPS_L/N4-2_5","head and thorax",50,1700,"tag41","GCCATT","GCCATT"
+"352","RNMB_meicity_BS_P1_tag41_F12",2,NA,"F12","Mei city","MT",4,"MT4-1_2","head ",25,739,"tag41","GCCATT","GCCATT"
+"353","RNMB_meicity_BS_P1_tag41_F2",2,NA,"F2","Mei city","FIT",3,"HPS_FIT3_1_2","leg",150,25,"tag41","GCCATT","GCCATT"
+"354","RNMB_meicity_BS_P1_tag41_F3",2,NA,"F3","Mei city","FIT",4,"HPS_FIT4_2_3","head",50,378,"tag41","GCCATT","GCCATT"
+"355","RNMB_meicity_BS_P1_tag41_F4",2,NA,"F4","Mei city","FIT",4,"HPS_FIT4_3_1","head",50,184,"tag41","GCCATT","GCCATT"
+"356","RNMB_meicity_BS_P1_tag41_F5",2,NA,"F5","Mei city","FIT",4,"HPS_FIT4_3_9","head",50,1026,"tag41","GCCATT","GCCATT"
+"357","RNMB_meicity_BS_P1_tag41_F6",2,NA,"F6","Mei city","FIT",4,"HPS_FIT4_3_17","head",50,309,"tag41","GCCATT","GCCATT"
+"358","RNMB_meicity_BS_P1_tag41_F7",2,NA,"F7","Mei city","FIT",4,"HPS_FIT4_3_25","head",50,2288,"tag41","GCCATT","GCCATT"
+"359","RNMB_meicity_BS_P1_tag41_F8",2,NA,"F8","Mei city","FIT",4,"HPS_FIT4_3_33","head",50,3466,"tag41","GCCATT","GCCATT"
+"360","RNMB_meicity_BS_P1_tag41_F9",2,NA,"F9","Mei city","FIT",4,"HPS_FIT4_3_41","head",50,956,"tag41","GCCATT","GCCATT"
+"361","RNMB_meicity_BS_P1_tag41_G1",2,NA,"G1","Mei city","FIT",1,"HPS_FIT1_7","leg",25,102,"tag41","GCCATT","GCCATT"
+"362","RNMB_meicity_BS_P1_tag41_G10",2,NA,"G10","Mei city","L/N",3,"HPS_L/N3-3","leg",150,225,"tag41","GCCATT","GCCATT"
+"363","RNMB_meicity_BS_P1_tag41_G11",2,NA,"G11","Mei city","L/N",4,"HPS_L/N4-2_6","head and thorax",50,7459,"tag41","GCCATT","GCCATT"
+"364","RNMB_meicity_BS_P1_tag41_G12",2,NA,"G12","Mei city","MT",4,"MT4-2_1","head and thorax",50,2948,"tag41","GCCATT","GCCATT"
+"365","RNMB_meicity_BS_P1_tag41_G2",2,NA,"G2","Mei city","FIT",3,"HPS_FIT3_1_3","leg",150,15,"tag41","GCCATT","GCCATT"
+"366","RNMB_meicity_BS_P1_tag41_G3",2,NA,"G3","Mei city","FIT",4,"HPS_FIT4_2_4","head",50,172,"tag41","GCCATT","GCCATT"
+"367","RNMB_meicity_BS_P1_tag41_G4",2,NA,"G4","Mei city","FIT",4,"HPS_FIT4_3_2","head",50,1070,"tag41","GCCATT","GCCATT"
+"368","RNMB_meicity_BS_P1_tag41_G5",2,NA,"G5","Mei city","FIT",4,"HPS_FIT4_3_10","head",50,79,"tag41","GCCATT","GCCATT"
+"369","RNMB_meicity_BS_P1_tag41_G6",2,NA,"G6","Mei city","FIT",4,"HPS_FIT4_3_18","head",50,2093,"tag41","GCCATT","GCCATT"
+"370","RNMB_meicity_BS_P1_tag41_G7",2,NA,"G7","Mei city","FIT",4,"HPS_FIT4_3_26","head",50,3973,"tag41","GCCATT","GCCATT"
+"371","RNMB_meicity_BS_P1_tag41_G8",2,NA,"G8","Mei city","FIT",4,"HPS_FIT4_3_34","head",50,5560,"tag41","GCCATT","GCCATT"
+"372","RNMB_meicity_BS_P1_tag41_G9",2,NA,"G9","Mei city","L/N",1,"HPS_L/N1-1","leg",25,15123,"tag41","GCCATT","GCCATT"
+"373","RNMB_meicity_BS_P1_tag41_H1",2,NA,"H1","Mei city","FIT",2,"HPS_FIT2_1_1","leg",100,101,"tag41","GCCATT","GCCATT"
+"374","RNMB_meicity_BS_P1_tag41_H10",2,NA,"H10","Mei city","L/N",4,"HPS_L/N4-1_1","head and thorax",50,5411,"tag41","GCCATT","GCCATT"
+"375","RNMB_meicity_BS_P1_tag41_H11",2,NA,"H11","Mei city","L/N",4,"HPS_L/N4-2_7","head and thorax",50,5878,"tag41","GCCATT","GCCATT"
+"376","RNMB_meicity_BS_P1_tag41_H12",2,NA,"H12","Mei city","MT",4,"MT4-2_2","head and thorax",50,622,"tag41","GCCATT","GCCATT"
+"377","RNMB_meicity_BS_P1_tag41_H2",2,NA,"H2","Mei city","FIT",3,"HPS_FIT3_1_4","leg",150,130,"tag41","GCCATT","GCCATT"
+"378","RNMB_meicity_BS_P1_tag41_H3",2,NA,"H3","Mei city","FIT",4,"HPS_FIT4_2_5","head",50,599,"tag41","GCCATT","GCCATT"
+"379","RNMB_meicity_BS_P1_tag41_H4",2,NA,"H4","Mei city","FIT",4,"HPS_FIT4_3_3","head",50,3671,"tag41","GCCATT","GCCATT"
+"380","RNMB_meicity_BS_P1_tag41_H5",2,NA,"H5","Mei city","FIT",4,"HPS_FIT4_3_11","head",50,1061,"tag41","GCCATT","GCCATT"
+"381","RNMB_meicity_BS_P1_tag41_H6",2,NA,"H6","Mei city","FIT",4,"HPS_FIT4_3_19","head",50,5494,"tag41","GCCATT","GCCATT"
+"382","RNMB_meicity_BS_P1_tag41_H7",2,NA,"H7","Mei city","FIT",4,"HPS_FIT4_3_27","head",50,1804,"tag41","GCCATT","GCCATT"
+"383","RNMB_meicity_BS_P1_tag41_H8",2,NA,"H8","Mei city","FIT",4,"HPS_FIT4_3_35","head",50,1144,"tag41","GCCATT","GCCATT"
+"384","RNMB_meicity_BS_P1_tag41_H9",2,NA,"H9","Mei city","L/N",1,"HPS_L/N1-2","leg",25,1105,"tag41","GCCATT","GCCATT"
+"385","RNMB_meicity_BS_P2_tag42_A1",2,NA,"A1","Mei city","FIT",5,"HPS_FIT5_3_9","whole body",50,858,"tag42","GCTTGA","GCTTGA"
+"386","RNMB_meicity_BS_P2_tag42_A10",2,NA,"A10","Mei city","MT",5,"HPS_MT5-2_5","whole body",50,441,"tag42","GCTTGA","GCTTGA"
+"387","RNMB_meicity_BS_P2_tag42_A11",2,NA,"A11","Mei city","MT",6,"HPS_MT6-6","whole body",50,5675,"tag42","GCTTGA","GCTTGA"
+"388","RNMB_meicity_BS_P2_tag42_A12",2,NA,"A12","Mei city","MT",7,"HPS_MT7-4","whole body",50,3282,"tag42","GCTTGA","GCTTGA"
+"389","RNMB_meicity_BS_P2_tag42_A2",2,NA,"A2","Mei city","FIT",5,"HPS_FIT5_3_17","whole body",50,103,"tag42","GCTTGA","GCTTGA"
+"390","RNMB_meicity_BS_P2_tag42_A3",2,NA,"A3","Mei city","FIT",6,"HPS_FIT6-3","whole body",50,23866,"tag42","GCTTGA","GCTTGA"
+"391","RNMB_meicity_BS_P2_tag42_A4",2,NA,"A4","Mei city","FIT",6,"HPS_FIT6-11","whole body",50,20941,"tag42","GCTTGA","GCTTGA"
+"392","RNMB_meicity_BS_P2_tag42_A5",2,NA,"A5","Mei city","FIT",7,"HPS_FIT7-4","whole body",50,1296,"tag42","GCTTGA","GCTTGA"
+"393","RNMB_meicity_BS_P2_tag42_A6",2,NA,"A6","Mei city","L/N",5,"HPS_L/N5-1_3","whole body",25,20,"tag42","GCTTGA","GCTTGA"
+"394","RNMB_meicity_BS_P2_tag42_A7",2,NA,"A7","Mei city","L/N",5,"HPS_L/N5-1_11","whole body",25,785,"tag42","GCTTGA","GCTTGA"
+"395","RNMB_meicity_BS_P2_tag42_A8",2,NA,"A8","Mei city","L/N",6,"HPS_L/N6-5","whole body",50,9,"tag42","GCTTGA","GCTTGA"
+"396","RNMB_meicity_BS_P2_tag42_A9",2,NA,"A9","Mei city","MT",5,"HPS_MT5-1_4","whole body",25,224,"tag42","GCTTGA","GCTTGA"
+"397","RNMB_meicity_BS_P2_tag42_B1",2,NA,"B1","Mei city","FIT",5,"HPS_FIT5_3_10","whole body",50,789,"tag42","GCTTGA","GCTTGA"
+"398","RNMB_meicity_BS_P2_tag42_B10",2,NA,"B10","Mei city","MT",5,"HPS_MT5-2_6","whole body",50,36,"tag42","GCTTGA","GCTTGA"
+"399","RNMB_meicity_BS_P2_tag42_B11",2,NA,"B11","Mei city","MT",6,"HPS_MT6-7","whole body",50,219,"tag42","GCTTGA","GCTTGA"
+"400","RNMB_meicity_BS_P2_tag42_B12",2,NA,"B12","Mei city","MT",7,"HPS_MT7-5","whole body",50,846,"tag42","GCTTGA","GCTTGA"
+"401","RNMB_meicity_BS_P2_tag42_B2",2,NA,"B2","Mei city","FIT",5,"HPS_FIT5_3_18","whole body",50,35,"tag42","GCTTGA","GCTTGA"
+"402","RNMB_meicity_BS_P2_tag42_B3",2,NA,"B3","Mei city","FIT",6,"HPS_FIT6-4","whole body",50,4170,"tag42","GCTTGA","GCTTGA"
+"403","RNMB_meicity_BS_P2_tag42_B4",2,NA,"B4","Mei city","FIT",6,"HPS_FIT6-12","whole body",50,10566,"tag42","GCTTGA","GCTTGA"
+"404","RNMB_meicity_BS_P2_tag42_B5",2,NA,"B5","Mei city","FIT",7,"HPS_FIT7-5","whole body",50,433,"tag42","GCTTGA","GCTTGA"
+"405","RNMB_meicity_BS_P2_tag42_B6",2,NA,"B6","Mei city","L/N",5,"HPS_L/N5-1_4","whole body",25,15,"tag42","GCTTGA","GCTTGA"
+"406","RNMB_meicity_BS_P2_tag42_B7",2,NA,"B7","Mei city","L/N",5,"HPS_L/N5-1_12","whole body",25,8743,"tag42","GCTTGA","GCTTGA"
+"407","RNMB_meicity_BS_P2_tag42_B8",2,NA,"B8","Mei city","L/N",6,"HPS_L/N6-6","whole body",50,5607,"tag42","GCTTGA","GCTTGA"
+"408","RNMB_meicity_BS_P2_tag42_B9",2,NA,"B9","Mei city","MT",5,"HPS_MT5-1_5","whole body",25,15,"tag42","GCTTGA","GCTTGA"
+"409","RNMB_meicity_BS_P2_tag42_C1",2,NA,"C1","Mei city","FIT",5,"HPS_FIT5_3_11","whole body",50,769,"tag42","GCTTGA","GCTTGA"
+"410","RNMB_meicity_BS_P2_tag42_C10",2,NA,"C10","Mei city","MT",5,"HPS_MT5-2_7","whole body",50,948,"tag42","GCTTGA","GCTTGA"
+"411","RNMB_meicity_BS_P2_tag42_C11",2,NA,"C11","Mei city","MT",6,"HPS_MT6-8","whole body",50,10334,"tag42","GCTTGA","GCTTGA"
+"412","RNMB_meicity_BS_P2_tag42_C12",2,NA,"C12","Mei city","MT",7,"HPS_MT7-6","whole body",50,15293,"tag42","GCTTGA","GCTTGA"
+"413","RNMB_meicity_BS_P2_tag42_C2",2,NA,"C2","Mei city","FIT",5,"HPS_FIT5_3_19","whole body",50,47,"tag42","GCTTGA","GCTTGA"
+"414","RNMB_meicity_BS_P2_tag42_C3",2,NA,"C3","Mei city","FIT",6,"HPS_FIT6-5","whole body",50,247,"tag42","GCTTGA","GCTTGA"
+"415","RNMB_meicity_BS_P2_tag42_C4",2,NA,"C4","Mei city","FIT",6,"HPS_FIT6-13","whole body",50,286,"tag42","GCTTGA","GCTTGA"
+"416","RNMB_meicity_BS_P2_tag42_C5",2,NA,"C5","Mei city","FIT",7,"HPS_FIT7-6","whole body",50,40,"tag42","GCTTGA","GCTTGA"
+"417","RNMB_meicity_BS_P2_tag42_C6",2,NA,"C6","Mei city","L/N",5,"HPS_L/N5-1_5","whole body",25,38,"tag42","GCTTGA","GCTTGA"
+"418","RNMB_meicity_BS_P2_tag42_C7",2,NA,"C7","Mei city","L/N",5,"HPS_L/N5-2_1","whole body",50,6794,"tag42","GCTTGA","GCTTGA"
+"419","RNMB_meicity_BS_P2_tag42_C8",2,NA,"C8","Mei city","L/N",6,"HPS_L/N6-7","whole body",50,7975,"tag42","GCTTGA","GCTTGA"
+"420","RNMB_meicity_BS_P2_tag42_C9",2,NA,"C9","Mei city","MT",5,"HPS_MT5-1_6","whole body",25,4556,"tag42","GCTTGA","GCTTGA"
+"421","RNMB_meicity_BS_P2_tag42_D1",2,NA,"D1","Mei city","FIT",5,"HPS_FIT5_3_12","whole body",50,585,"tag42","GCTTGA","GCTTGA"
+"422","RNMB_meicity_BS_P2_tag42_D10",2,NA,"D10","Mei city","MT",6,"HPS_MT6-1","whole body",50,474,"tag42","GCTTGA","GCTTGA"
+"423","RNMB_meicity_BS_P2_tag42_D11",2,NA,"D11","Mei city","MT",6,"HPS_MT6-9","whole body",50,14083,"tag42","GCTTGA","GCTTGA"
+"424","RNMB_meicity_BS_P2_tag42_D12",2,NA,"D12","Mei city","MT",7,"HPS_MT7-7","whole body",50,12325,"tag42","GCTTGA","GCTTGA"
+"425","RNMB_meicity_BS_P2_tag42_D2",2,NA,"D2","Mei city","FIT",5,"HPS_FIT5_3_20","whole body",50,15,"tag42","GCTTGA","GCTTGA"
+"426","RNMB_meicity_BS_P2_tag42_D3",2,NA,"D3","Mei city","FIT",6,"HPS_FIT6-6","whole body",50,208,"tag42","GCTTGA","GCTTGA"
+"427","RNMB_meicity_BS_P2_tag42_D4",2,NA,"D4","Mei city","FIT",6,"HPS_FIT6-14","whole body",50,630,"tag42","GCTTGA","GCTTGA"
+"428","RNMB_meicity_BS_P2_tag42_D5",2,NA,"D5","Mei city","FIT",7,"HPS_FIT7-7","whole body",50,54,"tag42","GCTTGA","GCTTGA"
+"429","RNMB_meicity_BS_P2_tag42_D6",2,NA,"D6","Mei city","L/N",5,"HPS_L/N5-1_6","whole body",25,19,"tag42","GCTTGA","GCTTGA"
+"430","RNMB_meicity_BS_P2_tag42_D7",2,NA,"D7","Mei city","L/N",5,"HPS_L/N5-2_2","whole body",29,354,"tag42","GCTTGA","GCTTGA"
+"431","RNMB_meicity_BS_P2_tag42_D8",2,NA,"D8","Mei city","L/N",7,"HPS_L/N7-1","whole body",50,244,"tag42","GCTTGA","GCTTGA"
+"432","RNMB_meicity_BS_P2_tag42_D9",2,NA,"D9","Mei city","MT",5,"HPS_MT5-1_7","whole body",25,3224,"tag42","GCTTGA","GCTTGA"
+"433","RNMB_meicity_BS_P2_tag42_E1",2,NA,"E1","Mei city","FIT",5,"HPS_FIT5_3_13","whole body",50,62,"tag42","GCTTGA","GCTTGA"
+"434","RNMB_meicity_BS_P2_tag42_E10",2,NA,"E10","Mei city","MT",6,"HPS_MT6-2","whole body",50,6298,"tag42","GCTTGA","GCTTGA"
+"435","RNMB_meicity_BS_P2_tag42_E11",2,NA,"E11","Mei city","MT",6,"HPS_MT6-10","whole body",50,5208,"tag42","GCTTGA","GCTTGA"
+"436","RNMB_meicity_BS_P2_tag42_E12",2,NA,"E12","Mei city","MT",7,"HPS_MT7-8","whole body",50,2621,"tag42","GCTTGA","GCTTGA"
+"437","RNMB_meicity_BS_P2_tag42_E2",2,NA,"E2","Mei city","FIT",5,"HPS_FIT5_3_21","whole body",50,19,"tag42","GCTTGA","GCTTGA"
+"438","RNMB_meicity_BS_P2_tag42_E3",2,NA,"E3","Mei city","FIT",6,"HPS_FIT6-7","whole body",50,328,"tag42","GCTTGA","GCTTGA"
+"439","RNMB_meicity_BS_P2_tag42_E4",2,NA,"E4","Mei city","FIT",6,"HPS_FIT6-15","whole body",50,48,"tag42","GCTTGA","GCTTGA"
+"440","RNMB_meicity_BS_P2_tag42_E5",2,NA,"E5","Mei city","FIT",7,"HPS_FIT7-8","whole body",50,4024,"tag42","GCTTGA","GCTTGA"
+"441","RNMB_meicity_BS_P2_tag42_E6",2,NA,"E6","Mei city","L/N",5,"HPS_L/N5-1_7","whole body",25,104,"tag42","GCTTGA","GCTTGA"
+"442","RNMB_meicity_BS_P2_tag42_E7",2,NA,"E7","Mei city","L/N",6,"HPS_L/N6-1","whole body",50,3144,"tag42","GCTTGA","GCTTGA"
+"443","RNMB_meicity_BS_P2_tag42_E8",2,NA,"E8","Mei city","L/N",7,"HPS_L/N7-2","whole body",19,1090,"tag42","GCTTGA","GCTTGA"
+"444","RNMB_meicity_BS_P2_tag42_E9",2,NA,"E9","Mei city","MT",5,"HPS_MT5-2_1","whole body",50,2493,"tag42","GCTTGA","GCTTGA"
+"445","RNMB_meicity_BS_P2_tag42_F1",2,NA,"F1","Mei city","FIT",5,"HPS_FIT5_3_14","whole body",50,140,"tag42","GCTTGA","GCTTGA"
+"446","RNMB_meicity_BS_P2_tag42_F10",2,NA,"F10","Mei city","MT",6,"HPS_MT6-3","whole body",50,268,"tag42","GCTTGA","GCTTGA"
+"447","RNMB_meicity_BS_P2_tag42_F11",2,NA,"F11","Mei city","MT",7,"HPS_MT7-1","whole body",50,4933,"tag42","GCTTGA","GCTTGA"
+"448","RNMB_meicity_BS_P2_tag42_F12",2,NA,"F12","Mei city","MT",7,"HPS_MT7-9","whole body",50,623,"tag42","GCTTGA","GCTTGA"
+"449","RNMB_meicity_BS_P2_tag42_F2",2,NA,"F2","Mei city","FIT",5,"HPS_FIT5_3_22","whole body",50,62,"tag42","GCTTGA","GCTTGA"
+"450","RNMB_meicity_BS_P2_tag42_F3",2,NA,"F3","Mei city","FIT",6,"HPS_FIT6-8","whole body",50,2386,"tag42","GCTTGA","GCTTGA"
+"451","RNMB_meicity_BS_P2_tag42_F4",2,NA,"F4","Mei city","FIT",7,"HPS_FIT7-1","whole body",50,816,"tag42","GCTTGA","GCTTGA"
+"452","RNMB_meicity_BS_P2_tag42_F5",2,NA,"F5","Mei city","FIT",7,"HPS_FIT7-9","whole body",50,134,"tag42","GCTTGA","GCTTGA"
+"453","RNMB_meicity_BS_P2_tag42_F6",2,NA,"F6","Mei city","L/N",5,"HPS_L/N5-1_8","whole body",25,106,"tag42","GCTTGA","GCTTGA"
+"454","RNMB_meicity_BS_P2_tag42_F7",2,NA,"F7","Mei city","L/N",6,"HPS_L/N6-2","whole body",50,5429,"tag42","GCTTGA","GCTTGA"
+"455","RNMB_meicity_BS_P2_tag42_F8",2,NA,"F8","Mei city","MT",5,"HPS_MT5-1_1","whole body",25,2739,"tag42","GCTTGA","GCTTGA"
+"456","RNMB_meicity_BS_P2_tag42_F9",2,NA,"F9","Mei city","MT",5,"HPS_MT5-2_2","whole body",50,646,"tag42","GCTTGA","GCTTGA"
+"457","RNMB_meicity_BS_P2_tag42_G1",2,NA,"G1","Mei city","FIT",5,"HPS_FIT5_3_15","whole body",50,222,"tag42","GCTTGA","GCTTGA"
+"458","RNMB_meicity_BS_P2_tag42_G10",2,NA,"G10","Mei city","MT",6,"HPS_MT6-4","whole body",50,1132,"tag42","GCTTGA","GCTTGA"
+"459","RNMB_meicity_BS_P2_tag42_G11",2,NA,"G11","Mei city","MT",7,"HPS_MT7-2","whole body",50,9997,"tag42","GCTTGA","GCTTGA"
+"460","RNMB_meicity_BS_P2_tag42_G12",2,NA,"G12","Mei city","MT",7,"HPS_MT7-10","whole body",50,1845,"tag42","GCTTGA","GCTTGA"
+"461","RNMB_meicity_BS_P2_tag42_G2",2,NA,"G2","Mei city","FIT",6,"HPS_FIT6-1","whole body",50,42,"tag42","GCTTGA","GCTTGA"
+"462","RNMB_meicity_BS_P2_tag42_G3",2,NA,"G3","Mei city","FIT",6,"HPS_FIT6-9","whole body",50,135,"tag42","GCTTGA","GCTTGA"
+"463","RNMB_meicity_BS_P2_tag42_G4",2,NA,"G4","Mei city","FIT",7,"HPS_FIT7-2","whole body",50,637,"tag42","GCTTGA","GCTTGA"
+"464","RNMB_meicity_BS_P2_tag42_G5",2,NA,"G5","Mei city","L/N",5,"HPS_L/N5-1_1","whole body",25,35,"tag42","GCTTGA","GCTTGA"
+"465","RNMB_meicity_BS_P2_tag42_G6",2,NA,"G6","Mei city","L/N",5,"HPS_L/N5-1_9","whole body",25,566,"tag42","GCTTGA","GCTTGA"
+"466","RNMB_meicity_BS_P2_tag42_G7",2,NA,"G7","Mei city","L/N",6,"HPS_L/N6-3","whole body",50,9205,"tag42","GCTTGA","GCTTGA"
+"467","RNMB_meicity_BS_P2_tag42_G8",2,NA,"G8","Mei city","MT",5,"HPS_MT5-1_2","whole body",25,2841,"tag42","GCTTGA","GCTTGA"
+"468","RNMB_meicity_BS_P2_tag42_G9",2,NA,"G9","Mei city","MT",5,"HPS_MT5-2_3","whole body",50,3476,"tag42","GCTTGA","GCTTGA"
+"469","RNMB_meicity_BS_P2_tag42_H1",2,NA,"H1","Mei city","FIT",5,"HPS_FIT5_3_16","whole body",50,351,"tag42","GCTTGA","GCTTGA"
+"470","RNMB_meicity_BS_P2_tag42_H10",2,NA,"H10","Mei city","MT",6,"HPS_MT6-5","whole body",50,9193,"tag42","GCTTGA","GCTTGA"
+"471","RNMB_meicity_BS_P2_tag42_H11",2,NA,"H11","Mei city","MT",7,"HPS_MT7-3","whole body",50,4515,"tag42","GCTTGA","GCTTGA"
+"472","RNMB_meicity_BS_P2_tag42_H12",2,NA,"H12","Mei city","MT",5,"HPS_pit5-1","whole body",25,59,"tag42","GCTTGA","GCTTGA"
+"473","RNMB_meicity_BS_P2_tag42_H2",2,NA,"H2","Mei city","FIT",6,"HPS_FIT6-2","whole body",50,76,"tag42","GCTTGA","GCTTGA"
+"474","RNMB_meicity_BS_P2_tag42_H3",2,NA,"H3","Mei city","FIT",6,"HPS_FIT6-10","whole body",50,2612,"tag42","GCTTGA","GCTTGA"
+"475","RNMB_meicity_BS_P2_tag42_H4",2,NA,"H4","Mei city","FIT",7,"HPS_FIT7-3","whole body",50,2955,"tag42","GCTTGA","GCTTGA"
+"476","RNMB_meicity_BS_P2_tag42_H5",2,NA,"H5","Mei city","L/N",5,"HPS_L/N5-1_2","whole body",25,293,"tag42","GCTTGA","GCTTGA"
+"477","RNMB_meicity_BS_P2_tag42_H6",2,NA,"H6","Mei city","L/N",5,"HPS_L/N5-1_10","whole body",25,606,"tag42","GCTTGA","GCTTGA"
+"478","RNMB_meicity_BS_P2_tag42_H7",2,NA,"H7","Mei city","L/N",6,"HPS_L/N6-4","whole body",50,2212,"tag42","GCTTGA","GCTTGA"
+"479","RNMB_meicity_BS_P2_tag42_H8",2,NA,"H8","Mei city","MT",5,"HPS_MT5-1_3","whole body",25,570,"tag42","GCTTGA","GCTTGA"
+"480","RNMB_meicity_BS_P2_tag42_H9",2,NA,"H9","Mei city","MT",5,"HPS_MT5-2_4","whole body",50,133,"tag42","GCTTGA","GCTTGA"
+"481","RNMB_Mix_BS_PIX_tag34_A1",2,NA,"A1","Mix","pit",6,"HPS-pit6_1","whole body",50,555,"tag34","CTGAAC","CTGAAC"
+"482","RNMB_Mix_BS_PIX_tag34_A2",2,NA,"A2","Mix","pit",5,"HPS-pit5_9","whole body",50,27,"tag34","CTGAAC","CTGAAC"
+"483","RNMB_Mix_BS_PIX_tag34_A3",2,NA,"A3","Mix","FIT",5,"FX_FIT5-3_63","whole body",50,21469,"tag34","CTGAAC","CTGAAC"
+"484","RNMB_Mix_BS_PIX_tag34_A4",2,NA,"A4","Mix","FIT",4,"FX_FIT4-3_17","head and thorax",50,2694,"tag34","CTGAAC","CTGAAC"
+"485","RNMB_Mix_BS_PIX_tag34_A5",2,NA,"A5","Mix","FIT",6,"FX_FIT6-6","whole body",50,12637,"tag34","CTGAAC","CTGAAC"
+"486","RNMB_Mix_BS_PIX_tag34_A6",2,NA,"A6","Mix","FIT",7,"FX_FIT7-8","whole body",50,15,"tag34","CTGAAC","CTGAAC"
+"487","RNMB_Mix_BS_PIX_tag34_A7",2,NA,"A7","Mix","all",5,"FXpool","whole body",NA,29421,"tag34","CTGAAC","CTGAAC"
+"488","RNMB_Mix_BS_PIX_tag34_B1",2,NA,"B1","Mix","pit",5,"HPS-pit5_2","whole body",50,590,"tag34","CTGAAC","CTGAAC"
+"489","RNMB_Mix_BS_PIX_tag34_B2",2,NA,"B2","Mix","FIT",5,"FX_FIT5-3_56","whole body",50,52,"tag34","CTGAAC","CTGAAC"
+"490","RNMB_Mix_BS_PIX_tag34_B3",2,NA,"B3","Mix","FIT",5,"FX_FIT5-3_64","whole body",50,1600,"tag34","CTGAAC","CTGAAC"
+"491","RNMB_Mix_BS_PIX_tag34_B4",2,NA,"B4","Mix","FIT",4,"FX_FIT4-1_21","head",25,5817,"tag34","CTGAAC","CTGAAC"
+"492","RNMB_Mix_BS_PIX_tag34_B5",2,NA,"B5","Mix","FIT",6,"FX_FIT6-19","whole body",50,508,"tag34","CTGAAC","CTGAAC"
+"493","RNMB_Mix_BS_PIX_tag34_B6",2,NA,"B6","Mix","FIT",3,"FX_FIT3-2_26","leg",150,64,"tag34","CTGAAC","CTGAAC"
+"494","RNMB_Mix_BS_PIX_tag34_C1",2,NA,"C1","Mix","pit",5,"HPS-pit5_3","whole body",50,425,"tag34","CTGAAC","CTGAAC"
+"495","RNMB_Mix_BS_PIX_tag34_C2",2,NA,"C2","Mix","FIT",5,"FX_FIT5-3_57","whole body",50,37,"tag34","CTGAAC","CTGAAC"
+"496","RNMB_Mix_BS_PIX_tag34_C3",2,NA,"C3","Mix","FIT",5,"FX_FIT5-3_65","whole body",50,107,"tag34","CTGAAC","CTGAAC"
+"497","RNMB_Mix_BS_PIX_tag34_C4",2,NA,"C4","Mix","FIT",4,"FX_FIT4-2_14","head and thorax",50,93,"tag34","CTGAAC","CTGAAC"
+"498","RNMB_Mix_BS_PIX_tag34_C5",2,NA,"C5","Mix","MT",6,"FX_MT6-8","whole body",50,259,"tag34","CTGAAC","CTGAAC"
+"499","RNMB_Mix_BS_PIX_tag34_C6",2,NA,"C6","Mix","FIT",7,"FX_FIT7-3","whole body",50,63,"tag34","CTGAAC","CTGAAC"
+"500","RNMB_Mix_BS_PIX_tag34_D1",2,NA,"D1","Mix","pit",5,"HPS-pit5_4","whole body",50,15,"tag34","CTGAAC","CTGAAC"
+"501","RNMB_Mix_BS_PIX_tag34_D2",2,NA,"D2","Mix","FIT",5,"FX_FIT5-3_58","whole body",50,17,"tag34","CTGAAC","CTGAAC"
+"502","RNMB_Mix_BS_PIX_tag34_D3",2,NA,"D3","Mix","FIT",5,"FX_FIT5-3_66","whole body",50,28,"tag34","CTGAAC","CTGAAC"
+"503","RNMB_Mix_BS_PIX_tag34_D4",2,NA,"D4","Mix","FIT",4,"FX_FIT4-3_14","head and thorax",50,65,"tag34","CTGAAC","CTGAAC"
+"504","RNMB_Mix_BS_PIX_tag34_D5",2,NA,"D5","Mix","MT",6,"FX_MT6-9","whole body",50,119,"tag34","CTGAAC","CTGAAC"
+"505","RNMB_Mix_BS_PIX_tag34_D6",2,NA,"D6","Mix","FIT",7,"FX_FIT7-7","whole body",50,90,"tag34","CTGAAC","CTGAAC"
+"506","RNMB_Mix_BS_PIX_tag34_E1",2,NA,"E1","Mix","pit",5,"HPS-pit5_5","whole body",50,15,"tag34","CTGAAC","CTGAAC"
+"507","RNMB_Mix_BS_PIX_tag34_E2",2,NA,"E2","Mix","FIT",5,"FX_FIT5-3_59","whole body",50,13,"tag34","CTGAAC","CTGAAC"
+"508","RNMB_Mix_BS_PIX_tag34_E3",2,NA,"E3","Mix","FIT",3,"FX_FIT3-2_3","leg ",150,53,"tag34","CTGAAC","CTGAAC"
+"509","RNMB_Mix_BS_PIX_tag34_E4",2,NA,"E4","Mix","FIT",5,"FX_FIT5-5","whole body",50,240,"tag34","CTGAAC","CTGAAC"
+"510","RNMB_Mix_BS_PIX_tag34_E5",2,NA,"E5","Mix","FIT",4,"FX_FIT4-1_2","head",25,6488,"tag34","CTGAAC","CTGAAC"
+"511","RNMB_Mix_BS_PIX_tag34_E6",2,NA,"E6","Mix","FIT",6,"YHM_FIT6-9","whole body",50,23,"tag34","CTGAAC","CTGAAC"
+"512","RNMB_Mix_BS_PIX_tag34_F1",2,NA,"F1","Mix","pit",5,"HPS-pit5_6","whole body",50,79,"tag34","CTGAAC","CTGAAC"
+"513","RNMB_Mix_BS_PIX_tag34_F2",2,NA,"F2","Mix","FIT",5,"FX_FIT5-3_60","whole body",50,19,"tag34","CTGAAC","CTGAAC"
+"514","RNMB_Mix_BS_PIX_tag34_F3",2,NA,"F3","Mix","FIT",4,"FX_FIT4-1_17","head",25,1249,"tag34","CTGAAC","CTGAAC"
+"515","RNMB_Mix_BS_PIX_tag34_F4",2,NA,"F4","Mix","FIT",5,"FX_FIT5-13","whole body",50,1071,"tag34","CTGAAC","CTGAAC"
+"516","RNMB_Mix_BS_PIX_tag34_F5",2,NA,"F5","Mix","FIT",4,"FX_FIT4-1_34","head",25,3597,"tag34","CTGAAC","CTGAAC"
+"517","RNMB_Mix_BS_PIX_tag34_F6",2,NA,"F6","Mix","FIT",6,"YHM_FIT6-9","whole body",50,1262,"tag34","CTGAAC","CTGAAC"
+"518","RNMB_Mix_BS_PIX_tag34_G1",2,NA,"G1","Mix","pit",5,"HPS-pit5_7","whole body",50,45,"tag34","CTGAAC","CTGAAC"
+"519","RNMB_Mix_BS_PIX_tag34_G2",2,NA,"G2","Mix","FIT",5,"FX_FIT5-3_61","whole body",50,15,"tag34","CTGAAC","CTGAAC"
+"520","RNMB_Mix_BS_PIX_tag34_G3",2,NA,"G3","Mix","FIT",4,"FX_FIT4-1_33","head",25,38,"tag34","CTGAAC","CTGAAC"
+"521","RNMB_Mix_BS_PIX_tag34_G4",2,NA,"G4","Mix","FIT",4,"FX_FIT4-1_1","head",25,992,"tag34","CTGAAC","CTGAAC"
+"522","RNMB_Mix_BS_PIX_tag34_G5",2,NA,"G5","Mix","FIT",4,"FX_FIT4-2_2","head and thorax",50,74,"tag34","CTGAAC","CTGAAC"
+"523","RNMB_Mix_BS_PIX_tag34_G6",2,NA,"G6","Mix","FIT",6,"YHM_FIT6-9","whole body",50,4606,"tag34","CTGAAC","CTGAAC"
+"524","RNMB_Mix_BS_PIX_tag34_H1",2,NA,"H1","Mix","pit",5,"HPS-pit5_8","whole body",50,100,"tag34","CTGAAC","CTGAAC"
+"525","RNMB_Mix_BS_PIX_tag34_H2",2,NA,"H2","Mix","FIT",5,"FX_FIT5-3_62","whole body",50,21,"tag34","CTGAAC","CTGAAC"
+"526","RNMB_Mix_BS_PIX_tag34_H3",2,NA,"H3","Mix","FIT",4,"FX_FIT4-2_10","head and thorax",50,274,"tag34","CTGAAC","CTGAAC"
+"527","RNMB_Mix_BS_PIX_tag34_H4",2,NA,"H4","Mix","FIT",5,"FX_FIT5-24","whole body",50,4039,"tag34","CTGAAC","CTGAAC"
+"528","RNMB_Mix_BS_PIX_tag34_H5",2,NA,"H5","Mix","FIT",6,"FX_FIT6-1","whole body",50,136,"tag34","CTGAAC","CTGAAC"
+"529","RNMB_Mix_BS_PIX_tag34_H6",2,NA,"H6","Mix","FIT",6,"YHM_FIT6-9","whole body",50,7113,"tag34","CTGAAC","CTGAAC"
+"530","RNMB_YHM_BS_P1_tag15_A1",2,NA,"A1","Yuhuangmiao","FIT",1,"YHM_FIT1-1","leg",25,284,"tag15","AGCATG","AGCATG"
+"531","RNMB_YHM_BS_P1_tag15_A10",2,NA,"A10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_28","head and thorax",50,901,"tag15","AGCATG","AGCATG"
+"532","RNMB_YHM_BS_P1_tag15_A11",2,NA,"A11","Yuhuangmiao","pit",2,"YHM_pit-2-1","leg",100,964,"tag15","AGCATG","AGCATG"
+"533","RNMB_YHM_BS_P1_tag15_A12",2,NA,"A12","Yuhuangmiao","pit",3,"YHM_pit-3-2","leg",150,881,"tag15","AGCATG","AGCATG"
+"534","RNMB_YHM_BS_P1_tag15_A2",2,NA,"A2","Yuhuangmiao","FIT",2,"YHM_FIT2-2_2","leg",100,124,"tag15","AGCATG","AGCATG"
+"535","RNMB_YHM_BS_P1_tag15_A3",2,NA,"A3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_8","head",25,13380,"tag15","AGCATG","AGCATG"
+"536","RNMB_YHM_BS_P1_tag15_A4",2,NA,"A4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_16","head",25,14099,"tag15","AGCATG","AGCATG"
+"537","RNMB_YHM_BS_P1_tag15_A5",2,NA,"A5","Yuhuangmiao","FIT",4,"YHM_FIT4-2_1","head",50,11787,"tag15","AGCATG","AGCATG"
+"538","RNMB_YHM_BS_P1_tag15_A6",2,NA,"A6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_9","head and thorax",50,130,"tag15","AGCATG","AGCATG"
+"539","RNMB_YHM_BS_P1_tag15_A7",2,NA,"A7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_4","head and thorax",50,12918,"tag15","AGCATG","AGCATG"
+"540","RNMB_YHM_BS_P1_tag15_A8",2,NA,"A8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_12","head and thorax",50,16,"tag15","AGCATG","AGCATG"
+"541","RNMB_YHM_BS_P1_tag15_A9",2,NA,"A9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_20","head and thorax",50,612,"tag15","AGCATG","AGCATG"
+"542","RNMB_YHM_BS_P1_tag15_B1",2,NA,"B1","Yuhuangmiao","FIT",1,"YHM_FIT1-2","leg",25,1078,"tag15","AGCATG","AGCATG"
+"543","RNMB_YHM_BS_P1_tag15_B10",2,NA,"B10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_29","head and thorax",50,40,"tag15","AGCATG","AGCATG"
+"544","RNMB_YHM_BS_P1_tag15_B11",2,NA,"B11","Yuhuangmiao","pit",2,"YHM_pit-2-2","leg",100,33,"tag15","AGCATG","AGCATG"
+"545","RNMB_YHM_BS_P1_tag15_B12",2,NA,"B12","Yuhuangmiao","pit",3,"YHM_pit-3-3","leg",150,230,"tag15","AGCATG","AGCATG"
+"546","RNMB_YHM_BS_P1_tag15_B2",2,NA,"B2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_1","head",25,102,"tag15","AGCATG","AGCATG"
+"547","RNMB_YHM_BS_P1_tag15_B3",2,NA,"B3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_9","head",25,683,"tag15","AGCATG","AGCATG"
+"548","RNMB_YHM_BS_P1_tag15_B4",2,NA,"B4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_17","head",25,5709,"tag15","AGCATG","AGCATG"
+"549","RNMB_YHM_BS_P1_tag15_B5",2,NA,"B5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_2","head and thorax",50,232,"tag15","AGCATG","AGCATG"
+"550","RNMB_YHM_BS_P1_tag15_B6",2,NA,"B6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_10","head and thorax",50,15,"tag15","AGCATG","AGCATG"
+"551","RNMB_YHM_BS_P1_tag15_B7",2,NA,"B7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_5","head and thorax",50,10811,"tag15","AGCATG","AGCATG"
+"552","RNMB_YHM_BS_P1_tag15_B8",2,NA,"B8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_13","head and thorax",50,6762,"tag15","AGCATG","AGCATG"
+"553","RNMB_YHM_BS_P1_tag15_B9",2,NA,"B9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_21","head and thorax",50,91,"tag15","AGCATG","AGCATG"
+"554","RNMB_YHM_BS_P1_tag15_C1",2,NA,"C1","Yuhuangmiao","FIT",1,"YHM_FIT1-3","leg",25,261,"tag15","AGCATG","AGCATG"
+"555","RNMB_YHM_BS_P1_tag15_C10",2,NA,"C10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_30","head and thorax",50,164,"tag15","AGCATG","AGCATG"
+"556","RNMB_YHM_BS_P1_tag15_C11",2,NA,"C11","Yuhuangmiao","pit",2,"YHM_pit-2-3","leg",100,1764,"tag15","AGCATG","AGCATG"
+"557","RNMB_YHM_BS_P1_tag15_C12",2,NA,"C12","Yuhuangmiao","pit",3,"YHM_pit-3-4","leg",150,3230,"tag15","AGCATG","AGCATG"
+"558","RNMB_YHM_BS_P1_tag15_C2",2,NA,"C2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_2","head",25,88,"tag15","AGCATG","AGCATG"
+"559","RNMB_YHM_BS_P1_tag15_C3",2,NA,"C3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_10","head",25,320,"tag15","AGCATG","AGCATG"
+"560","RNMB_YHM_BS_P1_tag15_C4",2,NA,"C4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_18","head",25,129,"tag15","AGCATG","AGCATG"
+"561","RNMB_YHM_BS_P1_tag15_C5",2,NA,"C5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_3","head and thorax",50,79,"tag15","AGCATG","AGCATG"
+"562","RNMB_YHM_BS_P1_tag15_C6",2,NA,"C6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_11","head and thorax",50,72,"tag15","AGCATG","AGCATG"
+"563","RNMB_YHM_BS_P1_tag15_C7",2,NA,"C7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_6","head and thorax",50,9011,"tag15","AGCATG","AGCATG"
+"564","RNMB_YHM_BS_P1_tag15_C8",2,NA,"C8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_14","head and thorax",50,1879,"tag15","AGCATG","AGCATG"
+"565","RNMB_YHM_BS_P1_tag15_C9",2,NA,"C9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_22","head and thorax",50,7831,"tag15","AGCATG","AGCATG"
+"566","RNMB_YHM_BS_P1_tag15_D1",2,NA,"D1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_1","leg",50,813,"tag15","AGCATG","AGCATG"
+"567","RNMB_YHM_BS_P1_tag15_D10",2,NA,"D10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_31","head and thorax",50,96,"tag15","AGCATG","AGCATG"
+"568","RNMB_YHM_BS_P1_tag15_D11",2,NA,"D11","Yuhuangmiao","pit",2,"YHM_pit-2-4","leg",100,7438,"tag15","AGCATG","AGCATG"
+"569","RNMB_YHM_BS_P1_tag15_D12",2,NA,"D12","Yuhuangmiao","pit",3,"YHM_pit-3-6","leg",150,3768,"tag15","AGCATG","AGCATG"
+"570","RNMB_YHM_BS_P1_tag15_D2",2,NA,"D2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_3","head",25,24,"tag15","AGCATG","AGCATG"
+"571","RNMB_YHM_BS_P1_tag15_D3",2,NA,"D3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_11","head",25,74,"tag15","AGCATG","AGCATG"
+"572","RNMB_YHM_BS_P1_tag15_D4",2,NA,"D4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_19","head",25,117,"tag15","AGCATG","AGCATG"
+"573","RNMB_YHM_BS_P1_tag15_D5",2,NA,"D5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_4","head and thorax",50,55,"tag15","AGCATG","AGCATG"
+"574","RNMB_YHM_BS_P1_tag15_D6",2,NA,"D6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_12","head and thorax",50,24,"tag15","AGCATG","AGCATG"
+"575","RNMB_YHM_BS_P1_tag15_D7",2,NA,"D7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_7","head and thorax",50,212,"tag15","AGCATG","AGCATG"
+"576","RNMB_YHM_BS_P1_tag15_D8",2,NA,"D8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_15","head and thorax",50,254,"tag15","AGCATG","AGCATG"
+"577","RNMB_YHM_BS_P1_tag15_D9",2,NA,"D9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_23","head and thorax",50,5678,"tag15","AGCATG","AGCATG"
+"578","RNMB_YHM_BS_P1_tag15_E1",2,NA,"E1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_2","leg",50,22,"tag15","AGCATG","AGCATG"
+"579","RNMB_YHM_BS_P1_tag15_E10",2,NA,"E10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_32","head and thorax",50,2368,"tag15","AGCATG","AGCATG"
+"580","RNMB_YHM_BS_P1_tag15_E11",2,NA,"E11","Yuhuangmiao","pit",2,"YHM_pit-2-5","leg",100,1281,"tag15","AGCATG","AGCATG"
+"581","RNMB_YHM_BS_P1_tag15_E12",2,NA,"E12","Yuhuangmiao","pit",3,"YHM_pit-3-7","leg",150,1439,"tag15","AGCATG","AGCATG"
+"582","RNMB_YHM_BS_P1_tag15_E2",2,NA,"E2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_4","head",25,19,"tag15","AGCATG","AGCATG"
+"583","RNMB_YHM_BS_P1_tag15_E3",2,NA,"E3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_12","head",25,168,"tag15","AGCATG","AGCATG"
+"584","RNMB_YHM_BS_P1_tag15_E4",2,NA,"E4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_1","leg",150,42,"tag15","AGCATG","AGCATG"
+"585","RNMB_YHM_BS_P1_tag15_E5",2,NA,"E5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_5","head and thorax",50,3043,"tag15","AGCATG","AGCATG"
+"586","RNMB_YHM_BS_P1_tag15_E6",2,NA,"E6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_13","head and thorax",35,191,"tag15","AGCATG","AGCATG"
+"587","RNMB_YHM_BS_P1_tag15_E7",2,NA,"E7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_8","head and thorax",50,1469,"tag15","AGCATG","AGCATG"
+"588","RNMB_YHM_BS_P1_tag15_E8",2,NA,"E8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_16","head and thorax",50,4321,"tag15","AGCATG","AGCATG"
+"589","RNMB_YHM_BS_P1_tag15_E9",2,NA,"E9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_24","head and thorax",50,1172,"tag15","AGCATG","AGCATG"
+"590","RNMB_YHM_BS_P1_tag15_F1",2,NA,"F1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_3","leg",50,107,"tag15","AGCATG","AGCATG"
+"591","RNMB_YHM_BS_P1_tag15_F10",2,NA,"F10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_33","head and thorax",50,39,"tag15","AGCATG","AGCATG"
+"592","RNMB_YHM_BS_P1_tag15_F11",2,NA,"F11","Yuhuangmiao","pit",2,"YHM_pit-2-6","leg",100,4954,"tag15","AGCATG","AGCATG"
+"593","RNMB_YHM_BS_P1_tag15_F12",2,NA,"F12","Yuhuangmiao","pit",3,"YHM_pit-3-8","leg",150,292,"tag15","AGCATG","AGCATG"
+"594","RNMB_YHM_BS_P1_tag15_F2",2,NA,"F2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_5","head",25,24,"tag15","AGCATG","AGCATG"
+"595","RNMB_YHM_BS_P1_tag15_F3",2,NA,"F3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_13","head",25,300,"tag15","AGCATG","AGCATG"
+"596","RNMB_YHM_BS_P1_tag15_F4",2,NA,"F4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_2","leg",150,633,"tag15","AGCATG","AGCATG"
+"597","RNMB_YHM_BS_P1_tag15_F5",2,NA,"F5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_6","head and thorax",50,355,"tag15","AGCATG","AGCATG"
+"598","RNMB_YHM_BS_P1_tag15_F6",2,NA,"F6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_1","head and thorax",50,189,"tag15","AGCATG","AGCATG"
+"599","RNMB_YHM_BS_P1_tag15_F7",2,NA,"F7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_9","head and thorax",50,3428,"tag15","AGCATG","AGCATG"
+"600","RNMB_YHM_BS_P1_tag15_F8",2,NA,"F8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_17","head and thorax",50,2718,"tag15","AGCATG","AGCATG"
+"601","RNMB_YHM_BS_P1_tag15_F9",2,NA,"F9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_25","head and thorax",50,468,"tag15","AGCATG","AGCATG"
+"602","RNMB_YHM_BS_P1_tag15_G1",2,NA,"G1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_4","leg",50,32,"tag15","AGCATG","AGCATG"
+"603","RNMB_YHM_BS_P1_tag15_G10",2,NA,"G10","Yuhuangmiao","pit",1,"YHM_pit-1-1","leg",25,329,"tag15","AGCATG","AGCATG"
+"604","RNMB_YHM_BS_P1_tag15_G11",2,NA,"G11","Yuhuangmiao","pit",2,"YHM_pit-2-7","leg",100,8501,"tag15","AGCATG","AGCATG"
+"605","RNMB_YHM_BS_P1_tag15_G12",2,NA,"G12","Yuhuangmiao","pit",3,"YHM_pit-3-9","leg",150,723,"tag15","AGCATG","AGCATG"
+"606","RNMB_YHM_BS_P1_tag15_G2",2,NA,"G2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_6","head",25,30,"tag15","AGCATG","AGCATG"
+"607","RNMB_YHM_BS_P1_tag15_G3",2,NA,"G3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_14","head",25,63,"tag15","AGCATG","AGCATG"
+"608","RNMB_YHM_BS_P1_tag15_G4",2,NA,"G4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_3","leg",150,603,"tag15","AGCATG","AGCATG"
+"609","RNMB_YHM_BS_P1_tag15_G5",2,NA,"G5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_7","head and thorax",50,22,"tag15","AGCATG","AGCATG"
+"610","RNMB_YHM_BS_P1_tag15_G6",2,NA,"G6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_2","head and thorax",50,1283,"tag15","AGCATG","AGCATG"
+"611","RNMB_YHM_BS_P1_tag15_G7",2,NA,"G7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_10","head and thorax",50,4256,"tag15","AGCATG","AGCATG"
+"612","RNMB_YHM_BS_P1_tag15_G8",2,NA,"G8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_18","head and thorax",50,9910,"tag15","AGCATG","AGCATG"
+"613","RNMB_YHM_BS_P1_tag15_G9",2,NA,"G9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_26","head and thorax",50,7875,"tag15","AGCATG","AGCATG"
+"614","RNMB_YHM_BS_P1_tag15_H1",2,NA,"H1","Yuhuangmiao","FIT",2,"YHM_FIT2-2_1","leg",100,133,"tag15","AGCATG","AGCATG"
+"615","RNMB_YHM_BS_P1_tag15_H10",2,NA,"H10","Yuhuangmiao","pit",1,"YHM_pit-1-2","leg",25,5068,"tag15","AGCATG","AGCATG"
+"616","RNMB_YHM_BS_P1_tag15_H11",2,NA,"H11","Yuhuangmiao","pit",3,"YHM_pit-3-1","leg",150,3192,"tag15","AGCATG","AGCATG"
+"617","RNMB_YHM_BS_P1_tag15_H12",2,NA,"H12","Yuhuangmiao","pit",3,"YHM_pit-3-10","leg",150,438,"tag15","AGCATG","AGCATG"
+"618","RNMB_YHM_BS_P1_tag15_H2",2,NA,"H2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_7","head",25,36,"tag15","AGCATG","AGCATG"
+"619","RNMB_YHM_BS_P1_tag15_H3",2,NA,"H3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_15","head",25,135,"tag15","AGCATG","AGCATG"
+"620","RNMB_YHM_BS_P1_tag15_H4",2,NA,"H4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_4","leg",150,2572,"tag15","AGCATG","AGCATG"
+"621","RNMB_YHM_BS_P1_tag15_H5",2,NA,"H5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_8","head and thorax",50,61,"tag15","AGCATG","AGCATG"
+"622","RNMB_YHM_BS_P1_tag15_H6",2,NA,"H6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_3","head and thorax",50,5014,"tag15","AGCATG","AGCATG"
+"623","RNMB_YHM_BS_P1_tag15_H7",2,NA,"H7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_11","head and thorax",50,373,"tag15","AGCATG","AGCATG"
+"624","RNMB_YHM_BS_P1_tag15_H8",2,NA,"H8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_19","head and thorax",50,885,"tag15","AGCATG","AGCATG"
+"625","RNMB_YHM_BS_P1_tag15_H9",2,NA,"H9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_27","head and thorax",50,171,"tag15","AGCATG","AGCATG"
+"626","RNMB_YHM_BS_P2_tag38_A1",2,NA,"A1","Yuhuangmiao","pit",3,"YHM_pit-3-11","leg",150,122,"tag38","GAGTCA","GAGTCA"
+"627","RNMB_YHM_BS_P2_tag38_A10",2,NA,"A10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_20","whole body",50,280,"tag38","GAGTCA","GAGTCA"
+"628","RNMB_YHM_BS_P2_tag38_A11",2,NA,"A11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_28","whole body",50,2011,"tag38","GAGTCA","GAGTCA"
+"629","RNMB_YHM_BS_P2_tag38_A12",2,NA,"A12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_2","whole body",50,225,"tag38","GAGTCA","GAGTCA"
+"630","RNMB_YHM_BS_P2_tag38_A2",2,NA,"A2","Yuhuangmiao","pit",3,"YHM_pit-3-18","leg",150,42,"tag38","GAGTCA","GAGTCA"
+"631","RNMB_YHM_BS_P2_tag38_A3",2,NA,"A3","Yuhuangmiao","pit",4,"YHM_pit-4-1_5","head",50,19685,"tag38","GAGTCA","GAGTCA"
+"632","RNMB_YHM_BS_P2_tag38_A4",2,NA,"A4","Yuhuangmiao","MT",4,"YHM_MT-4-1_1","head",50,7,"tag38","GAGTCA","GAGTCA"
+"633","RNMB_YHM_BS_P2_tag38_A5",2,NA,"A5","Yuhuangmiao","L/N",2,"YHM_L/N2-2","leg",100,2376,"tag38","GAGTCA","GAGTCA"
+"634","RNMB_YHM_BS_P2_tag38_A6",2,NA,"A6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_1","head",50,107,"tag38","GAGTCA","GAGTCA"
+"635","RNMB_YHM_BS_P2_tag38_A7",2,NA,"A7","Yuhuangmiao","L/N",4,"YHM_L/N4-2_9","head",30,5507,"tag38","GAGTCA","GAGTCA"
+"636","RNMB_YHM_BS_P2_tag38_A8",2,NA,"A8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_4","whole body",50,3,"tag38","GAGTCA","GAGTCA"
+"637","RNMB_YHM_BS_P2_tag38_A9",2,NA,"A9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_12","whole body",50,105,"tag38","GAGTCA","GAGTCA"
+"638","RNMB_YHM_BS_P2_tag38_B1",2,NA,"B1","Yuhuangmiao","pit",3,"YHM_pit-3-12","leg",150,186,"tag38","GAGTCA","GAGTCA"
+"639","RNMB_YHM_BS_P2_tag38_B10",2,NA,"B10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_21","whole body",50,10,"tag38","GAGTCA","GAGTCA"
+"640","RNMB_YHM_BS_P2_tag38_B11",2,NA,"B11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_29","whole body",50,26,"tag38","GAGTCA","GAGTCA"
+"641","RNMB_YHM_BS_P2_tag38_B12",2,NA,"B12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_3","whole body",50,90,"tag38","GAGTCA","GAGTCA"
+"642","RNMB_YHM_BS_P2_tag38_B2",2,NA,"B2","Yuhuangmiao","pit",3,"YHM_pit-3-19","leg",150,26,"tag38","GAGTCA","GAGTCA"
+"643","RNMB_YHM_BS_P2_tag38_B3",2,NA,"B3","Yuhuangmiao","pit",4,"YHM_pit-4-2_1","head",50,317,"tag38","GAGTCA","GAGTCA"
+"644","RNMB_YHM_BS_P2_tag38_B4",2,NA,"B4","Yuhuangmiao","MT",4,"YHM_MT-4-1_2","head",50,3009,"tag38","GAGTCA","GAGTCA"
+"645","RNMB_YHM_BS_P2_tag38_B5",2,NA,"B5","Yuhuangmiao","L/N",2,"YHM_L/N2-3","leg",46,70,"tag38","GAGTCA","GAGTCA"
+"646","RNMB_YHM_BS_P2_tag38_B6",2,NA,"B6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_2","head",50,19,"tag38","GAGTCA","GAGTCA"
+"647","RNMB_YHM_BS_P2_tag38_B7",2,NA,"B7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_1","whole body",25,7628,"tag38","GAGTCA","GAGTCA"
+"648","RNMB_YHM_BS_P2_tag38_B8",2,NA,"B8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_5","whole body",50,2441,"tag38","GAGTCA","GAGTCA"
+"649","RNMB_YHM_BS_P2_tag38_B9",2,NA,"B9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_13","whole body",50,37,"tag38","GAGTCA","GAGTCA"
+"650","RNMB_YHM_BS_P2_tag38_C1",2,NA,"C1","Yuhuangmiao","pit",3,"YHM_pit-3-13","leg",150,31,"tag38","GAGTCA","GAGTCA"
+"651","RNMB_YHM_BS_P2_tag38_C10",2,NA,"C10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_22","whole body",50,192,"tag38","GAGTCA","GAGTCA"
+"652","RNMB_YHM_BS_P2_tag38_C11",2,NA,"C11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_30","whole body",50,2629,"tag38","GAGTCA","GAGTCA"
+"653","RNMB_YHM_BS_P2_tag38_C12",2,NA,"C12","Yuhuangmiao","FIT",6,"YHM_FIT6-1","whole body",50,3041,"tag38","GAGTCA","GAGTCA"
+"654","RNMB_YHM_BS_P2_tag38_C2",2,NA,"C2","Yuhuangmiao","pit",3,"YHM_pit-3-20","leg",150,25,"tag38","GAGTCA","GAGTCA"
+"655","RNMB_YHM_BS_P2_tag38_C3",2,NA,"C3","Yuhuangmiao","pit",4,"YHM_pit-4-2_2","head",50,30,"tag38","GAGTCA","GAGTCA"
+"656","RNMB_YHM_BS_P2_tag38_C4",2,NA,"C4","Yuhuangmiao","MT",4,"YHM_MT-4-2_1","head",50,43,"tag38","GAGTCA","GAGTCA"
+"657","RNMB_YHM_BS_P2_tag38_C5",2,NA,"C5","Yuhuangmiao","L/N",3,"YHM_L/N3-1","leg",150,71,"tag38","GAGTCA","GAGTCA"
+"658","RNMB_YHM_BS_P2_tag38_C6",2,NA,"C6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_3","head",50,50,"tag38","GAGTCA","GAGTCA"
+"659","RNMB_YHM_BS_P2_tag38_C7",2,NA,"C7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_2","whole body",25,6392,"tag38","GAGTCA","GAGTCA"
+"660","RNMB_YHM_BS_P2_tag38_C8",2,NA,"C8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_6","whole body",50,3229,"tag38","GAGTCA","GAGTCA"
+"661","RNMB_YHM_BS_P2_tag38_C9",2,NA,"C9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_14","whole body",50,4178,"tag38","GAGTCA","GAGTCA"
+"662","RNMB_YHM_BS_P2_tag38_D1",2,NA,"D1","Yuhuangmiao","pit",3,"YHM_pit-3-5","leg",150,104,"tag38","GAGTCA","GAGTCA"
+"663","RNMB_YHM_BS_P2_tag38_D10",2,NA,"D10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_23","whole body",50,79,"tag38","GAGTCA","GAGTCA"
+"664","RNMB_YHM_BS_P2_tag38_D11",2,NA,"D11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_31","whole body",50,6245,"tag38","GAGTCA","GAGTCA"
+"665","RNMB_YHM_BS_P2_tag38_D12",2,NA,"D12","Yuhuangmiao","FIT",6,"YHM_FIT6-2","whole body",50,1514,"tag38","GAGTCA","GAGTCA"
+"666","RNMB_YHM_BS_P2_tag38_D2",2,NA,"D2","Yuhuangmiao","pit",3,"YHM_pit-3-21","leg",100,12,"tag38","GAGTCA","GAGTCA"
+"667","RNMB_YHM_BS_P2_tag38_D3",2,NA,"D3","Yuhuangmiao","pit",4,"YHM_pit-4-2_3","head",50,25,"tag38","GAGTCA","GAGTCA"
+"668","RNMB_YHM_BS_P2_tag38_D4",2,NA,"D4","Yuhuangmiao","MT",4,"YHM_MT-4-2_2","head",50,26,"tag38","GAGTCA","GAGTCA"
+"669","RNMB_YHM_BS_P2_tag38_D5",2,NA,"D5","Yuhuangmiao","L/N",3,"YHM_L/N3-2","leg",150,63,"tag38","GAGTCA","GAGTCA"
+"670","RNMB_YHM_BS_P2_tag38_D6",2,NA,"D6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_4","head",50,21,"tag38","GAGTCA","GAGTCA"
+"671","RNMB_YHM_BS_P2_tag38_D7",2,NA,"D7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_3","whole body",25,286,"tag38","GAGTCA","GAGTCA"
+"672","RNMB_YHM_BS_P2_tag38_D8",2,NA,"D8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_7","whole body",50,316,"tag38","GAGTCA","GAGTCA"
+"673","RNMB_YHM_BS_P2_tag38_D9",2,NA,"D9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_15","whole body",50,3460,"tag38","GAGTCA","GAGTCA"
+"674","RNMB_YHM_BS_P2_tag38_E1",2,NA,"E1","Yuhuangmiao","pit",3,"YHM_pit-3-14","leg",150,22,"tag38","GAGTCA","GAGTCA"
+"675","RNMB_YHM_BS_P2_tag38_E10",2,NA,"E10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_24","whole body",50,1130,"tag38","GAGTCA","GAGTCA"
+"676","RNMB_YHM_BS_P2_tag38_E11",2,NA,"E11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_32","whole body",50,1875,"tag38","GAGTCA","GAGTCA"
+"677","RNMB_YHM_BS_P2_tag38_E12",2,NA,"E12","Yuhuangmiao","FIT",6,"YHM_FIT6-3","whole body",50,955,"tag38","GAGTCA","GAGTCA"
+"678","RNMB_YHM_BS_P2_tag38_E2",2,NA,"E2","Yuhuangmiao","pit",4,"YHM_pit-4-1_1","head",50,9,"tag38","GAGTCA","GAGTCA"
+"679","RNMB_YHM_BS_P2_tag38_E3",2,NA,"E3","Yuhuangmiao","pit",4,"YHM_pit-4-2_4","head",50,25,"tag38","GAGTCA","GAGTCA"
+"680","RNMB_YHM_BS_P2_tag38_E4",2,NA,"E4","Yuhuangmiao","MT",4,"YHM_MT-4-2_3","head",50,22,"tag38","GAGTCA","GAGTCA"
+"681","RNMB_YHM_BS_P2_tag38_E5",2,NA,"E5","Yuhuangmiao","L/N",3,"YHM_L/N3-3","leg",150,4030,"tag38","GAGTCA","GAGTCA"
+"682","RNMB_YHM_BS_P2_tag38_E6",2,NA,"E6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_5","head",50,72,"tag38","GAGTCA","GAGTCA"
+"683","RNMB_YHM_BS_P2_tag38_E7",2,NA,"E7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_4","whole body",25,637,"tag38","GAGTCA","GAGTCA"
+"684","RNMB_YHM_BS_P2_tag38_E8",2,NA,"E8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_8","whole body",50,2067,"tag38","GAGTCA","GAGTCA"
+"685","RNMB_YHM_BS_P2_tag38_E9",2,NA,"E9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_16","whole body",50,1969,"tag38","GAGTCA","GAGTCA"
+"686","RNMB_YHM_BS_P2_tag38_F1",2,NA,"F1","Yuhuangmiao","pit",3,"YHM_pit-3-15","leg",150,29,"tag38","GAGTCA","GAGTCA"
+"687","RNMB_YHM_BS_P2_tag38_F10",2,NA,"F10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_25","whole body",50,47,"tag38","GAGTCA","GAGTCA"
+"688","RNMB_YHM_BS_P2_tag38_F11",2,NA,"F11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_33","whole body",50,6552,"tag38","GAGTCA","GAGTCA"
+"689","RNMB_YHM_BS_P2_tag38_F12",2,NA,"F12","Yuhuangmiao","FIT",6,"YHM_FIT6-4","whole body",50,322,"tag38","GAGTCA","GAGTCA"
+"690","RNMB_YHM_BS_P2_tag38_F2",2,NA,"F2","Yuhuangmiao","pit",4,"YHM_pit-4-1_2","head",50,23,"tag38","GAGTCA","GAGTCA"
+"691","RNMB_YHM_BS_P2_tag38_F3",2,NA,"F3","Yuhuangmiao","pit",4,"YHM_pit-4-2_5","head",50,100,"tag38","GAGTCA","GAGTCA"
+"692","RNMB_YHM_BS_P2_tag38_F4",2,NA,"F4","Yuhuangmiao","L/N",1,"YHM_L/N1-1","leg",25,1551,"tag38","GAGTCA","GAGTCA"
+"693","RNMB_YHM_BS_P2_tag38_F5",2,NA,"F5","Yuhuangmiao","L/N",3,"YHM_L/N3-4","head",96,613,"tag38","GAGTCA","GAGTCA"
+"694","RNMB_YHM_BS_P2_tag38_F6",2,NA,"F6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_6","head",50,114,"tag38","GAGTCA","GAGTCA"
+"695","RNMB_YHM_BS_P2_tag38_F7",2,NA,"F7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_1","whole body",50,2720,"tag38","GAGTCA","GAGTCA"
+"696","RNMB_YHM_BS_P2_tag38_F8",2,NA,"F8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_9","whole body",50,5599,"tag38","GAGTCA","GAGTCA"
+"697","RNMB_YHM_BS_P2_tag38_F9",2,NA,"F9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_17","whole body",50,614,"tag38","GAGTCA","GAGTCA"
+"698","RNMB_YHM_BS_P2_tag38_G1",2,NA,"G1","Yuhuangmiao","pit",3,"YHM_pit-3-16","leg",150,14,"tag38","GAGTCA","GAGTCA"
+"699","RNMB_YHM_BS_P2_tag38_G10",2,NA,"G10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_26","whole body",50,56,"tag38","GAGTCA","GAGTCA"
+"700","RNMB_YHM_BS_P2_tag38_G11",2,NA,"G11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_34","whole body",46,8065,"tag38","GAGTCA","GAGTCA"
+"701","RNMB_YHM_BS_P2_tag38_G12",2,NA,"G12","Yuhuangmiao","FIT",6,"YHM_FIT6-5","whole body",50,385,"tag38","GAGTCA","GAGTCA"
+"702","RNMB_YHM_BS_P2_tag38_G2",2,NA,"G2","Yuhuangmiao","pit",4,"YHM_pit-4-1_3","head",50,37,"tag38","GAGTCA","GAGTCA"
+"703","RNMB_YHM_BS_P2_tag38_G3",2,NA,"G3","Yuhuangmiao","pit",4,"YHM_pit-4-2_6","head",38,43,"tag38","GAGTCA","GAGTCA"
+"704","RNMB_YHM_BS_P2_tag38_G4",2,NA,"G4","Yuhuangmiao","L/N",1,"YHM_L/N1-2","leg",17,1023,"tag38","GAGTCA","GAGTCA"
+"705","RNMB_YHM_BS_P2_tag38_G5",2,NA,"G5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_1","head",50,25,"tag38","GAGTCA","GAGTCA"
+"706","RNMB_YHM_BS_P2_tag38_G6",2,NA,"G6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_7","head",50,292,"tag38","GAGTCA","GAGTCA"
+"707","RNMB_YHM_BS_P2_tag38_G7",2,NA,"G7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_2","whole body",50,3028,"tag38","GAGTCA","GAGTCA"
+"708","RNMB_YHM_BS_P2_tag38_G8",2,NA,"G8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_10","whole body",50,3560,"tag38","GAGTCA","GAGTCA"
+"709","RNMB_YHM_BS_P2_tag38_G9",2,NA,"G9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_18","whole body",50,4290,"tag38","GAGTCA","GAGTCA"
+"710","RNMB_YHM_BS_P2_tag38_H1",2,NA,"H1","Yuhuangmiao","pit",3,"YHM_pit-3-17","leg",150,29,"tag38","GAGTCA","GAGTCA"
+"711","RNMB_YHM_BS_P2_tag38_H10",2,NA,"H10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_27","whole body",50,3544,"tag38","GAGTCA","GAGTCA"
+"712","RNMB_YHM_BS_P2_tag38_H11",2,NA,"H11","Yuhuangmiao","FIT",5,"YHM_FIT5-3_1","whole body",50,4999,"tag38","GAGTCA","GAGTCA"
+"713","RNMB_YHM_BS_P2_tag38_H12",2,NA,"H12","Yuhuangmiao","FIT",6,"YHM_FIT6-6","whole body",50,1395,"tag38","GAGTCA","GAGTCA"
+"714","RNMB_YHM_BS_P2_tag38_H2",2,NA,"H2","Yuhuangmiao","pit",4,"YHM_pit-4-1_4","head",50,32,"tag38","GAGTCA","GAGTCA"
+"715","RNMB_YHM_BS_P2_tag38_H3",2,NA,"H3","Yuhuangmiao","MT",3,"YHM_MT-3_1","leg",40,311,"tag38","GAGTCA","GAGTCA"
+"716","RNMB_YHM_BS_P2_tag38_H4",2,NA,"H4","Yuhuangmiao","L/N",2,"YHM_L/N2-1","leg",100,2497,"tag38","GAGTCA","GAGTCA"
+"717","RNMB_YHM_BS_P2_tag38_H5",2,NA,"H5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_2","head",17,633,"tag38","GAGTCA","GAGTCA"
+"718","RNMB_YHM_BS_P2_tag38_H6",NA,NA,"H6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_8","head",50,NA,"tag38","GAGTCA","GAGTCA"
+"719","RNMB_YHM_BS_P2_tag38_H7",2,NA,"H7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_3","whole body",50,851,"tag38","GAGTCA","GAGTCA"
+"720","RNMB_YHM_BS_P2_tag38_H8",2,NA,"H8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_11","whole body",50,1208,"tag38","GAGTCA","GAGTCA"
+"721","RNMB_YHM_BS_P2_tag38_H9",2,NA,"H9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_19","whole body",50,242,"tag38","GAGTCA","GAGTCA"
+"722","RNMB_YHM_BS_P3_tag53_A1",2,NA,"A1","Yuhuangmiao","FIT",6,"YHM_FIT6-7","whole body",50,714,"tag53","TCGACT","TCGACT"
+"723","RNMB_YHM_BS_P3_tag53_A10",2,NA,"A10","Yuhuangmiao","pit",2,"HPS_pit2-2","leg",100,198,"tag53","TCGACT","TCGACT"
+"724","RNMB_YHM_BS_P3_tag53_A11",2,NA,"A11","Yuhuangmiao","pit",4,"HPS_pit4-2_3","head and thorax",50,3744,"tag53","TCGACT","TCGACT"
+"725","RNMB_YHM_BS_P3_tag53_A12",2,NA,"A12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_2","whole body",25,3254,"tag53","TCGACT","TCGACT"
+"726","RNMB_YHM_BS_P3_tag53_A2",2,NA,"A2","Yuhuangmiao","FIT",6,"YHM_FIT6-15","whole body",50,81,"tag53","TCGACT","TCGACT"
+"727","RNMB_YHM_BS_P3_tag53_A3",2,NA,"A3","Yuhuangmiao","FIT",6,"YHM_FIT6-23","whole body",50,29217,"tag53","TCGACT","TCGACT"
+"728","RNMB_YHM_BS_P3_tag53_A4",2,NA,"A4","Yuhuangmiao","MT",5,"YHM_MT5-1_2","whole body",25,6635,"tag53","TCGACT","TCGACT"
+"729","RNMB_YHM_BS_P3_tag53_A5",2,NA,"A5","Yuhuangmiao","MT",6,"YHM_MT6-3","whole body",50,4018,"tag53","TCGACT","TCGACT"
+"730","RNMB_YHM_BS_P3_tag53_A6",2,NA,"A6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_4","whole body",25,92,"tag53","TCGACT","TCGACT"
+"731","RNMB_YHM_BS_P3_tag53_A7",2,NA,"A7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_4","whole body",50,12683,"tag53","TCGACT","TCGACT"
+"732","RNMB_YHM_BS_P3_tag53_A8",2,NA,"A8","Yuhuangmiao","all",5,"pool1","whole body",NA,23,"tag53","CTGAAC","CTGAAC"
+"733","RNMB_YHM_BS_P3_tag53_A8",2,NA,"A8","Yuhuangmiao","L/N",6,"YHM_L/N6-8","whole body",50,23,"tag53","TCGACT","TCGACT"
+"734","RNMB_YHM_BS_P3_tag53_A9",2,NA,"A9","Yuhuangmiao","MT",4,"HPS_MT4_2_3","head and thorax",50,399,"tag53","TCGACT","TCGACT"
+"735","RNMB_YHM_BS_P3_tag53_B1",2,NA,"B1","Yuhuangmiao","FIT",6,"YHM_FIT6-8","whole body",50,1285,"tag53","TCGACT","TCGACT"
+"736","RNMB_YHM_BS_P3_tag53_B10",2,NA,"B10","Yuhuangmiao","pit",3,"HPS_pit3-1","leg",150,21,"tag53","TCGACT","TCGACT"
+"737","RNMB_YHM_BS_P3_tag53_B11",2,NA,"B11","Yuhuangmiao","pit",4,"HPS_pit4-2_4","head and thorax",50,82,"tag53","TCGACT","TCGACT"
+"738","RNMB_YHM_BS_P3_tag53_B12",2,NA,"B12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_3","whole body",25,677,"tag53","TCGACT","TCGACT"
+"739","RNMB_YHM_BS_P3_tag53_B2",2,NA,"B2","Yuhuangmiao","FIT",6,"YHM_FIT6-16","whole body",50,61,"tag53","TCGACT","TCGACT"
+"740","RNMB_YHM_BS_P3_tag53_B3",2,NA,"B3","Yuhuangmiao","FIT",7,"YHM_FIT7-1","whole body",50,1266,"tag53","TCGACT","TCGACT"
+"741","RNMB_YHM_BS_P3_tag53_B4",2,NA,"B4","Yuhuangmiao","MT",5,"YHM_MT5-1_3","whole body",25,5477,"tag53","TCGACT","TCGACT"
+"742","RNMB_YHM_BS_P3_tag53_B5",2,NA,"B5","Yuhuangmiao","MT",6,"YHM_MT6-4","whole body",50,631,"tag53","TCGACT","TCGACT"
+"743","RNMB_YHM_BS_P3_tag53_B6",2,NA,"B6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_5","whole body",25,51,"tag53","TCGACT","TCGACT"
+"744","RNMB_YHM_BS_P3_tag53_B7",2,NA,"B7","Yuhuangmiao","all",5,"Fxpool","whole body",NA,15736,"tag53","CTGAAC","CTGAAC"
+"745","RNMB_YHM_BS_P3_tag53_B7",2,NA,"B7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_5","whole body",50,15736,"tag53","TCGACT","TCGACT"
+"746","RNMB_YHM_BS_P3_tag53_B8",2,NA,"B8","Yuhuangmiao","all",5,"pool1","whole body",NA,4682,"tag53","CTGAAC","CTGAAC"
+"747","RNMB_YHM_BS_P3_tag53_B8",2,NA,"B8","Yuhuangmiao","L/N",6,"YHM_L/N6-9","whole body",50,4682,"tag53","TCGACT","TCGACT"
+"748","RNMB_YHM_BS_P3_tag53_B9",2,NA,"B9","Yuhuangmiao","MT",4,"HPS_MT4_2_4","head and thorax",50,84,"tag53","TCGACT","TCGACT"
+"749","RNMB_YHM_BS_P3_tag53_C1",2,NA,"C1","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,360,"tag53","TCGACT","TCGACT"
+"750","RNMB_YHM_BS_P3_tag53_C10",2,NA,"C10","Yuhuangmiao","pit",3,"HPS_pit3-2","leg",151,241,"tag53","TCGACT","TCGACT"
+"751","RNMB_YHM_BS_P3_tag53_C11",2,NA,"C11","Yuhuangmiao","pit",4,"HPS_pit4-2_5","head and thorax",50,5743,"tag53","TCGACT","TCGACT"
+"752","RNMB_YHM_BS_P3_tag53_C12",2,NA,"C12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_4","whole body",25,11858,"tag53","TCGACT","TCGACT"
+"753","RNMB_YHM_BS_P3_tag53_C2",2,NA,"C2","Yuhuangmiao","FIT",6,"YHM_FIT6-17","whole body",50,42,"tag53","TCGACT","TCGACT"
+"754","RNMB_YHM_BS_P3_tag53_C3",2,NA,"C3","Yuhuangmiao","FIT",7,"YHM_FIT7-2","whole body",50,221,"tag53","TCGACT","TCGACT"
+"755","RNMB_YHM_BS_P3_tag53_C4",2,NA,"C4","Yuhuangmiao","MT",5,"YHM_MT5-1_4","whole body",25,31,"tag53","TCGACT","TCGACT"
+"756","RNMB_YHM_BS_P3_tag53_C5",2,NA,"C5","Yuhuangmiao","MT",6,"YHM_MT6-5","whole body",50,229,"tag53","TCGACT","TCGACT"
+"757","RNMB_YHM_BS_P3_tag53_C6",2,NA,"C6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_6","whole body",25,93,"tag53","TCGACT","TCGACT"
+"758","RNMB_YHM_BS_P3_tag53_C7",2,NA,"C7","Yuhuangmiao","L/N",6,"YHM_L/N6-1","whole body",50,18021,"tag53","TCGACT","TCGACT"
+"759","RNMB_YHM_BS_P3_tag53_C7",2,NA,"C7","Yuhuangmiao","all",5,"FPpool","whole body",NA,18021,"tag53","CTGAAC","CTGAAC"
+"760","RNMB_YHM_BS_P3_tag53_C8",2,NA,"C8","Yuhuangmiao","L/N",6,"YHM_L/N6-10","whole body",42,4913,"tag53","TCGACT","TCGACT"
+"761","RNMB_YHM_BS_P3_tag53_C8",2,NA,"C8","Yuhuangmiao","all",5,"pool2","whole body",NA,4913,"tag53","CTGAAC","CTGAAC"
+"762","RNMB_YHM_BS_P3_tag53_C9",2,NA,"C9","Yuhuangmiao","pit",1,"HPS_pit1-1","leg",25,4656,"tag53","TCGACT","TCGACT"
+"763","RNMB_YHM_BS_P3_tag53_D1",2,NA,"D1","Yuhuangmiao","FIT",6,"YHM_FIT6-10","whole body",50,806,"tag53","TCGACT","TCGACT"
+"764","RNMB_YHM_BS_P3_tag53_D10",2,NA,"D10","Yuhuangmiao","pit",3,"HPS_pit3-3","leg",152,63,"tag53","TCGACT","TCGACT"
+"765","RNMB_YHM_BS_P3_tag53_D11",2,NA,"D11","Yuhuangmiao","pit",4,"HPS_pit4-2_6","head and thorax",50,7165,"tag53","TCGACT","TCGACT"
+"766","RNMB_YHM_BS_P3_tag53_D12",2,NA,"D12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_5","whole body",25,14720,"tag53","TCGACT","TCGACT"
+"767","RNMB_YHM_BS_P3_tag53_D2",2,NA,"D2","Yuhuangmiao","FIT",6,"YHM_FIT6-18","whole body",50,28,"tag53","TCGACT","TCGACT"
+"768","RNMB_YHM_BS_P3_tag53_D3",2,NA,"D3","Yuhuangmiao","FIT",7,"YHM_FIT7-3","whole body",50,75,"tag53","TCGACT","TCGACT"
+"769","RNMB_YHM_BS_P3_tag53_D4",2,NA,"D4","Yuhuangmiao","MT",5,"YHM_MT5-2_1","whole body",50,431,"tag53","TCGACT","TCGACT"
+"770","RNMB_YHM_BS_P3_tag53_D5",2,NA,"D5","Yuhuangmiao","MT",6,"YHM_MT6-6","whole body",42,567,"tag53","TCGACT","TCGACT"
+"771","RNMB_YHM_BS_P3_tag53_D6",2,NA,"D6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_7","whole body",25,131,"tag53","TCGACT","TCGACT"
+"772","RNMB_YHM_BS_P3_tag53_D7",2,NA,"D7","Yuhuangmiao","all",5,"FPpool","whole body",NA,985,"tag53","CTGAAC","CTGAAC"
+"773","RNMB_YHM_BS_P3_tag53_D7",2,NA,"D7","Yuhuangmiao","L/N",6,"YHM_L/N6-3","whole body",50,985,"tag53","TCGACT","TCGACT"
+"774","RNMB_YHM_BS_P3_tag53_D8",2,NA,"D8","Yuhuangmiao","L/N",6,"YHM_L/N7-1","whole body",50,352,"tag53","TCGACT","TCGACT"
+"775","RNMB_YHM_BS_P3_tag53_D8",2,NA,"D8","Yuhuangmiao","all",5,"pool2","whole body",NA,352,"tag53","CTGAAC","CTGAAC"
+"776","RNMB_YHM_BS_P3_tag53_D9",2,NA,"D9","Yuhuangmiao","pit",1,"HPS_pit1-2","leg",25,4177,"tag53","TCGACT","TCGACT"
+"777","RNMB_YHM_BS_P3_tag53_E1",2,NA,"E1","Yuhuangmiao","FIT",6,"YHM_FIT6-11","whole body",50,31,"tag53","TCGACT","TCGACT"
+"778","RNMB_YHM_BS_P3_tag53_E10",2,NA,"E10","Yuhuangmiao","pit",4,"HPS_pit4-1_1","head",50,1497,"tag53","TCGACT","TCGACT"
+"779","RNMB_YHM_BS_P3_tag53_E11",2,NA,"E11","Yuhuangmiao","pit",4,"HPS_pit4-2_7","head and thorax",50,2769,"tag53","TCGACT","TCGACT"
+"780","RNMB_YHM_BS_P3_tag53_E12",2,NA,"E12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_6","whole body",25,1502,"tag53","TCGACT","TCGACT"
+"781","RNMB_YHM_BS_P3_tag53_E2",2,NA,"E2","Yuhuangmiao","FIT",6,"YHM_FIT6-19","whole body",50,26,"tag53","TCGACT","TCGACT"
+"782","RNMB_YHM_BS_P3_tag53_E3",2,NA,"E3","Yuhuangmiao","FIT",7,"YHM_FIT7-4","whole body",50,274,"tag53","TCGACT","TCGACT"
+"783","RNMB_YHM_BS_P3_tag53_E4",2,NA,"E4","Yuhuangmiao","MT",5,"YHM_MT5-2_2","whole body",50,124,"tag53","TCGACT","TCGACT"
+"784","RNMB_YHM_BS_P3_tag53_E5",2,NA,"E5","Yuhuangmiao","MT",7,"YHM_MT7-1","whole body",19,5677,"tag53","TCGACT","TCGACT"
+"785","RNMB_YHM_BS_P3_tag53_E6",2,NA,"E6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_2","whole body",50,1465,"tag53","TCGACT","TCGACT"
+"786","RNMB_YHM_BS_P3_tag53_E7",2,NA,"E7","Yuhuangmiao","all",5,"HPSpool","whole body",NA,2253,"tag53","CTGAAC","CTGAAC"
+"787","RNMB_YHM_BS_P3_tag53_E7",2,NA,"E7","Yuhuangmiao","L/N",6,"YHM_L/N6-4","whole body",50,2253,"tag53","TCGACT","TCGACT"
+"788","RNMB_YHM_BS_P3_tag53_E8",2,NA,"E8","Yuhuangmiao","all",5,"pool1+2","whole body",NA,4010,"tag53","CTGAAC","CTGAAC"
+"789","RNMB_YHM_BS_P3_tag53_E8",2,NA,"E8","Yuhuangmiao","pit",7,"YHM_pit7-1","whole body",50,4010,"tag53","TCGACT","TCGACT"
+"790","RNMB_YHM_BS_P3_tag53_E9",2,NA,"E9","Yuhuangmiao","pit",1,"HPS_pit1-3","leg",25,2903,"tag53","TCGACT","TCGACT"
+"791","RNMB_YHM_BS_P3_tag53_F1",2,NA,"F1","Yuhuangmiao","FIT",6,"YHM_FIT6-12","whole body",50,299,"tag53","TCGACT","TCGACT"
+"792","RNMB_YHM_BS_P3_tag53_F10",2,NA,"F10","Yuhuangmiao","pit",4,"HPS_pit4-1_2","head",50,64,"tag53","TCGACT","TCGACT"
+"793","RNMB_YHM_BS_P3_tag53_F11",2,NA,"F11","Yuhuangmiao","pit",4,"HPS_pit4-2_8","head and thorax",50,9146,"tag53","TCGACT","TCGACT"
+"794","RNMB_YHM_BS_P3_tag53_F12",2,NA,"F12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_7","whole body",25,782,"tag53","TCGACT","TCGACT"
+"795","RNMB_YHM_BS_P3_tag53_F2",2,NA,"F2","Yuhuangmiao","FIT",6,"YHM_FIT6-20","whole body",50,50,"tag53","TCGACT","TCGACT"
+"796","RNMB_YHM_BS_P3_tag53_F3",2,NA,"F3","Yuhuangmiao","FIT",7,"YHM_FIT7-5","whole body",50,663,"tag53","TCGACT","TCGACT"
+"797","RNMB_YHM_BS_P3_tag53_F4",2,NA,"F4","Yuhuangmiao","MT",5,"YHM_MT5-2_3","whole body",15,1033,"tag53","TCGACT","TCGACT"
+"798","RNMB_YHM_BS_P3_tag53_F5",2,NA,"F5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_1","whole body",25,499,"tag53","TCGACT","TCGACT"
+"799","RNMB_YHM_BS_P3_tag53_F6",2,NA,"F6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_1","whole body",50,1631,"tag53","TCGACT","TCGACT"
+"800","RNMB_YHM_BS_P3_tag53_F7",2,NA,"F7","Yuhuangmiao","all",5,"HPSpool","whole body",NA,3484,"tag53","CTGAAC","CTGAAC"
+"801","RNMB_YHM_BS_P3_tag53_F7",2,NA,"F7","Yuhuangmiao","L/N",6,"YHM_L/N6-5","whole body",50,3484,"tag53","TCGACT","TCGACT"
+"802","RNMB_YHM_BS_P3_tag53_F8",2,NA,"F8","Yuhuangmiao","pit",6,"YHM_pit6-1","whole body",50,4163,"tag53","TCGACT","TCGACT"
+"803","RNMB_YHM_BS_P3_tag53_F9",2,NA,"F9","Yuhuangmiao","pit",1,"HPS_pit1-4","leg",25,973,"tag53","TCGACT","TCGACT"
+"804","RNMB_YHM_BS_P3_tag53_G1",2,NA,"G1","Yuhuangmiao","FIT",6,"YHM_FIT6-13","whole body",50,131,"tag53","TCGACT","TCGACT"
+"805","RNMB_YHM_BS_P3_tag53_G10",2,NA,"G10","Yuhuangmiao","pit",4,"HPS_pit4-2_1","head and thorax",50,89,"tag53","TCGACT","TCGACT"
+"806","RNMB_YHM_BS_P3_tag53_G11",2,NA,"G11","Yuhuangmiao","pit",4,"HPS_pit4-2_9","head and thorax",50,8888,"tag53","TCGACT","TCGACT"
+"807","RNMB_YHM_BS_P3_tag53_G12",2,NA,"G12","Yuhuangmiao","FIT",5,"HPS_FIT5-1_8","whole body",25,1538,"tag53","TCGACT","TCGACT"
+"808","RNMB_YHM_BS_P3_tag53_G2",2,NA,"G2","Yuhuangmiao","FIT",6,"YHM_FIT6-21","whole body",50,60,"tag53","TCGACT","TCGACT"
+"809","RNMB_YHM_BS_P3_tag53_G3",2,NA,"G3","Yuhuangmiao","FIT",7,"YHM_FIT7-6","whole body",50,92,"tag53","TCGACT","TCGACT"
+"810","RNMB_YHM_BS_P3_tag53_G4",2,NA,"G4","Yuhuangmiao","MT",6,"YHM_MT6-1","whole body",50,806,"tag53","TCGACT","TCGACT"
+"811","RNMB_YHM_BS_P3_tag53_G5",2,NA,"G5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_2","whole body",25,125,"tag53","TCGACT","TCGACT"
+"812","RNMB_YHM_BS_P3_tag53_G6",2,NA,"G6","Yuhuangmiao","L/N",6,"YHM_L/N6-2_1","whole body",50,1483,"tag53","TCGACT","TCGACT"
+"813","RNMB_YHM_BS_P3_tag53_G7",2,NA,"G7","Yuhuangmiao","L/N",6,"YHM_L/N6-6","whole body",50,3459,"tag53","TCGACT","TCGACT"
+"814","RNMB_YHM_BS_P3_tag53_G7",2,NA,"G7","Yuhuangmiao","all",5,"YHMpool","whole body",NA,3459,"tag53","CTGAAC","CTGAAC"
+"815","RNMB_YHM_BS_P3_tag53_G8",2,NA,"G8","Yuhuangmiao","pit",5,"YHM_pit5-1","whole body",50,6745,"tag53","TCGACT","TCGACT"
+"816","RNMB_YHM_BS_P3_tag53_G9",2,NA,"G9","Yuhuangmiao","pit",1,"HPS_pit1-5","leg",25,3159,"tag53","TCGACT","TCGACT"
+"817","RNMB_YHM_BS_P3_tag53_H1",2,NA,"H1","Yuhuangmiao","FIT",6,"YHM_FIT6-14","whole body",50,245,"tag53","TCGACT","TCGACT"
+"818","RNMB_YHM_BS_P3_tag53_H10",2,NA,"H10","Yuhuangmiao","pit",4,"HPS_pit4-2_2","head and thorax",50,4713,"tag53","TCGACT","TCGACT"
+"819","RNMB_YHM_BS_P3_tag53_H11",2,NA,"H11","Yuhuangmiao","FIT",5,"HPS_FIT5-1_1","whole body",25,5287,"tag53","TCGACT","TCGACT"
+"820","RNMB_YHM_BS_P3_tag53_H12",2,NA,"H12","Yuhuangmiao","FIT",5,"HPS_FIT5-2_1","whole body",50,931,"tag53","TCGACT","TCGACT"
+"821","RNMB_YHM_BS_P3_tag53_H2",2,NA,"H2","Yuhuangmiao","FIT",6,"YHM_FIT6-22","whole body",50,265,"tag53","TCGACT","TCGACT"
+"822","RNMB_YHM_BS_P3_tag53_H3",2,NA,"H3","Yuhuangmiao","MT",5,"YHM_MT5-1_1","whole body",25,857,"tag53","TCGACT","TCGACT"
+"823","RNMB_YHM_BS_P3_tag53_H4",2,NA,"H4","Yuhuangmiao","MT",6,"YHM_MT6-2","whole body",50,2989,"tag53","TCGACT","TCGACT"
+"824","RNMB_YHM_BS_P3_tag53_H5",2,NA,"H5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_3","whole body",25,1016,"tag53","TCGACT","TCGACT"
+"825","RNMB_YHM_BS_P3_tag53_H6",2,NA,"H6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_3","whole body",50,4101,"tag53","TCGACT","TCGACT"
+"826","RNMB_YHM_BS_P3_tag53_H7",2,NA,"H7","Yuhuangmiao","all",5,"YHMpool","whole body",NA,1746,"tag53","CTGAAC","CTGAAC"
+"827","RNMB_YHM_BS_P3_tag53_H7",2,NA,"H7","Yuhuangmiao","L/N",6,"YHM_L/N6-7","whole body",50,1746,"tag53","TCGACT","TCGACT"
+"828","RNMB_YHM_BS_P3_tag53_H8",2,NA,"H8","Yuhuangmiao","FIT",5,"HPS_FIT5_2_2","whole body",50,2285,"tag53","TCGACT","TCGACT"
+"829","RNMB_YHM_BS_P3_tag53_H9",2,NA,"H9","Yuhuangmiao","pit",2,"HPS_pit2-1","leg",100,428,"tag53","TCGACT","TCGACT"
+"830","RNMB1_FXBSP1_tag08_A1",1,1,"A1","Feng city","FIT",1,"FX_FIT1-1_3 ","leg",25,7852,NA,NA,NA
+"831","RNMB1_FXBSP1_tag08_A10",1,1,"A10","Feng city","FIT",4,"FX_FIT4-3_1","head",50,2883,NA,NA,NA
+"832","RNMB1_FXBSP1_tag08_A11",1,1,"A11","Feng city","FIT",4,"FX_FIT4-3_9","head",50,7408,NA,NA,NA
+"833","RNMB1_FXBSP1_tag08_A12",1,1,"A12","Feng city","FIT",4,"FX_FIT4-3_17","head",50,3343,NA,NA,NA
+"834","RNMB1_FXBSP1_tag08_A2",1,1,"A2","Feng city","FIT",3,"FX_FIT3-2_3 ","leg",150,3412,NA,NA,NA
+"835","RNMB1_FXBSP1_tag08_A3",1,1,"A3","Feng city","FIT",3,"FX_FIT3-2_11","leg",150,4190,NA,NA,NA
+"836","RNMB1_FXBSP1_tag08_A4",1,1,"A4","Feng city","FIT",3,"FX_FIT4-1_9","head",25,3571,NA,NA,NA
+"837","RNMB1_FXBSP1_tag08_A5",1,1,"A5","Feng city","FIT",3,"FX_FIT4-1_17","head",25,9010,NA,NA,NA
+"838","RNMB1_FXBSP1_tag08_A6",1,1,"A6","Feng city","FIT",3,"FX_FIT4-1_25","head",25,357,NA,NA,NA
+"839","RNMB1_FXBSP1_tag08_A7",1,1,"A7","Feng city","FIT",3,"FX_FIT4-1_33","head",25,6462,NA,NA,NA
+"840","RNMB1_FXBSP1_tag08_A8",1,1,"A8","Feng city","FIT",4,"FX_FIT4-2_10","head",50,10878,NA,NA,NA
+"841","RNMB1_FXBSP1_tag08_A9",1,1,"A9","Feng city","FIT",4,"FX_FIT4-2_18","head",50,15501,NA,NA,NA
+"842","RNMB1_FXBSP1_tag08_B1",1,1,"B1","Feng city","FIT",1,"FX_FIT1-1_4","leg",25,11371,NA,NA,NA
+"843","RNMB1_FXBSP1_tag08_B10",1,1,"B10","Feng city","FIT",4,"FX_FIT4-3_2","head",50,10999,NA,NA,NA
+"844","RNMB1_FXBSP1_tag08_B11",1,1,"B11","Feng city","FIT",4,"FX_FIT4-3_10","head",50,4572,NA,NA,NA
+"845","RNMB1_FXBSP1_tag08_B12",1,1,"B12","Feng city","FIT",4,"FX_FIT4-3_20","head",50,6415,NA,NA,NA
+"846","RNMB1_FXBSP1_tag08_B2",1,1,"B2","Feng city","FIT",3,"FX_FIT3-2_4","leg",150,4632,NA,NA,NA
+"847","RNMB1_FXBSP1_tag08_B3",1,1,"B3","Feng city","FIT",3,"FX_FIT3-2_12","leg",150,6966,NA,NA,NA
+"848","RNMB1_FXBSP1_tag08_B4",1,1,"B4","Feng city","FIT",3,"FX_FIT4-1_10","head",25,9223,NA,NA,NA
+"849","RNMB1_FXBSP1_tag08_B5",1,1,"B5","Feng city","FIT",3,"FX_FIT4-1_18","head",25,24711,NA,NA,NA
+"850","RNMB1_FXBSP1_tag08_B6",1,1,"B6","Feng city","FIT",3,"FX_FIT4-1_26","head",25,12409,NA,NA,NA
+"851","RNMB1_FXBSP1_tag08_B7",1,1,"B7","Feng city","FIT",4,"FX_FIT4-2_3","head",50,26308,NA,NA,NA
+"852","RNMB1_FXBSP1_tag08_B8",1,1,"B8","Feng city","FIT",4,"FX_FIT4-2_11","head",50,7625,NA,NA,NA
+"853","RNMB1_FXBSP1_tag08_B9",1,1,"B9","Feng city","FIT",4,"FX_FIT4-2_19","head",50,15153,NA,NA,NA
+"854","RNMB1_FXBSP1_tag08_C1",1,1,"C1","Feng city","FIT",1,"FX_FIT1-2_3","leg",10,2177,NA,NA,NA
+"855","RNMB1_FXBSP1_tag08_C10",1,1,"C10","Feng city","FIT",4,"FX_FIT4-3_3","head",50,19604,NA,NA,NA
+"856","RNMB1_FXBSP1_tag08_C11",1,1,"C11","Feng city","FIT",4,"FX_FIT4-3_11","head",50,9730,NA,NA,NA
+"857","RNMB1_FXBSP1_tag08_C12",1,1,"C12","Feng city","FIT",4,"FX_FIT4-3_21","head",50,5943,NA,NA,NA
+"858","RNMB1_FXBSP1_tag08_C2",1,1,"C2","Feng city","FIT",3,"FX_FIT3-2_5 ","leg",150,5954,NA,NA,NA
+"859","RNMB1_FXBSP1_tag08_C3",1,1,"C3","Feng city","FIT",3,"FX_FIT4-1_3","head",25,13411,NA,NA,NA
+"860","RNMB1_FXBSP1_tag08_C4",1,1,"C4","Feng city","FIT",3,"FX_FIT4-1_11","head",25,8475,NA,NA,NA
+"861","RNMB1_FXBSP1_tag08_C5",1,1,"C5","Feng city","FIT",3,"FX_FIT4-1_19","head",25,11281,NA,NA,NA
+"862","RNMB1_FXBSP1_tag08_C6",1,1,"C6","Feng city","FIT",3,"FX_FIT4-1_27","head",25,414,NA,NA,NA
+"863","RNMB1_FXBSP1_tag08_C7",1,1,"C7","Feng city","FIT",4,"FX_FIT4-2_4","head",50,10434,NA,NA,NA
+"864","RNMB1_FXBSP1_tag08_C8",1,1,"C8","Feng city","FIT",4,"FX_FIT4-2_12","head",50,9095,NA,NA,NA
+"865","RNMB1_FXBSP1_tag08_C9",1,1,"C9","Feng city","FIT",4,"FX_FIT4-2_20","head",50,16059,NA,NA,NA
+"866","RNMB1_FXBSP1_tag08_D1",1,1,"D1","Feng city","FIT",2,"FX_FIT2-2_3 ","leg",100,778,NA,NA,NA
+"867","RNMB1_FXBSP1_tag08_D10",1,1,"D10","Feng city","FIT",4,"FX_FIT4-3_4","head",50,9707,NA,NA,NA
+"868","RNMB1_FXBSP1_tag08_D11",1,1,"D11","Feng city","FIT",4,"FX_FIT4-3_12","head",50,7332,NA,NA,NA
+"869","RNMB1_FXBSP1_tag08_D12",1,1,"D12","Feng city","FIT",4,"FX_FIT4-3_22","head",50,4317,NA,NA,NA
+"870","RNMB1_FXBSP1_tag08_D2",1,1,"D2","Feng city","FIT",3,"FX_FIT3-2_6","leg",150,1674,NA,NA,NA
+"871","RNMB1_FXBSP1_tag08_D3",1,1,"D3","Feng city","FIT",3,"FX_FIT4-1_4","head",25,8926,NA,NA,NA
+"872","RNMB1_FXBSP1_tag08_D4",1,1,"D4","Feng city","FIT",3,"FX_FIT4-1_12","head",25,3949,NA,NA,NA
+"873","RNMB1_FXBSP1_tag08_D5",1,1,"D5","Feng city","FIT",3,"FX_FIT4-1_20","head",25,10804,NA,NA,NA
+"874","RNMB1_FXBSP1_tag08_D6",1,1,"D6","Feng city","FIT",3,"FX_FIT4-1_28","head",25,11671,NA,NA,NA
+"875","RNMB1_FXBSP1_tag08_D7",1,1,"D7","Feng city","FIT",4,"FX_FIT4-2_5","head",50,19391,NA,NA,NA
+"876","RNMB1_FXBSP1_tag08_D8",1,1,"D8","Feng city","FIT",4,"FX_FIT4-2_13","head",50,18948,NA,NA,NA
+"877","RNMB1_FXBSP1_tag08_D9",1,1,"D9","Feng city","FIT",4,"FX_FIT4-2_21","head",50,15053,NA,NA,NA
+"878","RNMB1_FXBSP1_tag08_E1",1,1,"E1","Feng city","FIT",2,"FX_FIT2-2_4","leg",100,10455,NA,NA,NA
+"879","RNMB1_FXBSP1_tag08_E10",1,1,"E10","Feng city","FIT",4,"FX_FIT4-3_5","head",50,4545,NA,NA,NA
+"880","RNMB1_FXBSP1_tag08_E11",1,1,"E11","Feng city","FIT",4,"FX_FIT4-3_13","head",50,8148,NA,NA,NA
+"881","RNMB1_FXBSP1_tag08_E12",1,1,"E12","Feng city","FIT",4,"FX_FIT4-3_23","head",50,3317,NA,NA,NA
+"882","RNMB1_FXBSP1_tag08_E2",1,1,"E2","Feng city","FIT",3,"FX_FIT3-2_7","leg",150,5343,NA,NA,NA
+"883","RNMB1_FXBSP1_tag08_E3",1,1,"E3","Feng city","FIT",3,"FX_FIT4-1_5","head",25,10613,NA,NA,NA
+"884","RNMB1_FXBSP1_tag08_E4",1,1,"E4","Feng city","FIT",3,"FX_FIT4-1_13","head",25,7172,NA,NA,NA
+"885","RNMB1_FXBSP1_tag08_E5",1,1,"E5","Feng city","FIT",3,"FX_FIT4-1_21","head",25,11308,NA,NA,NA
+"886","RNMB1_FXBSP1_tag08_E6",1,1,"E6","Feng city","FIT",3,"FX_FIT4-1_29","head",25,24,NA,NA,NA
+"887","RNMB1_FXBSP1_tag08_E7",1,1,"E7","Feng city","FIT",4,"FX_FIT4-2_6","head",50,7862,NA,NA,NA
+"888","RNMB1_FXBSP1_tag08_E8",1,1,"E8","Feng city","FIT",4,"FX_FIT4-2_14","head",50,16691,NA,NA,NA
+"889","RNMB1_FXBSP1_tag08_E9",1,1,"E9","Feng city","FIT",4,"FX_FIT4-2_22","head",50,12580,NA,NA,NA
+"890","RNMB1_FXBSP1_tag08_F1",1,1,"F1","Feng city","FIT",2,"FX_FIT2-2_5","leg",10,1321,NA,NA,NA
+"891","RNMB1_FXBSP1_tag08_F10",1,1,"F10","Feng city","FIT",4,"FX_FIT4-3_6","head",50,4040,NA,NA,NA
+"892","RNMB1_FXBSP1_tag08_F11",1,1,"F11","Feng city","FIT",4,"FX_FIT4-3_14","head",50,8114,NA,NA,NA
+"893","RNMB1_FXBSP1_tag08_F12",1,1,"F12","Feng city","FIT",4,"FX_FIT4-3_24","head",50,3641,NA,NA,NA
+"894","RNMB1_FXBSP1_tag08_F2",1,1,"F2","Feng city","FIT",3,"FX_FIT3-2_8","leg",150,4537,NA,NA,NA
+"895","RNMB1_FXBSP1_tag08_F3",1,1,"F3","Feng city","FIT",3,"FX_FIT4-1_6","head",25,9662,NA,NA,NA
+"896","RNMB1_FXBSP1_tag08_F4",1,1,"F4","Feng city","FIT",3,"FX_FIT4-1_14","head",25,6242,NA,NA,NA
+"897","RNMB1_FXBSP1_tag08_F5",1,1,"F5","Feng city","FIT",3,"FX_FIT4-1_22","head",25,6982,NA,NA,NA
+"898","RNMB1_FXBSP1_tag08_F6",1,1,"F6","Feng city","FIT",3,"FX_FIT4-1_30","head",25,7599,NA,NA,NA
+"899","RNMB1_FXBSP1_tag08_F7",1,1,"F7","Feng city","FIT",4,"FX_FIT4-2_7","head",50,9894,NA,NA,NA
+"900","RNMB1_FXBSP1_tag08_F8",1,1,"F8","Feng city","FIT",4,"FX_FIT4-2_15","head",50,16053,NA,NA,NA
+"901","RNMB1_FXBSP1_tag08_F9",1,1,"F9","Feng city","FIT",4,"FX_FIT4-2_23","head",50,13043,NA,NA,NA
+"902","RNMB1_FXBSP1_tag08_G1",1,1,"G1","Feng city","FIT",3,"FX_FIT3-2_2","leg",150,9531,NA,NA,NA
+"903","RNMB1_FXBSP1_tag08_G10",1,1,"G10","Feng city","FIT",4,"FX_FIT4-3_7","head",50,9407,NA,NA,NA
+"904","RNMB1_FXBSP1_tag08_G11",1,1,"G11","Feng city","FIT",4,"FX_FIT4-3_15","head",50,5681,NA,NA,NA
+"905","RNMB1_FXBSP1_tag08_G12",1,1,"G12","Feng city","FIT",4,"FX_FIT4-3_25","head",50,3741,NA,NA,NA
+"906","RNMB1_FXBSP1_tag08_G2",1,1,"G2","Feng city","FIT",3,"FX_FIT3-2_9","leg",150,6696,NA,NA,NA
+"907","RNMB1_FXBSP1_tag08_G3",1,1,"G3","Feng city","FIT",3,"FX_FIT4-1_7","head",25,8840,NA,NA,NA
+"908","RNMB1_FXBSP1_tag08_G4",1,1,"G4","Feng city","FIT",3,"FX_FIT4-1_15","head",25,4264,NA,NA,NA
+"909","RNMB1_FXBSP1_tag08_G5",1,1,"G5","Feng city","FIT",3,"FX_FIT4-1_23","head",25,7414,NA,NA,NA
+"910","RNMB1_FXBSP1_tag08_G6",1,1,"G6","Feng city","FIT",3,"FX_FIT4-1_31","head",25,3465,NA,NA,NA
+"911","RNMB1_FXBSP1_tag08_G7",1,1,"G7","Feng city","FIT",4,"FX_FIT4-2_8","head",50,9994,NA,NA,NA
+"912","RNMB1_FXBSP1_tag08_G8",1,1,"G8","Feng city","FIT",4,"FX_FIT4-2_16","head",50,12384,NA,NA,NA
+"913","RNMB1_FXBSP1_tag08_G9",1,1,"G9","Feng city","FIT",4,"FX_FIT4-2_24","head",50,16838,NA,NA,NA
+"914","RNMB1_FXBSP1_tag08_H1",1,1,"H1","Feng city","FIT",3,"FX_FIT3-2_1","leg",150,4768,NA,NA,NA
+"915","RNMB1_FXBSP1_tag08_H10",1,1,"H10","Feng city","FIT",4,"FX_FIT4-3_8","head",50,1405,NA,NA,NA
+"916","RNMB1_FXBSP1_tag08_H11",1,1,"H11","Feng city","FIT",4,"FX_FIT4-3_16","head",50,1347,NA,NA,NA
+"917","RNMB1_FXBSP1_tag08_H12",1,1,"H12","Feng city","FIT",4,"FX_FIT4-3_26","head",50,2849,NA,NA,NA
+"918","RNMB1_FXBSP1_tag08_H2",1,1,"H2","Feng city","FIT",3,"FX_FIT3-2_10","leg",150,1787,NA,NA,NA
+"919","RNMB1_FXBSP1_tag08_H3",1,1,"H3","Feng city","FIT",3,"FX_FIT4-1_8","head",25,4330,NA,NA,NA
+"920","RNMB1_FXBSP1_tag08_H4",1,1,"H4","Feng city","FIT",3,"FX_FIT4-1_16","head",25,3369,NA,NA,NA
+"921","RNMB1_FXBSP1_tag08_H5",1,1,"H5","Feng city","FIT",3,"FX_FIT4-1_24","head",25,4479,NA,NA,NA
+"922","RNMB1_FXBSP1_tag08_H6",1,1,"H6","Feng city","FIT",3,"FX_FIT4-1_32","head",25,2185,NA,NA,NA
+"923","RNMB1_FXBSP1_tag08_H7",1,1,"H7","Feng city","FIT",4,"FX_FIT4-2_9","head",50,6278,NA,NA,NA
+"924","RNMB1_FXBSP1_tag08_H8",1,1,"H8","Feng city","FIT",4,"FX_FIT4-2_17","head",50,5622,NA,NA,NA
+"925","RNMB1_FXBSP1_tag08_H9",1,1,"H9","Feng city","FIT",4,"FX_FIT4-2_25","head",50,8394,NA,NA,NA
+"926","RNMB1_FXBSP2_tag18_A1",1,2,"A1","Feng city","FIT",5,"FX_FIT5_3 ","body",50,18028,NA,NA,NA
+"927","RNMB1_FXBSP2_tag18_A10",1,2,"A10","Feng city","Pit",4,"FX_pit4-2_2","head",50,17586,NA,NA,NA
+"928","RNMB1_FXBSP2_tag18_A11",1,2,"A11","Feng city","L/N",4,"FX_L/N4-2_2","head",50,27,NA,NA,NA
+"929","RNMB1_FXBSP2_tag18_A12",1,2,"A12","Feng city","FIT",6,"FX_FIT6_9","body",50,9211,NA,NA,NA
+"930","RNMB1_FXBSP2_tag18_A2",1,2,"A2","Feng city","FIT",5,"FX_FIT5_11","body",50,10511,NA,NA,NA
+"931","RNMB1_FXBSP2_tag18_A3",1,2,"A3","Feng city","FIT",5,"FX_FIT5_19","body",50,13147,NA,NA,NA
+"932","RNMB1_FXBSP2_tag18_A4",1,2,"A4","Feng city","FIT",5,"FX_FIT5_27","body",50,17521,NA,NA,NA
+"933","RNMB1_FXBSP2_tag18_A5",1,2,"A5","Feng city","FIT",5,"FX_FIT5_35","body",50,15904,NA,NA,NA
+"934","RNMB1_FXBSP2_tag18_A6",1,2,"A6","Feng city","MT",3,"FX_MT3_1","leg",150,20198,NA,NA,NA
+"935","RNMB1_FXBSP2_tag18_A7",1,2,"A7","Feng city","MT",4,"FX_MT4-1_5","head",25,5794,NA,NA,NA
+"936","RNMB1_FXBSP2_tag18_A8",1,2,"A8","Feng city","MT",4,"FX_MT4-1_13","head",25,1225,NA,NA,NA
+"937","RNMB1_FXBSP2_tag18_A9",1,2,"A9","Feng city","Pit",2,"FX_pit2_6","leg",100,10305,NA,NA,NA
+"938","RNMB1_FXBSP2_tag18_B1",1,2,"B1","Feng city","FIT",5,"FX_FIT5_4","body",50,23429,NA,NA,NA
+"939","RNMB1_FXBSP2_tag18_B10",1,2,"B10","Feng city","Pit",4,"FX_pit4-2_3","head",50,6297,NA,NA,NA
+"940","RNMB1_FXBSP2_tag18_B11",1,2,"B11","Feng city","L/N",4,"FX_L/N4-2_3","head",50,5526,NA,NA,NA
+"941","RNMB1_FXBSP2_tag18_B12",1,2,"B12","Feng city","FIT",6,"FX_FIT6_10","body",50,17899,NA,NA,NA
+"942","RNMB1_FXBSP2_tag18_B2",1,2,"B2","Feng city","FIT",5,"FX_FIT5_12","body",50,11430,NA,NA,NA
+"943","RNMB1_FXBSP2_tag18_B3",1,2,"B3","Feng city","FIT",5,"FX_FIT5_20","body",50,7030,NA,NA,NA
+"944","RNMB1_FXBSP2_tag18_B4",1,2,"B4","Feng city","FIT",5,"FX_FIT5_28","body",50,7968,NA,NA,NA
+"945","RNMB1_FXBSP2_tag18_B5",1,2,"B5","Feng city","FIT",4,"FX_FIT4-3_27","head",50,9270,NA,NA,NA
+"946","RNMB1_FXBSP2_tag18_B6",1,2,"B6","Feng city","MT",3,"FX_MT3_2","leg",150,19034,NA,NA,NA
+"947","RNMB1_FXBSP2_tag18_B7",1,2,"B7","Feng city","MT",4,"FX_MT4-1_6","head",25,19,NA,NA,NA
+"948","RNMB1_FXBSP2_tag18_B8",1,2,"B8","Feng city","MT",4,"FX_MT4-1_14","head",25,10095,NA,NA,NA
+"949","RNMB1_FXBSP2_tag18_B9",1,2,"B9","Feng city","Pit",3,"FX_pit3_1","leg",150,13363,NA,NA,NA
+"950","RNMB1_FXBSP2_tag18_C1",1,2,"C1","Feng city","FIT",5,"FX_FIT5_5","body",50,33035,NA,NA,NA
+"951","RNMB1_FXBSP2_tag18_C10",1,2,"C10","Feng city","L/N",2,"FX_L/N2_1(50legs)","leg",100,29692,NA,NA,NA
+"952","RNMB1_FXBSP2_tag18_C11",1,2,"C11","Feng city","FIT",6,"FX_FIT6_3","body",50,35696,NA,NA,NA
+"953","RNMB1_FXBSP2_tag18_C12",1,2,"C12","Feng city","FIT",6,"FX_FIT6_11","body",50,22727,NA,NA,NA
+"954","RNMB1_FXBSP2_tag18_C2",1,2,"C2","Feng city","FIT",5,"FX_FIT5_13","body",50,12279,NA,NA,NA
+"955","RNMB1_FXBSP2_tag18_C3",1,2,"C3","Feng city","FIT",5,"FX_FIT5_21","body",50,18377,NA,NA,NA
+"956","RNMB1_FXBSP2_tag18_C4",1,2,"C4","Feng city","FIT",5,"FX_FIT5_29","body",50,11807,NA,NA,NA
+"957","RNMB1_FXBSP2_tag18_C5",1,2,"C5","Feng city","FIT",4,"FX_FIT4-3_28","head",50,4794,NA,NA,NA
+"958","RNMB1_FXBSP2_tag18_C6",1,2,"C6","Feng city","MT",3,"FX_MT3_3","leg",150,23220,NA,NA,NA
+"959","RNMB1_FXBSP2_tag18_C7",1,2,"C7","Feng city","MT",4,"FX_MT4-1_7","head",25,18663,NA,NA,NA
+"960","RNMB1_FXBSP2_tag18_C8",1,2,"C8","Feng city","Pit",2,"FX_pit2_1","leg",100,5508,NA,NA,NA
+"961","RNMB1_FXBSP2_tag18_C9",1,2,"C9","Feng city","Pit",4,"FX_pit4-1_1","head",50,14569,NA,NA,NA
+"962","RNMB1_FXBSP2_tag18_D1",1,2,"D1","Feng city","FIT",5,"FX_FIT5_6","body",50,22273,NA,NA,NA
+"963","RNMB1_FXBSP2_tag18_D10",1,2,"D10","Feng city","L/N",2,"FX_L/N2_2","leg",100,19403,NA,NA,NA
+"964","RNMB1_FXBSP2_tag18_D11",1,2,"D11","Feng city","FIT",6,"FX_FIT6_4","body",50,25091,NA,NA,NA
+"965","RNMB1_FXBSP2_tag18_D12",1,2,"D12","Feng city","FIT",6,"FX_FIT6_12","body",50,15105,NA,NA,NA
+"966","RNMB1_FXBSP2_tag18_D2",1,2,"D2","Feng city","FIT",5,"FX_FIT5_14","body",50,9143,NA,NA,NA
+"967","RNMB1_FXBSP2_tag18_D3",1,2,"D3","Feng city","FIT",5,"FX_FIT5_22","body",50,17716,NA,NA,NA
+"968","RNMB1_FXBSP2_tag18_D4",1,2,"D4","Feng city","FIT",5,"FX_FIT5_30","body",50,16953,NA,NA,NA
+"969","RNMB1_FXBSP2_tag18_D5",1,2,"D5","Feng city","FIT",4,"FX_FIT4-3_29","head",50,6903,NA,NA,NA
+"970","RNMB1_FXBSP2_tag18_D6",1,2,"D6","Feng city","MT",3,"FX_MT3_4","leg",150,13,NA,NA,NA
+"971","RNMB1_FXBSP2_tag18_D7",1,2,"D7","Feng city","MT",4,"FX_MT4-1_8","head",25,33938,NA,NA,NA
+"972","RNMB1_FXBSP2_tag18_D8",1,2,"D8","Feng city","Pit",2,"FX_pit2_2","leg",100,19883,NA,NA,NA
+"973","RNMB1_FXBSP2_tag18_D9",1,2,"D9","Feng city","Pit",4,"FX_pit4-1_2","head",50,24875,NA,NA,NA
+"974","RNMB1_FXBSP2_tag18_E1",1,2,"E1","Feng city","FIT",5,"FX_FIT5_7","body",50,14079,NA,NA,NA
+"975","RNMB1_FXBSP2_tag18_E10",1,2,"E10","Feng city","L/N",3,"FX_L/N3_1","leg",150,20624,NA,NA,NA
+"976","RNMB1_FXBSP2_tag18_E11",1,2,"E11","Feng city","FIT",6,"FX_FIT6_5","body",50,23014,NA,NA,NA
+"977","RNMB1_FXBSP2_tag18_E12",1,2,"E12","Feng city","FIT",6,"FX_FIT6_13","body",50,16354,NA,NA,NA
+"978","RNMB1_FXBSP2_tag18_E2",1,2,"E2","Feng city","FIT",5,"FX_FIT5_15","body",50,10067,NA,NA,NA
+"979","RNMB1_FXBSP2_tag18_E3",1,2,"E3","Feng city","FIT",5,"FX_FIT5_23","body",50,11069,NA,NA,NA
+"980","RNMB1_FXBSP2_tag18_E4",1,2,"E4","Feng city","FIT",5,"FX_FIT5_31","body",50,12297,NA,NA,NA
+"981","RNMB1_FXBSP2_tag18_E5",1,2,"E5","Feng city","FIT",4,"FX_FIT4-3_30","head",50,3323,NA,NA,NA
+"982","RNMB1_FXBSP2_tag18_E6",1,2,"E6","Feng city","MT",4,"FX_MT4-1_1","head",25,14963,NA,NA,NA
+"983","RNMB1_FXBSP2_tag18_E7",1,2,"E7","Feng city","MT",4,"FX_MT4-1_9","head",25,13452,NA,NA,NA
+"984","RNMB1_FXBSP2_tag18_E8",1,2,"E8","Feng city","Pit",2,"FX_pit2_3","leg",100,14639,NA,NA,NA
+"985","RNMB1_FXBSP2_tag18_E9",1,2,"E9","Feng city","Pit",4,"FX_pit4-1_3","head",50,12307,NA,NA,NA
+"986","RNMB1_FXBSP2_tag18_F1",1,2,"F1","Feng city","FIT",5,"FX_FIT5_8","body",50,19599,NA,NA,NA
+"987","RNMB1_FXBSP2_tag18_F10",1,2,"F10","Feng city","L/N",3,"FX_L/N3_2","leg",150,23213,NA,NA,NA
+"988","RNMB1_FXBSP2_tag18_F11",1,2,"F11","Feng city","FIT",6,"FX_FIT6_6","body",50,20344,NA,NA,NA
+"989","RNMB1_FXBSP2_tag18_F12",1,2,"F12","Feng city","FIT",6,"FX_FIT6_14","body",50,9786,NA,NA,NA
+"990","RNMB1_FXBSP2_tag18_F2",1,2,"F2","Feng city","FIT",5,"FX_FIT5_16","body",50,8956,NA,NA,NA
+"991","RNMB1_FXBSP2_tag18_F3",1,2,"F3","Feng city","FIT",5,"FX_FIT5_24","body",50,18642,NA,NA,NA
+"992","RNMB1_FXBSP2_tag18_F4",1,2,"F4","Feng city","FIT",5,"FX_FIT5_32","body",50,8436,NA,NA,NA
+"993","RNMB1_FXBSP2_tag18_F5",1,2,"F5","Feng city","FIT",4,"FX_FIT4-3_31","head",50,9796,NA,NA,NA
+"994","RNMB1_FXBSP2_tag18_F6",1,2,"F6","Feng city","MT",4,"FX_MT4-1_2","head",25,13335,NA,NA,NA
+"995","RNMB1_FXBSP2_tag18_F7",1,2,"F7","Feng city","MT",4,"FX_MT4-1_10","head",25,11800,NA,NA,NA
+"996","RNMB1_FXBSP2_tag18_F8",1,2,"F8","Feng city","Pit",2,"FX_pit2_4","leg",100,12258,NA,NA,NA
+"997","RNMB1_FXBSP2_tag18_F9",1,2,"F9","Feng city","Pit",4,"FX_pit4-1_4","head",50,12087,NA,NA,NA
+"998","RNMB1_FXBSP2_tag18_G1",1,2,"G1","Feng city","FIT",5,"FX_FIT5_9","body",50,21545,NA,NA,NA
+"999","RNMB1_FXBSP2_tag18_G10",1,2,"G10","Feng city","L/N",4,"FX_L/N4-1_1","head",50,49070,NA,NA,NA
+"1000","RNMB1_FXBSP2_tag18_G11",1,2,"G11","Feng city","FIT",6,"FX_FIT6_7","body",50,25567,NA,NA,NA
+"1001","RNMB1_FXBSP2_tag18_G12",1,2,"G12","Feng city","FIT",6,"FX_FIT6_15","body",50,25785,NA,NA,NA
+"1002","RNMB1_FXBSP2_tag18_G2",1,2,"G2","Feng city","FIT",5,"FX_FIT5_17","body",50,16941,NA,NA,NA
+"1003","RNMB1_FXBSP2_tag18_G3",1,2,"G3","Feng city","FIT",5,"FX_FIT5_25","body",50,13159,NA,NA,NA
+"1004","RNMB1_FXBSP2_tag18_G4",1,2,"G4","Feng city","FIT",5,"FX_FIT5_33","body",50,11125,NA,NA,NA
+"1005","RNMB1_FXBSP2_tag18_G5",1,2,"G5","Feng city","MT",1,"FX_MT1","leg",25,23480,NA,NA,NA
+"1006","RNMB1_FXBSP2_tag18_G6",1,2,"G6","Feng city","MT",4,"FX_MT4-1_3","head",25,16051,NA,NA,NA
+"1007","RNMB1_FXBSP2_tag18_G7",1,2,"G7","Feng city","MT",4,"FX_MT4-1_11","head",25,13691,NA,NA,NA
+"1008","RNMB1_FXBSP2_tag18_G8",1,2,"G8","Feng city","Pit",2,"FX_pit2_5","leg",100,13110,NA,NA,NA
+"1009","RNMB1_FXBSP2_tag18_G9",1,2,"G9","Feng city","Pit",4,"FX_pit4-1_5","head",50,8403,NA,NA,NA
+"1010","RNMB1_FXBSP2_tag18_H1",1,2,"H1","Feng city","FIT",5,"FX_FIT5_10","body",50,11424,NA,NA,NA
+"1011","RNMB1_FXBSP2_tag18_H10",1,2,"H10","Feng city","L/N",4,"FX_L/N4-2_1","head",50,8,NA,NA,NA
+"1012","RNMB1_FXBSP2_tag18_H11",1,2,"H11","Feng city","FIT",6,"FX_FIT6_8","body",50,16387,NA,NA,NA
+"1013","RNMB1_FXBSP2_tag18_H12",1,2,"H12","Feng city","FIT",6,"FX_FIT6_16","body",50,12976,NA,NA,NA
+"1014","RNMB1_FXBSP2_tag18_H2",1,2,"H2","Feng city","FIT",5,"FX_FIT5_18","body",50,15016,NA,NA,NA
+"1015","RNMB1_FXBSP2_tag18_H3",1,2,"H3","Feng city","FIT",5,"FX_FIT5_26","body",50,17851,NA,NA,NA
+"1016","RNMB1_FXBSP2_tag18_H4",1,2,"H4","Feng city","FIT",5,"FX_FIT5_34","body",50,6815,NA,NA,NA
+"1017","RNMB1_FXBSP2_tag18_H5",1,2,"H5","Feng city","MT",2,"FX_MT2","leg",50,22354,NA,NA,NA
+"1018","RNMB1_FXBSP2_tag18_H6",1,2,"H6","Feng city","MT",4,"FX_MT4-1_4","head",25,21819,NA,NA,NA
+"1019","RNMB1_FXBSP2_tag18_H7",1,2,"H7","Feng city","MT",4,"FX_MT4-1_12","head",25,23030,NA,NA,NA
+"1020","RNMB1_FXBSP2_tag18_H8",1,2,"H8","Feng city","Pit",2,"FX_pit2_6","leg",100,4380,NA,NA,NA
+"1021","RNMB1_FXBSP2_tag18_H9",1,2,"H9","Feng city","Pit",4,"FX_pit4-2_1","head",50,4683,NA,NA,NA
+"1022","RNMB1_FXBSP3_tag42_A1",1,3,"A1","Feng city","FIT",6,"FX_FIT6_17","body",50,7259,NA,NA,NA
+"1023","RNMB1_FXBSP3_tag42_A10",1,3,"A10","Feng city","MT",5,"FX_MT5_7","body",50,12000,NA,NA,NA
+"1024","RNMB1_FXBSP3_tag42_A11",1,3,"A11","Feng city","MT",6,"FX_MT6_5","body",50,246,NA,NA,NA
+"1025","RNMB1_FXBSP3_tag42_A12",1,3,"A12","Feng city","MT",7,"FX_MT7_4","body",21,9626,NA,NA,NA
+"1026","RNMB1_FXBSP3_tag42_A2",1,3,"A2","Feng city","FIT",6,"FX_FIT6_25","body",50,2329,NA,NA,NA
+"1027","RNMB1_FXBSP3_tag42_A3",1,3,"A3","Feng city","FIT",6,"FX_FIT6_33","body",50,3070,NA,NA,NA
+"1028","RNMB1_FXBSP3_tag42_A4",1,3,"A4","Feng city","FIT",6,"FX_FIT6_41","body",50,6750,NA,NA,NA
+"1029","RNMB1_FXBSP3_tag42_A5",1,3,"A5","Feng city","FIT",6,"FX_FIT6_49","body",50,5903,NA,NA,NA
+"1030","RNMB1_FXBSP3_tag42_A6",1,3,"A6","Feng city","FIT",6,"FX_FIT6_57","body",50,4085,NA,NA,NA
+"1031","RNMB1_FXBSP3_tag42_A7",1,3,"A7","Feng city","FIT",6,"FX_FIT6_65","body",50,10474,NA,NA,NA
+"1032","RNMB1_FXBSP3_tag42_A8",1,3,"A8","Feng city","FIT",6,"FX_FIT6_73","body",50,7547,NA,NA,NA
+"1033","RNMB1_FXBSP3_tag42_A9",1,3,"A9","Feng city","FIT",6,"FX_FIT6_81","body",50,7221,NA,NA,NA
+"1034","RNMB1_FXBSP3_tag42_B1",1,3,"B1","Feng city","FIT",6,"FX_FIT6_18","body",50,3626,NA,NA,NA
+"1035","RNMB1_FXBSP3_tag42_B10",1,3,"B10","Feng city","MT",5,"FX_MT5_8","body",50,16853,NA,NA,NA
+"1036","RNMB1_FXBSP3_tag42_B11",1,3,"B11","Feng city","MT",6,"FX_MT6_6","body",50,14550,NA,NA,NA
+"1037","RNMB1_FXBSP3_tag42_B12",1,3,"B12","Feng city","Pit",5,"FX_pit5_1","body",25,6581,NA,NA,NA
+"1038","RNMB1_FXBSP3_tag42_B2",1,3,"B2","Feng city","FIT",6,"FX_FIT6_26","body",50,3020,NA,NA,NA
+"1039","RNMB1_FXBSP3_tag42_B3",1,3,"B3","Feng city","FIT",6,"FX_FIT6_34","body",50,7656,NA,NA,NA
+"1040","RNMB1_FXBSP3_tag42_B4",1,3,"B4","Feng city","FIT",6,"FX_FIT6_42","body",50,4209,NA,NA,NA
+"1041","RNMB1_FXBSP3_tag42_B5",1,3,"B5","Feng city","FIT",6,"FX_FIT6_50","body",50,8375,NA,NA,NA
+"1042","RNMB1_FXBSP3_tag42_B6",1,3,"B6","Feng city","FIT",6,"FX_FIT6_58","body",50,6878,NA,NA,NA
+"1043","RNMB1_FXBSP3_tag42_B7",1,3,"B7","Feng city","FIT",6,"FX_FIT6_66","body",50,7917,NA,NA,NA
+"1044","RNMB1_FXBSP3_tag42_B8",1,3,"B8","Feng city","FIT",6,"FX_FIT6_74","body",50,11565,NA,NA,NA
+"1045","RNMB1_FXBSP3_tag42_B9",1,3,"B9","Feng city","FIT",6,"FX_FIT6_82","body",50,8319,NA,NA,NA
+"1046","RNMB1_FXBSP3_tag42_C1",1,3,"C1","Feng city","FIT",6,"FX_FIT6_19","body",50,4006,NA,NA,NA
+"1047","RNMB1_FXBSP3_tag42_C10",1,3,"C10","Feng city","MT",5,"FX_MT5_9","body",50,14848,NA,NA,NA
+"1048","RNMB1_FXBSP3_tag42_C11",1,3,"C11","Feng city","MT",6,"FX_MT6_7","body",50,15042,NA,NA,NA
+"1049","RNMB1_FXBSP3_tag42_C12",1,3,"C12","Feng city","Pit",6,"FX_pit6_1","body",20,7382,NA,NA,NA
+"1050","RNMB1_FXBSP3_tag42_C2",1,3,"C2","Feng city","FIT",6,"FX_FIT6_27","body",50,2115,NA,NA,NA
+"1051","RNMB1_FXBSP3_tag42_C3",1,3,"C3","Feng city","FIT",6,"FX_FIT6_35","body",50,12980,NA,NA,NA
+"1052","RNMB1_FXBSP3_tag42_C4",1,3,"C4","Feng city","FIT",6,"FX_FIT6_43","body",50,3078,NA,NA,NA
+"1053","RNMB1_FXBSP3_tag42_C5",1,3,"C5","Feng city","FIT",6,"FX_FIT6_51","body",50,3521,NA,NA,NA
+"1054","RNMB1_FXBSP3_tag42_C6",1,3,"C6","Feng city","FIT",6,"FX_FIT6_59","body",50,4074,NA,NA,NA
+"1055","RNMB1_FXBSP3_tag42_C7",1,3,"C7","Feng city","FIT",6,"FX_FIT6_67","body",50,7010,NA,NA,NA
+"1056","RNMB1_FXBSP3_tag42_C8",1,3,"C8","Feng city","FIT",6,"FX_FIT6_75","body",50,4631,NA,NA,NA
+"1057","RNMB1_FXBSP3_tag42_C9",1,3,"C9","Feng city","MT",5,"FX_MT5_1","body",50,12443,NA,NA,NA
+"1058","RNMB1_FXBSP3_tag42_D1",1,3,"D1","Feng city","FIT",6,"FX_FIT6_20","body",50,4402,NA,NA,NA
+"1059","RNMB1_FXBSP3_tag42_D10",1,3,"D10","Feng city","MT",5,"FX_MT5_10","body",43,9704,NA,NA,NA
+"1060","RNMB1_FXBSP3_tag42_D11",1,3,"D11","Feng city","MT",6,"FX_MT6_8","body",50,15273,NA,NA,NA
+"1061","RNMB1_FXBSP3_tag42_D12",1,3,"D12","Feng city","L/N",5,"FX_L/N5_1 ","body",50,5912,NA,NA,NA
+"1062","RNMB1_FXBSP3_tag42_D2",1,3,"D2","Feng city","FIT",6,"FX_FIT6_28","body",50,2611,NA,NA,NA
+"1063","RNMB1_FXBSP3_tag42_D3",1,3,"D3","Feng city","FIT",6,"FX_FIT6_36","body",50,7174,NA,NA,NA
+"1064","RNMB1_FXBSP3_tag42_D4",1,3,"D4","Feng city","FIT",6,"FX_FIT6_44","body",50,3127,NA,NA,NA
+"1065","RNMB1_FXBSP3_tag42_D5",1,3,"D5","Feng city","FIT",6,"FX_FIT6_52","body",50,12744,NA,NA,NA
+"1066","RNMB1_FXBSP3_tag42_D6",1,3,"D6","Feng city","FIT",6,"FX_FIT6_60","body",50,13142,NA,NA,NA
+"1067","RNMB1_FXBSP3_tag42_D7",1,3,"D7","Feng city","FIT",6,"FX_FIT6_68","body",50,11954,NA,NA,NA
+"1068","RNMB1_FXBSP3_tag42_D8",1,3,"D8","Feng city","FIT",6,"FX_FIT6_76","body",50,9941,NA,NA,NA
+"1069","RNMB1_FXBSP3_tag42_D9",1,3,"D9","Feng city","MT",5,"FX_MT5_2","body",50,16740,NA,NA,NA
+"1070","RNMB1_FXBSP3_tag42_E1",1,3,"E1","Feng city","FIT",6,"FX_FIT6_21","body",50,4242,NA,NA,NA
+"1071","RNMB1_FXBSP3_tag42_E10",1,3,"E10","Feng city","MT",6,"FX_MT6_1","body",50,7329,NA,NA,NA
+"1072","RNMB1_FXBSP3_tag42_E11",1,3,"E11","Feng city","MT",6,"FX_MT6_9","body",50,11009,NA,NA,NA
+"1073","RNMB1_FXBSP3_tag42_E12",1,3,"E12","Feng city","L/N",7,"FX_FIT7_4 ","body",50,3505,NA,NA,NA
+"1074","RNMB1_FXBSP3_tag42_E2",1,3,"E2","Feng city","FIT",6,"FX_FIT6_29","body",50,4674,NA,NA,NA
+"1075","RNMB1_FXBSP3_tag42_E3",1,3,"E3","Feng city","FIT",6,"FX_FIT6_37","body",50,6788,NA,NA,NA
+"1076","RNMB1_FXBSP3_tag42_E4",1,3,"E4","Feng city","FIT",6,"FX_FIT6_45","body",50,4261,NA,NA,NA
+"1077","RNMB1_FXBSP3_tag42_E5",1,3,"E5","Feng city","FIT",6,"FX_FIT6_53","body",50,12150,NA,NA,NA
+"1078","RNMB1_FXBSP3_tag42_E6",1,3,"E6","Feng city","FIT",6,"FX_FIT6_61","body",50,7223,NA,NA,NA
+"1079","RNMB1_FXBSP3_tag42_E7",1,3,"E7","Feng city","FIT",6,"FX_FIT6_69","body",50,10057,NA,NA,NA
+"1080","RNMB1_FXBSP3_tag42_E8",1,3,"E8","Feng city","FIT",6,"FX_FIT6_77","body",50,9738,NA,NA,NA
+"1081","RNMB1_FXBSP3_tag42_E9",1,3,"E9","Feng city","MT",5,"FX_MT5_3","body",50,7706,NA,NA,NA
+"1082","RNMB1_FXBSP3_tag42_F1",1,3,"F1","Feng city","FIT",6,"FX_FIT6_22","body",50,4586,NA,NA,NA
+"1083","RNMB1_FXBSP3_tag42_F10",1,3,"F10","Feng city","MT",6,"FX_MT6_2","body",50,13591,NA,NA,NA
+"1084","RNMB1_FXBSP3_tag42_F11",1,3,"F11","Feng city","MT",7,"FX_MT7_1","body",50,10966,NA,NA,NA
+"1085","RNMB1_FXBSP3_tag42_F12",1,3,"F12","Feng city","L/N",7,"FX_FIT7_5","body",50,4684,NA,NA,NA
+"1086","RNMB1_FXBSP3_tag42_F2",1,3,"F2","Feng city","FIT",6,"FX_FIT6_30","body",50,4071,NA,NA,NA
+"1087","RNMB1_FXBSP3_tag42_F3",1,3,"F3","Feng city","FIT",6,"FX_FIT6_38","body",50,6305,NA,NA,NA
+"1088","RNMB1_FXBSP3_tag42_F4",1,3,"F4","Feng city","FIT",6,"FX_FIT6_46","body",50,4045,NA,NA,NA
+"1089","RNMB1_FXBSP3_tag42_F5",1,3,"F5","Feng city","FIT",6,"FX_FIT6_54","body",50,6996,NA,NA,NA
+"1090","RNMB1_FXBSP3_tag42_F6",1,3,"F6","Feng city","FIT",6,"FX_FIT6_62","body",50,3462,NA,NA,NA
+"1091","RNMB1_FXBSP3_tag42_F7",1,3,"F7","Feng city","FIT",6,"FX_FIT6_70","body",50,7254,NA,NA,NA
+"1092","RNMB1_FXBSP3_tag42_F8",1,3,"F8","Feng city","FIT",6,"FX_FIT6_78","body",50,15269,NA,NA,NA
+"1093","RNMB1_FXBSP3_tag42_F9",1,3,"F9","Feng city","MT",5,"FX_MT5_4","body",50,11338,NA,NA,NA
+"1094","RNMB1_FXBSP3_tag42_G1",1,3,"G1","Feng city","FIT",6,"FX_FIT6_23","body",50,5436,NA,NA,NA
+"1095","RNMB1_FXBSP3_tag42_G10",1,3,"G10","Feng city","MT",6,"FX_MT6_3","body",50,16267,NA,NA,NA
+"1096","RNMB1_FXBSP3_tag42_G11",1,3,"G11","Feng city","MT",7,"FX_MT7_2","body",50,13687,NA,NA,NA
+"1097","RNMB1_FXBSP3_tag42_G12",1,3,"G12","Feng city","L/N",7,"FX_FIT7_6","body",50,7994,NA,NA,NA
+"1098","RNMB1_FXBSP3_tag42_G2",1,3,"G2","Feng city","FIT",6,"FX_FIT6_31","body",50,4658,NA,NA,NA
+"1099","RNMB1_FXBSP3_tag42_G3",1,3,"G3","Feng city","FIT",6,"FX_FIT6_39","body",50,4772,NA,NA,NA
+"1100","RNMB1_FXBSP3_tag42_G4",1,3,"G4","Feng city","FIT",6,"FX_FIT6_47","body",50,3342,NA,NA,NA
+"1101","RNMB1_FXBSP3_tag42_G5",1,3,"G5","Feng city","FIT",6,"FX_FIT6_55","body",50,13364,NA,NA,NA
+"1102","RNMB1_FXBSP3_tag42_G6",1,3,"G6","Feng city","FIT",6,"FX_FIT6_63","body",50,8726,NA,NA,NA
+"1103","RNMB1_FXBSP3_tag42_G7",1,3,"G7","Feng city","FIT",6,"FX_FIT6_71","body",50,7654,NA,NA,NA
+"1104","RNMB1_FXBSP3_tag42_G8",1,3,"G8","Feng city","FIT",6,"FX_FIT6_79","body",50,8249,NA,NA,NA
+"1105","RNMB1_FXBSP3_tag42_G9",1,3,"G9","Feng city","MT",5,"FX_MT5_5","body",50,1576,NA,NA,NA
+"1106","RNMB1_FXBSP3_tag42_H1",1,3,"H1","Feng city","FIT",6,"FX_FIT6_24","body",50,1413,NA,NA,NA
+"1107","RNMB1_FXBSP3_tag42_H10",1,3,"H10","Feng city","MT",6,"FX_MT6_4","body",50,6653,NA,NA,NA
+"1108","RNMB1_FXBSP3_tag42_H11",1,3,"H11","Feng city","MT",7,"FX_MT7_3","body",50,9145,NA,NA,NA
+"1109","RNMB1_FXBSP3_tag42_H12",1,3,"H12","Feng city","L/N",6,"FX_L/N6-1","body",41,7122,NA,NA,NA
+"1110","RNMB1_FXBSP3_tag42_H2",1,3,"H2","Feng city","FIT",6,"FX_FIT6_32","body",50,3331,NA,NA,NA
+"1111","RNMB1_FXBSP3_tag42_H3",1,3,"H3","Feng city","FIT",6,"FX_FIT6_40","body",50,3341,NA,NA,NA
+"1112","RNMB1_FXBSP3_tag42_H4",1,3,"H4","Feng city","FIT",6,"FX_FIT6_48","body",50,5085,NA,NA,NA
+"1113","RNMB1_FXBSP3_tag42_H5",1,3,"H5","Feng city","FIT",6,"FX_FIT6_56","body",50,13194,NA,NA,NA
+"1114","RNMB1_FXBSP3_tag42_H6",1,3,"H6","Feng city","FIT",6,"FX_FIT6_64","body",50,3298,NA,NA,NA
+"1115","RNMB1_FXBSP3_tag42_H7",1,3,"H7","Feng city","FIT",6,"FX_FIT6_72","body",50,7910,NA,NA,NA
+"1116","RNMB1_FXBSP3_tag42_H8",1,3,"H8","Feng city","FIT",6,"FX_FIT6_80","body",50,6878,NA,NA,NA
+"1117","RNMB1_FXBSP3_tag42_H9",1,3,"H9","Feng city","MT",5,"FX_MT5_6","body",50,13864,NA,NA,NA
+"1118","RNMB2_FXBSP4_tag07_A10",1,4,"A10","Feng city","FIT",4,"FIT4-2_2","head",50,2112,NA,NA,NA
+"1119","RNMB2_FXBSP4_tag07_A11",1,4,"A11","Feng city","FIT",2,"FIT2-1_1","leg",100,8964,NA,NA,NA
+"1120","RNMB2_FXBSP4_tag07_A12",1,4,"A12","Feng city","FIT",6,"FIT6_1","body",50,1331,NA,NA,NA
+"1121","RNMB2_FXBSP4_tag07_B10",1,4,"B10","Feng city","FIT",4,"FIT4-2_21","head",50,7861,NA,NA,NA
+"1122","RNMB2_FXBSP4_tag07_B11",1,4,"B11","Feng city","FIT",2,"FIT2-2_1","leg",100,661,NA,NA,NA
+"1123","RNMB2_FXBSP4_tag07_B12",1,4,"B12","Feng city","FIT",7,"FIT7_8","body",50,611,NA,NA,NA
+"1124","RNMB2_FXBSP4_tag07_C10",1,4,"C10","Feng city","FIT",4,"FIT4-3_19","head",50,261,NA,NA,NA
+"1125","RNMB2_FXBSP4_tag07_C11",1,4,"C11","Feng city","FIT",3,"FIT3-2_35","leg",150,2310,NA,NA,NA
+"1126","RNMB2_FXBSP4_tag07_C12",1,4,"C12","Feng city","FIT",7,"FIT7_1","body",50,5536,NA,NA,NA
+"1127","RNMB2_FXBSP4_tag07_C9",1,4,"C9","Feng city","FIT",1,"FIT1-1_2","leg",25,6289,NA,NA,NA
+"1128","RNMB2_FXBSP4_tag07_D10",1,4,"D10","Feng city","FIT",5,"FIT5-2","body",50,4201,NA,NA,NA
+"1129","RNMB2_FXBSP4_tag07_D11",1,4,"D11","Feng city","FIT",4,"FIT4-1_1","head",50,4923,NA,NA,NA
+"1130","RNMB2_FXBSP4_tag07_D12",1,4,"D12","Feng city","FIT",7,"FIT7_2","body",50,4415,NA,NA,NA
+"1131","RNMB2_FXBSP4_tag07_D9",1,4,"D9","Feng city","FIT",1,"FIT1-2_2","leg",25,6333,NA,NA,NA
+"1132","RNMB2_FXBSP4_tag07_E10",1,4,"E10","Feng city","FIT",6,"FIT6_2","body",50,5764,NA,NA,NA
+"1133","RNMB2_FXBSP4_tag07_E11",1,4,"E11","Feng city","FIT",4,"FIT4-1_35","head",50,6889,NA,NA,NA
+"1134","RNMB2_FXBSP4_tag07_E12",1,4,"E12","Feng city","FIT",7,"FIT7_3","body",50,5465,NA,NA,NA
+"1135","RNMB2_FXBSP4_tag07_E9",1,4,"E9","Feng city","FIT",2,"FIT2-2_2","leg",100,4709,NA,NA,NA
+"1136","RNMB2_FXBSP4_tag07_F10",1,4,"F10","Feng city","FIT",7,"FIT7_9","body",50,7848,NA,NA,NA
+"1137","RNMB2_FXBSP4_tag07_F11",1,4,"F11","Feng city","FIT",4,"FIT4-2_1","head",50,1499,NA,NA,NA
+"1138","RNMB2_FXBSP4_tag07_F12",1,4,"F12","Feng city","FIT",7,"FIT7_7","body",50,4687,NA,NA,NA
+"1139","RNMB2_FXBSP4_tag07_F9",1,4,"F9","Feng city","FIT",3,"FIT3-2_36","leg",150,3555,NA,NA,NA
+"1140","RNMB2_FXBSP4_tag07_G10",1,4,"G10","Feng city","FIT",1,"FIT1-1_1","leg",25,1448,NA,NA,NA
+"1141","RNMB2_FXBSP4_tag07_G11",1,4,"G11","Feng city","FIT",4,"FIT4-3_18","head",50,1459,NA,NA,NA
+"1142","RNMB2_FXBSP4_tag07_G12",1,4,"G12","Feng city","L/N",5,"L/N5-2","body",50,7181,NA,NA,NA
+"1143","RNMB2_FXBSP4_tag07_G9",1,4,"G9","Feng city","FIT",4,"FIT4-1_2","head",50,2998,NA,NA,NA
+"1144","RNMB2_FXBSP4_tag07_H10",1,4,"H10","Feng city","FIT",1,"FIT1-2_1","leg",25,156,NA,NA,NA
+"1145","RNMB2_FXBSP4_tag07_H11",1,4,"H11","Feng city","FIT",5,"FIT5-1","body",50,792,NA,NA,NA
+"1146","RNMB2_FXBSP4_tag07_H12",1,4,"H12","Feng city","MT",6,"MT6_10","body",34,10591,NA,NA,NA
+"1147","RNMB2_FXBSP4_tag07_H9",1,4,"H9","Feng city","FIT",4,"FIT4-1_34","head",50,8283,NA,NA,NA
