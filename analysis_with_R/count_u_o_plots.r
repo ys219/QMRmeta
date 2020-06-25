@@ -104,7 +104,7 @@ c2= ggplot(nor_info,aes(x = uniq_status, fill = type, y = no_uniqs))+
 plot_grid(a2,b2,c2,labels = c("a","b","c"))
 
 
-#Hiseq vs Miseq plot #checking that thomas request
+#Hiseq vs Miseq plot #checking as requested
 HM_info = read.csv("../data/Hi_Mi_info.csv",header = FALSE)
 colnames(HM_info) = c("X","platform") 
 info_with_HM = merge(info,HM_info,by = "X")
