@@ -8,7 +8,7 @@ library(rgdal)
 # library(ggplot2)
 
 ## 
-china_map = st_read("../data/china_map/CHN_adm0.shp")
+# china_map = st_read("../data/china_map/CHN_adm0.shp")
 plot(china_map[1],col = 'white')
 plot(shaanxi_map[1],col = 'white')
 test_map = st_read("../data/china_map/CHN_adm3.shp")
