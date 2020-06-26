@@ -97,6 +97,19 @@ cor.test(plot_data$nparts,plot_data$aft_OTU)
 
 # gather data
 plot_data = gather(plot_data,"data_type","frequency",c(3:6))
+library(dplyr)
+plot_data$data_type2 <- recode(plot_data$data_type, 'uniqs' = 'ASVs', 
+                                                    'bef_OTU' = 'OTUs', 
+                                                    'aft_OTU' = 'OTUs', 
+                                                    'ASVs_in_OTU' = 'ASVs')
+plot_data$filtering <- recode(plot_data$data_type, 'uniqs' = 'unfiltered',
+                                                   'bef_OTU' = 'unfiltered',
+                                                   'aft_OTU' = 'filtered',
+                                                   'ASVs_in_OTU' = 'filtered')
+plot_data$filtering <- relevel(as.factor(plot_data$filtering), 'unfiltered')
+
+plot_data$type_filtering <- paste(plot_data$filtering, plot_data$data_type2)
+
 # all vs reads
 all_vs_reads =ggplot(data = plot_data, aes(x = reads, y = frequency))+
   geom_point(size = 1)+
@@ -108,6 +121,25 @@ all_vs_reads =ggplot(data = plot_data, aes(x = reads, y = frequency))+
 
 all_vs_reads + facet_grid(cols = vars(data_type))
 
+ggplot(data = plot_data,#[plot_data$reads <= 20000 & plot_data$frequency <= 4000,], 
+       aes(x = reads, y = frequency, col = nparts)) +
+  geom_point(size = 1) +
+  geom_smooth(method = 'lm', formula = y ~ log(x), col = 'red', alpha = 0.6) +
+#  geom_abline(intercept = 0, slope = 1, linetype = 2) + 
+  labs(x = "Number of reads", y = "Count of [facet]") + 
+  scale_y_continuous(trans = 'sqrt') +
+  scale_x_continuous(trans = 'sqrt') + 
+  theme_bw() + 
+  facet_grid(data_type2~filtering, scales = 'free')
+#  facet_wrap(~type_filtering, nrow = 2, ncol = 2, scales = 'free')
+
+ggplot(data = plot_data, aes(x = reads)) + 
+  geom_histogram() +#aes(y = ..density..)) + 
+#  geom_density( col = 'red') +
+  scale_x_continuous(trans = 'sqrt') +
+  theme_bw() +
+  facet_grid(data_type2~filtering, scales = 'free')
+  
 
 # all vs nparts
 all_vs_nparts =ggplot(data = plot_data, aes(x = nparts, y = frequency))+
@@ -120,3 +152,26 @@ all_vs_nparts =ggplot(data = plot_data, aes(x = nparts, y = frequency))+
 
 all_vs_nparts + facet_grid(cols = vars(data_type))
 #
+
+ggplot(data = plot_data,
+       aes(x = nparts, y = frequency, col = reads)) + 
+  geom_point(size = 1) + 
+  geom_smooth(method = 'lm', formula = y ~ log(x), col = 'red', alpha = 0.6) + 
+  labs(x = 'Number of specimens',  y = 'Count of [facet]') + 
+  scale_y_continuous(trans = 'sqrt') +
+#  scale_x_continuous(trans = 'sqrt') + 
+  theme_bw() + 
+  facet_grid(data_type2~filtering, scales = 'free')
+
+ggplot(data = plot_data, aes(x = nparts)) + 
+  geom_histogram() +#aes(y = ..density..)) + 
+  #  geom_density( col = 'red') +
+  scale_x_continuous(trans = 'sqrt') +
+  theme_bw() +
+  facet_grid(data_type2~filtering, scales = 'free')
+
+
+m <- glm(frequency ~ log(reads) * log(nparts), data = subset(plot_data, subset = data_type2 == 'ASVs'), family = 'quasipoisson')
+summary(m)
+plot(m)
+
