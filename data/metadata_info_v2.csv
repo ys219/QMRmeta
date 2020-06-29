@@ -1,1148 +1,1148 @@
-"seqname","location","trap","sizeclass","label","bodypart","nparts"
-"RNMB_Foping_BS_P1_tag21_A1","Foping","FIT",3,"FP_MT_4-1_1+J2:J67","head",25
-"RNMB_Foping_BS_P1_tag21_B1","Foping","FIT",3,"FP_FIT3-1_2","head",25
-"RNMB_Foping_BS_P1_tag21_C1","Foping","FIT",3,"FP_FIT3-1_3","head",25
-"RNMB_Foping_BS_P1_tag21_D1","Foping","FIT",3,"FP_FIT3-1_4","head",25
-"RNMB_Foping_BS_P1_tag21_E1","Foping","FIT",3,"FP_FIT3-1_5","head",25
-"RNMB_Foping_BS_P1_tag21_F1","Foping","FIT",3,"FP_FIT3-1_6","head",25
-"RNMB_Foping_BS_P1_tag21_G1","Foping","FIT",3,"FP_FIT3-1_7","head",25
-"RNMB_Foping_BS_P1_tag21_H1","Foping","FIT",3,"FP_FIT3-1_8","head",25
-"RNMB_Foping_BS_P1_tag21_A2","Foping","FIT",3,"FP_FIT3-1_9","head",25
-"RNMB_Foping_BS_P1_tag21_B2","Foping","FIT",3,"FP_FIT3-1_10","head",25
-"RNMB_Foping_BS_P1_tag21_C2","Foping","FIT",3,"FP_FIT3-1_11","head",25
-"RNMB_Foping_BS_P1_tag21_D2","Foping","FIT",3,"FP_FIT3-1_12","head",25
-"RNMB_Foping_BS_P1_tag21_E2","Foping","FIT",3,"FP_FIT3-1_13","head",25
-"RNMB_Foping_BS_P1_tag21_F2","Foping","FIT",3,"FP_FIT3-1_14","head",25
-"RNMB_Foping_BS_P1_tag21_G2","Foping","FIT",3,"FP_FIT3-1_15","head",25
-"RNMB_Foping_BS_P1_tag21_H2","Foping","FIT",3,"FP_FIT3-1_16","head",25
-"RNMB_Foping_BS_P1_tag21_A3","Foping","FIT",3,"FP_FIT3-1_17","head",25
-"RNMB_Foping_BS_P1_tag21_B3","Foping","FIT",3,"FP_FIT3-1_18","head",25
-"RNMB_Foping_BS_P1_tag21_C3","Foping","FIT",3,"FP_FIT3-1_19","head",25
-"RNMB_Foping_BS_P1_tag21_D3","Foping","FIT",3,"FP_FIT3-1_20","head",25
-"RNMB_Foping_BS_P1_tag21_E3","Foping","FIT",3,"FP_FIT3-1_21","head",25
-"RNMB_Foping_BS_P1_tag21_F3","Foping","FIT",3,"FP_FIT3-1_22","head",25
-"RNMB_Foping_BS_P1_tag21_G3","Foping","FIT",3,"FP_FIT3-1_23","head",25
-"RNMB_Foping_BS_P1_tag21_H3","Foping","FIT",3,"FP_FIT3-1_24","head",25
-"RNMB_Foping_BS_P1_tag21_A4","Foping","FIT",3,"FP_FIT3-1_25","head",25
-"RNMB_Foping_BS_P1_tag21_B4","Foping","FIT",3,"FP_FIT3-1_26","head",25
-"RNMB_Foping_BS_P1_tag21_C4","Foping","FIT",3,"FP_FIT3-1_27","head",25
-"RNMB_Foping_BS_P1_tag21_D4","Foping","FIT",3,"FP_FIT3-1_28","head",25
-"RNMB_Foping_BS_P1_tag21_E4","Foping","FIT",3,"FP_FIT3-1_29","head",25
-"RNMB_Foping_BS_P1_tag21_F4","Foping","FIT",3,"FP_FIT3-1_30","head",25
-"RNMB_Foping_BS_P1_tag21_G4","Foping","FIT",3,"FP_FIT3-1_31","head",25
-"RNMB_Foping_BS_P1_tag21_H4","Foping","FIT",3,"FP_FIT3-1_32","head",25
-"RNMB_Foping_BS_P1_tag21_A5","Foping","FIT",3,"FP_FIT3-1_33","head",25
-"RNMB_Foping_BS_P1_tag21_B5","Foping","FIT",3,"FP_FIT3-1_34","head",25
-"RNMB_Foping_BS_P1_tag21_C5","Foping","FIT",3,"FP_FIT3-1_35","head",25
-"RNMB_Foping_BS_P1_tag21_D5","Foping","FIT",3,"FP_FIT3-1_36","head",25
-"RNMB_Foping_BS_P1_tag21_E5","Foping","FIT",3,"FP_FIT3-1_37","head",25
-"RNMB_Foping_BS_P1_tag21_F5","Foping","FIT",3,"FP_FIT3-1_38","head",25
-"RNMB_Foping_BS_P1_tag21_G5","Foping","FIT",3,"FP_FIT3-1_39","head",25
-"RNMB_Foping_BS_P1_tag21_H5","Foping","FIT",3,"FP_FIT3-1_40","head",25
-"RNMB_Foping_BS_P1_tag21_A6","Foping","FIT",3,"FP_FIT3-1_41","head",25
-"RNMB_Foping_BS_P1_tag21_B6","Foping","FIT",4,"FP_FIT4-2_1","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_C6","Foping","FIT",4,"FP_FIT4-2_2","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_D6","Foping","FIT",4,"FP_FIT4-2_3","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_E6","Foping","FIT",4,"FP_FIT4-2_4","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_F6","Foping","FIT",4,"FP_FIT4-2_5","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_G6","Foping","FIT",4,"FP_FIT4-2_6","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_H6","Foping","FIT",4,"FP_FIT4-2_7","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_A7","Foping","FIT",4,"FP_FIT4-2_8","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_B7","Foping","FIT",4,"FP_FIT4-2_9","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_C7","Foping","FIT",4,"FP_FIT4-2_10","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_D7","Foping","FIT",4,"FP_FIT4-2_11","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_E7","Foping","FIT",4,"FP_FIT4-2_12","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_F7","Foping","FIT",4,"FP_FIT4-2_13","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_G7","Foping","FIT",4,"FP_FIT4-2_14","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_H7","Foping","FIT",4,"FP_FIT4-2_15","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_A8","Foping","FIT",4,"FP_FIT4-2_16","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_B8","Foping","FIT",4,"FP_FIT4-2_17","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_C8","Foping","FIT",4,"FP_FIT4-2_18","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_D8","Foping","FIT",4,"FP_FIT4-2_19","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_E8","Foping","FIT",4,"FP_FIT4-2_20","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_F8","Foping","FIT",2,"FP_FIT2-1_3","leg",35
-"RNMB_Foping_BS_P1_tag21_G8","Foping","FIT",2,"FP_FIT2-1_4","head",25
-"RNMB_Foping_BS_P1_tag21_H8","Foping","FIT",2,"FP_FIT2-1_1","leg",50
-"RNMB_Foping_BS_P1_tag21_A9","Foping","FIT",1,"FP_FIT1-1","leg",25
-"RNMB_Foping_BS_P1_tag21_B9","Foping","FIT",1,"FP_FIT1-2","leg",16
-"RNMB_Foping_BS_P1_tag21_C9","Foping","MT",4,"FP_MT_4-1_1","head and thorax",50
-"RNMB_Foping_BS_P1_tag21_D9","Foping","L/N",2,"FP_L/N_2-1","leg",100
-"RNMB_Foping_BS_P1_tag21_E9","Foping","L/N",2,"FP_L/N_2-2","leg",69
-"RNMB_Foping_BS_P1_tag21_F9","Foping","Pit",1,"FP_Pit1-1","leg",17
-"RNMB_Foping_BS_P1_tag21_G9","Foping","Pit",1,"FP_Pit1-2","leg",25
-"RNMB_Foping_BS_P1_tag21_H9","Foping","Pit",2,"FP_Pit2-1","leg",44
-"RNMB_Foping_BS_P1_tag21_A10","Foping","Pit",3,"FP_Pit3-1","leg",101
-"RNMB_Foping_BS_P1_tag21_B10","Foping","Pit",4,"FP_Pit4-1_1","head",68
-"RNMB_Foping_BS_P1_tag21_C10","Foping","FIT",5,"FP_FIT5-1_1","whole body",25
-"RNMB_Foping_BS_P1_tag21_D10","Foping","FIT",5,"FP_FIT5-1_2","whole body",25
-"RNMB_Foping_BS_P1_tag21_E10","Foping","FIT",5,"FP_FIT5-1_3","whole body",25
-"RNMB_Foping_BS_P1_tag21_F10","Foping","FIT",5,"FP_FIT5-1_4","whole body",25
-"RNMB_Foping_BS_P1_tag21_G10","Foping","FIT",5,"FP_FIT5-1_5","whole body",25
-"RNMB_Foping_BS_P1_tag21_H10","Foping","FIT",5,"FP_FIT5-1_6","whole body",25
-"RNMB_Foping_BS_P1_tag21_A11","Foping","FIT",5,"FP_FIT5-1_7","whole body",25
-"RNMB_Foping_BS_P1_tag21_B11","Foping","FIT",5,"FP_FIT5-1_8","whole body",25
-"RNMB_Foping_BS_P1_tag21_C11","Foping","FIT",5,"FP_FIT5-2_1","whole body",50
-"RNMB_Foping_BS_P1_tag21_D11","Foping","FIT",5,"FP_FIT5-2_2","whole body",50
-"RNMB_Foping_BS_P1_tag21_E11","Foping","FIT",5,"FP_FIT5-2_3","whole body",50
-"RNMB_Foping_BS_P1_tag21_F11","Foping","FIT",5,"FP_FIT5-2_4","whole body",50
-"RNMB_Foping_BS_P1_tag21_G11","Foping","FIT",5,"FP_FIT5-2_5","whole body",50
-"RNMB_Foping_BS_P1_tag21_H11","Foping","FIT",5,"FP_FIT5-2_6","whole body",50
-"RNMB_Foping_BS_P1_tag21_A12","Foping","FIT",5,"FP_FIT5-2_7","whole body",50
-"RNMB_Foping_BS_P1_tag21_B12","Foping","FIT",5,"FP_FIT5-1_8","whole body",50
-"RNMB_Foping_BS_P1_tag21_C12","Foping","FIT",5,"FP_FIT5-2_8","whole body",50
-"RNMB_Foping_BS_P1_tag21_D12","Foping","FIT",5,"FP_FIT5-2_9","whole body",50
-"RNMB_Foping_BS_P1_tag21_E12","Foping","FIT",5,"FP_FIT5-2_10","whole body",50
-"RNMB_Foping_BS_P1_tag21_F12","Foping","FIT",5,"FP_FIT5-2_11","whole body",50
-"RNMB_Foping_BS_P1_tag21_G12","Foping","FIT",5,"FP_FIT5-2_12","whole body",50
-"RNMB_Foping_BS_P1_tag21_H12","Foping","FIT",5,"FP_FIT5-2_13","whole body",50
-"RNMB_Foping_BS_P2_tag24_A1","Foping","FIT",5,"FP_FIT5-2_14","whole body",50
-"RNMB_Foping_BS_P2_tag24_B1","Foping","FIT",5,"FP_FIT5-2_15","whole body",50
-"RNMB_Foping_BS_P2_tag24_C1","Foping","FIT",5,"FP_FIT5-2_16","whole body",50
-"RNMB_Foping_BS_P2_tag24_D1","Foping","FIT",5,"FP_FIT5-2_17","whole body",50
-"RNMB_Foping_BS_P2_tag24_E1","Foping","FIT",5,"FP_FIT5-2_18","whole body",50
-"RNMB_Foping_BS_P2_tag24_F1","Foping","FIT",5,"FP_FIT5-2_19","whole body",50
-"RNMB_Foping_BS_P2_tag24_G1","Foping","FIT",5,"FP_FIT5-2_20","whole body",50
-"RNMB_Foping_BS_P2_tag24_H1","Foping","FIT",5,"FP_FIT5-2_21","whole body",50
-"RNMB_Foping_BS_P2_tag24_A2","Foping","FIT",5,"FP_FIT5-2_22","whole body",50
-"RNMB_Foping_BS_P2_tag24_B2","Foping","FIT",5,"FP_FIT5-2_23","whole body",50
-"RNMB_Foping_BS_P2_tag24_C2","Foping","FIT",5,"FP_FIT5-2_24","whole body",50
-"RNMB_Foping_BS_P2_tag24_D2","Foping","FIT",5,"FP_FIT5-2_25","whole body",50
-"RNMB_Foping_BS_P2_tag24_E2","Foping","FIT",5,"FP_FIT5-3_1","whole body",50
-"RNMB_Foping_BS_P2_tag24_F2","Foping","FIT",5,"FP_FIT5-3_2","whole body",50
-"RNMB_Foping_BS_P2_tag24_G2","Foping","FIT",5,"FP_FIT5-3_3","whole body",50
-"RNMB_Foping_BS_P2_tag24_H2","Foping","FIT",5,"FP_FIT5-3_4","whole body",50
-"RNMB_Foping_BS_P2_tag24_A3","Foping","FIT",5,"FP_FIT5-3_5","whole body",50
-"RNMB_Foping_BS_P2_tag24_B3","Foping","FIT",5,"FP_FIT5-3_6","whole body",50
-"RNMB_Foping_BS_P2_tag24_C3","Foping","FIT",5,"FP_FIT5-3_7","whole body",50
-"RNMB_Foping_BS_P2_tag24_D3","Foping","FIT",5,"FP_FIT5-3_8","whole body",50
-"RNMB_Foping_BS_P2_tag24_E3","Foping","FIT",5,"FP_FIT5-3_9","whole body",50
-"RNMB_Foping_BS_P2_tag24_F3","Foping","FIT",5,"FP_FIT5-3_10","whole body",50
-"RNMB_Foping_BS_P2_tag24_G3","Foping","FIT",5,"FP_FIT5-3_11","whole body",50
-"RNMB_Foping_BS_P2_tag24_H3","Foping","FIT",5,"FP_FIT5-3_12","whole body",50
-"RNMB_Foping_BS_P2_tag24_A4","Foping","FIT",5,"FP_FIT5-3_13","whole body",50
-"RNMB_Foping_BS_P2_tag24_B4","Foping","FIT",5,"FP_FIT5-3_14","whole body",50
-"RNMB_Foping_BS_P2_tag24_C4","Foping","FIT",5,"FP_FIT5-3_15","whole body",50
-"RNMB_Foping_BS_P2_tag24_D4","Foping","FIT",5,"FP_FIT5-3_16","whole body",50
-"RNMB_Foping_BS_P2_tag24_E4","Foping","FIT",5,"FP_FIT5-3_17","whole body",50
-"RNMB_Foping_BS_P2_tag24_F4","Foping","FIT",5,"FP_FIT5-3_18","whole body",50
-"RNMB_Foping_BS_P2_tag24_G4","Foping","FIT",5,"FP_FIT5-3_19","whole body",50
-"RNMB_Foping_BS_P2_tag24_H4","Foping","FIT",5,"FP_FIT5-3_20","whole body",50
-"RNMB_Foping_BS_P2_tag24_A5","Foping","FIT",5,"FP_FIT5-3_21","whole body",50
-"RNMB_Foping_BS_P2_tag24_B5","Foping","FIT",5,"FP_FIT5-3_22","whole body",50
-"RNMB_Foping_BS_P2_tag24_C5","Foping","FIT",5,"FP_FIT5-3_23","whole body",50
-"RNMB_Foping_BS_P2_tag24_D5","Foping","FIT",5,"FP_FIT5-3_24","whole body",50
-"RNMB_Foping_BS_P2_tag24_E5","Foping","FIT",5,"FP_FIT5-3_25","whole body",50
-"RNMB_Foping_BS_P2_tag24_F5","Foping","FIT",5,"FP_FIT5-3_26","whole body",50
-"RNMB_Foping_BS_P2_tag24_G5","Foping","FIT",5,"FP_FIT5-3_27","whole body",50
-"RNMB_Foping_BS_P2_tag24_H5","Foping","FIT",5,"FP_FIT5-3_28","whole body",50
-"RNMB_Foping_BS_P2_tag24_A6","Foping","FIT",5,"FP_FIT5-3_29","whole body",50
-"RNMB_Foping_BS_P2_tag24_B6","Foping","FIT",5,"FP_FIT5-3_30","whole body",50
-"RNMB_Foping_BS_P2_tag24_C6","Foping","FIT",5,"FP_FIT5-3_31","whole body",50
-"RNMB_Foping_BS_P2_tag24_D6","Foping","FIT",5,"FP_FIT5-3_32","whole body",50
-"RNMB_Foping_BS_P2_tag24_E6","Foping","FIT",6,"FP_FIT6-1","whole body",50
-"RNMB_Foping_BS_P2_tag24_F6","Foping","FIT",6,"FP_FIT6-2","whole body",50
-"RNMB_Foping_BS_P2_tag24_G6","Foping","FIT",6,"FP_FIT6-3","whole body",50
-"RNMB_Foping_BS_P2_tag24_H6","Foping","FIT",6,"FP_FIT6-4","whole body",50
-"RNMB_Foping_BS_P2_tag24_A7","Foping","FIT",6,"FP_FIT6-5","whole body",50
-"RNMB_Foping_BS_P2_tag24_B7","Foping","FIT",6,"FP_FIT6-6","whole body",50
-"RNMB_Foping_BS_P2_tag24_C7","Foping","FIT",6,"FP_FIT6-7","whole body",50
-"RNMB_Foping_BS_P2_tag24_D7","Foping","FIT",6,"FP_FIT6-8","whole body",50
-"RNMB_Foping_BS_P2_tag24_E7","Foping","FIT",6,"FP_FIT6-9","whole body",50
-"RNMB_Foping_BS_P2_tag24_F7","Foping","FIT",6,"FP_FIT6-10","whole body",50
-"RNMB_Foping_BS_P2_tag24_G7","Foping","FIT",6,"FP_FIT6-11","whole body",50
-"RNMB_Foping_BS_P2_tag24_H7","Foping","FIT",6,"FP_FIT6-12","whole body",50
-"RNMB_Foping_BS_P2_tag24_A8","Foping","FIT",6,"FP_FIT6-13","whole body",50
-"RNMB_Foping_BS_P2_tag24_B8","Foping","FIT",6,"FP_FIT6-14","whole body",50
-"RNMB_Foping_BS_P2_tag24_C8","Foping","FIT",6,"FP_FIT6-15","whole body",50
-"RNMB_Foping_BS_P2_tag24_D8","Foping","FIT",6,"FP_FIT6-16","whole body",50
-"RNMB_Foping_BS_P2_tag24_E8","Foping","FIT",6,"FP_FIT6-17","whole body",50
-"RNMB_Foping_BS_P2_tag24_F8","Foping","FIT",6,"FP_FIT6-18","whole body",50
-"RNMB_Foping_BS_P2_tag24_G8","Foping","FIT",6,"FP_FIT6-19","whole body",50
-"RNMB_Foping_BS_P2_tag24_H8","Foping","FIT",6,"FP_FIT6-20","whole body",50
-"RNMB_Foping_BS_P2_tag24_A9","Foping","FIT",6,"FP_FIT6-21","whole body",50
-"RNMB_Foping_BS_P2_tag24_B9","Foping","FIT",6,"FP_FIT6-22","whole body",50
-"RNMB_Foping_BS_P2_tag24_C9","Foping","FIT",6,"FP_FIT6-23","whole body",50
-"RNMB_Foping_BS_P2_tag24_D9","Foping","FIT",6,"FP_FIT6-24","whole body",50
-"RNMB_Foping_BS_P2_tag24_E9","Foping","FIT",6,"FP_FIT6-25","whole body",50
-"RNMB_Foping_BS_P2_tag24_F9","Foping","FIT",6,"FP_FIT6-26","whole body",50
-"RNMB_Foping_BS_P2_tag24_G9","Foping","FIT",6,"FP_FIT6-27","whole body",50
-"RNMB_Foping_BS_P2_tag24_H9","Foping","FIT",6,"FP_FIT6-28","whole body",50
-"RNMB_Foping_BS_P2_tag24_A10","Foping","FIT",6,"FP_FIT6-29","whole body",50
-"RNMB_Foping_BS_P2_tag24_B10","Foping","FIT",6,"FP_FIT6-30","whole body",50
-"RNMB_Foping_BS_P2_tag24_C10","Foping","FIT",6,"FP_FIT6-31","whole body",50
-"RNMB_Foping_BS_P2_tag24_D10","Foping","FIT",6,"FP_FIT6-32","whole body",50
-"RNMB_Foping_BS_P2_tag24_E10","Foping","FIT",6,"FP_FIT6-33","whole body",50
-"RNMB_Foping_BS_P2_tag24_F10","Foping","FIT",6,"FP_FIT6-34","whole body",50
-"RNMB_Foping_BS_P2_tag24_G10","Foping","FIT",6,"FP_FIT6-35","whole body",50
-"RNMB_Foping_BS_P2_tag24_H10","Foping","FIT",6,"FP_FIT6-36","whole body",50
-"RNMB_Foping_BS_P2_tag24_A11","Foping","FIT",6,"FP_FIT6-37","whole body",50
-"RNMB_Foping_BS_P2_tag24_B11","Foping","FIT",6,"FP_FIT6-38","whole body",50
-"RNMB_Foping_BS_P2_tag24_C11","Foping","FIT",6,"FP_FIT6-39","whole body",50
-"RNMB_Foping_BS_P2_tag24_D11","Foping","FIT",6,"FP_FIT6-40","whole body",50
-"RNMB_Foping_BS_P2_tag24_E11","Foping","FIT",6,"FP_FIT6-41","whole body",50
-"RNMB_Foping_BS_P2_tag24_F11","Foping","FIT",6,"FP_FIT6-42","whole body",50
-"RNMB_Foping_BS_P2_tag24_G11","Foping","FIT",6,"FP_FIT6-43","whole body",50
-"RNMB_Foping_BS_P2_tag24_H11","Foping","FIT",6,"FP_FIT6-44","whole body",50
-"RNMB_Foping_BS_P2_tag24_A12","Foping","FIT",6,"FP_FIT6-45","whole body",50
-"RNMB_Foping_BS_P2_tag24_B12","Foping","FIT",6,"FP_FIT6-46","whole body",50
-"RNMB_Foping_BS_P2_tag24_C12","Foping","FIT",6,"FP_FIT6-47","whole body",50
-"RNMB_Foping_BS_P2_tag24_D12","Foping","FIT",6,"FP_FIT6-48","whole body",50
-"RNMB_Foping_BS_P2_tag24_E12","Foping","FIT",6,"FP_FIT6-49","whole body",12
-"RNMB_Foping_BS_P2_tag24_F12","Foping","FIT",7,"FP_FIT7-1","whole body",50
-"RNMB_Foping_BS_P2_tag24_G12","Foping","FIT",7,"FP_FIT7-2","whole body",50
-"RNMB_Foping_BS_P2_tag24_H12","Foping","FIT",7,"FP_FIT7-3","whole body",50
-"RNMB_Foping_BS_P3_tag26_A1","Foping","FIT",7,"FP_FIT7-4","whole body",50
-"RNMB_Foping_BS_P3_tag26_B1","Foping","FIT",7,"FP_FIT7-5","whole body",50
-"RNMB_Foping_BS_P3_tag26_C1","Foping","FIT",7,"FP_FIT7-6","whole body",50
-"RNMB_Foping_BS_P3_tag26_D1","Foping","FIT",7,"FP_FIT7-7","whole body",50
-"RNMB_Foping_BS_P3_tag26_E1","Foping","FIT",7,"FP_FIT7-8","whole body",50
-"RNMB_Foping_BS_P3_tag26_F1","Foping","FIT",7,"FP_FIT7-9","whole body",50
-"RNMB_Foping_BS_P3_tag26_G1","Foping","FIT",7,"FP_FIT7-10","whole body",50
-"RNMB_Foping_BS_P3_tag26_H1","Foping","FIT",7,"FP_FIT7-11","whole body",50
-"RNMB_Foping_BS_P3_tag26_A2","Foping","FIT",7,"FP_FIT7-12","whole body",50
-"RNMB_Foping_BS_P3_tag26_B2","Foping","FIT",7,"FP_FIT7-13","whole body",50
-"RNMB_Foping_BS_P3_tag26_C2","Foping","FIT",7,"FP_FIT7-14","whole body",16
-"RNMB_Foping_BS_P3_tag26_D2","Foping","MT",5,"FP_MT5-1_1","whole body",50
-"RNMB_Foping_BS_P3_tag26_E2","Foping","MT",5,"FP_MT5-1_2","whole body",50
-"RNMB_Foping_BS_P3_tag26_F2","Foping","MT",5,"FP_MT5-1_3","whole body",50
-"RNMB_Foping_BS_P3_tag26_G2","Foping","MT",5,"FP_MT5-1_4","whole body",50
-"RNMB_Foping_BS_P3_tag26_H2","Foping","MT",5,"FP_MT5-1_5","whole body",50
-"RNMB_Foping_BS_P3_tag26_A3","Foping","MT",5,"FP_MT5-1_6","whole body",50
-"RNMB_Foping_BS_P3_tag26_B3","Foping","MT",5,"FP_MT5-2_1","whole body",50
-"RNMB_Foping_BS_P3_tag26_C3","Foping","MT",5,"FP_MT5-2_2","whole body",50
-"RNMB_Foping_BS_P3_tag26_D3","Foping","MT",5,"FP_MT5-2_3","whole body",50
-"RNMB_Foping_BS_P3_tag26_E3","Foping","MT",6,"FP_MT6-1","whole body",50
-"RNMB_Foping_BS_P3_tag26_F3","Foping","MT",6,"FP_MT6-2","whole body",50
-"RNMB_Foping_BS_P3_tag26_G3","Foping","MT",6,"FP_MT6-3","whole body",50
-"RNMB_Foping_BS_P3_tag26_H3","Foping","MT",6,"FP_MT6-4","whole body",50
-"RNMB_Foping_BS_P3_tag26_A4","Foping","MT",6,"FP_MT6-5","whole body",50
-"RNMB_Foping_BS_P3_tag26_B4","Foping","MT",7,"FP_MT7-1","whole body",50
-"RNMB_Foping_BS_P3_tag26_C4","Foping","MT",7,"FP_MT7-2","whole body",50
-"RNMB_Foping_BS_P3_tag26_D4","Foping","MT",7,"FP_MT7-3","whole body",50
-"RNMB_Foping_BS_P3_tag26_E4","Foping","MT",7,"FP_MT7-4","whole body",50
-"RNMB_Foping_BS_P3_tag26_F4","Foping","MT",7,"FP_MT7-5","whole body",50
-"RNMB_Foping_BS_P3_tag26_G4","Foping","MT",7,"FP_MT7-6","whole body",18
-"RNMB_Foping_BS_P3_tag26_H4","Foping","L/N",5,"FP_L/N5-1_1","whole body",50
-"RNMB_Foping_BS_P3_tag26_A5","Foping","L/N",5,"FP_L/N5-2_1","whole body",50
-"RNMB_Foping_BS_P3_tag26_B5","Foping","L/N",5,"FP_L/N5-2_2","whole body",50
-"RNMB_Foping_BS_P3_tag26_C5","Foping","L/N",6,"FP_L/N6-1","whole body",50
-"RNMB_Foping_BS_P3_tag26_D5","Foping","L/N",6,"FP_L/N6-2","whole body",50
-"RNMB_Foping_BS_P3_tag26_E5","Foping","L/N",7,"FP_L/N7-1","whole body",50
-"RNMB_Foping_BS_P3_tag26_F5","Foping","L/N",7,"FP_L/N7-2","whole body",50
-"RNMB_Foping_BS_P3_tag26_G5","Foping","Pit",5,"FP_Pit5-1","whole body",33
-"RNMB_Foping_BS_P3_tag26_H5","Foping","Pit",6,"FP_Pit6-1","whole body",5
-"RNMB_Foping_BS_P3_tag26_A6","Foping","L/N",1,"FP_L/N1-2","leg",25
-"RNMB_Foping_BS_P3_tag26_B6","Foping","L/N",1,"FP_L/N1-3","leg",25
-"RNMB_Foping_BS_P3_tag26_C6","Foping","L/N",1,"FP_L/N1-4","leg",14
-"RNMB_Foping_BS_P3_tag26_D6","Foping","L/N",3,"FP_L/N3-1","head",39
-"RNMB_Foping_BS_P3_tag26_E6","Foping","L/N",3,"FP_L/N3-2","leg",35
-"RNMB_Foping_BS_P3_tag26_F6","Foping","L/N",4,"FP_L/N4-1","head",26
-"RNMB_Foping_BS_P3_tag26_G6","Foping","L/N",4,"FP_L/N4-2_1","head",31
-"RNMB_Foping_BS_P3_tag26_H6","Foping","L/N",4,"FP_L/N4-2_2","head",50
-"RNMB_Foping_BS_P3_tag26_A7","Foping","L/N",4,"FP_L/N4-2_3","head",50
-"RNMB_Foping_BS_P3_tag26_B7","Foping","L/N",4,"FP_L/N4-2_4","head",50
-"RNMB_Foping_BS_P3_tag26_C7","Foping","Pit",1,"FP_Pit-1-3","leg",7
-"RNMB_Foping_BS_P3_tag26_D7","Foping","Pit",4,"FP_Pit-4-2_1","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_E7","Foping","Pit",4,"FP_Pit-4-2_2","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_F7","Foping","Pit",4,"FP_Pit-4-2_3","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_G7","Foping","Pit",4,"FP_Pit-4-2_4","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_H7","Foping","Pit",4,"FP_Pit-4-1_2","head and thorax",44
-"RNMB_Foping_BS_P3_tag26_A8","Foping","Pit",3,"FP_Pit-3-2_1","leg",82
-"RNMB_Foping_BS_P3_tag26_B8","Foping","Pit",3,"FP_Pit-3-2_2","head",29
-"RNMB_Foping_BS_P3_tag26_C8","Foping","MT",4,"FP_MT-4-1_5","head",11
-"RNMB_Foping_BS_P3_tag26_D8","Foping","MT",4,"FP_MT-4-2_4","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_E8","Foping","MT",4,"FP_MT-4-2_3","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_F8","Foping","MT",4,"FP_MT-4-2_2","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_G8","Foping","MT",4,"FP_MT-4-2_1","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_H8","Foping","MT",4,"FP_MT-4-1_2","head",11
-"RNMB_Foping_BS_P3_tag26_A9","Foping","MT",3,"FP_MT3-1","head",21
-"RNMB_Foping_BS_P3_tag26_B9","Foping","FIT",3,"FP_FIT3-2_5","leg",150
-"RNMB_Foping_BS_P3_tag26_C9","Foping","FIT",3,"FP_FIT3-2_4","leg",150
-"RNMB_Foping_BS_P3_tag26_D9","Foping","FIT",3,"FP_FIT3-2_3","leg",150
-"RNMB_Foping_BS_P3_tag26_E9","Foping","FIT",3,"FP_FIT3-2_2","leg",150
-"RNMB_Foping_BS_P3_tag26_F9","Foping","FIT",3,"FP_FIT3-2_1","leg",150
-"RNMB_Foping_BS_P3_tag26_G9","Foping","FIT",4,"FP_FIT4-2_22","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_H9","Foping","FIT",4,"FP_FIT4-2_21","head and thorax",50
-"RNMB_Foping_BS_P3_tag26_A10","Foping","L/N",4,"FP_L/N4-1_1","leg",25
-"RNMB_Foping_BS_P3_tag26_B10","Meicity","FIT",5,"HPS_FIT5_2_3","whole body",50
-"RNMB_Foping_BS_P3_tag26_C10","Meicity","FIT",5,"HPS_FIT5_2_4","whole body",50
-"RNMB_Foping_BS_P3_tag26_D10","Meicity","FIT",5,"HPS_FIT5_2_5","whole body",50
-"RNMB_Foping_BS_P3_tag26_E10","Meicity","FIT",5,"HPS_FIT5_2_6","whole body",50
-"RNMB_Foping_BS_P3_tag26_F10","Meicity","FIT",5,"HPS_FIT5_2_7","whole body",50
-"RNMB_Foping_BS_P3_tag26_G10","Meicity","FIT",5,"HPS_FIT5_2_8","whole body",50
-"RNMB_Foping_BS_P3_tag26_H10","Meicity","FIT",5,"HPS_FIT5_2_9","whole body",50
-"RNMB_Foping_BS_P3_tag26_A11","Meicity","FIT",5,"HPS_FIT5_2_10","whole body",50
-"RNMB_Foping_BS_P3_tag26_B11","Meicity","FIT",5,"HPS_FIT5_2_11","whole body",50
-"RNMB_Foping_BS_P3_tag26_C11","Meicity","FIT",5,"HPS_FIT5_1_9","whole body",50
-"RNMB_Foping_BS_P3_tag26_D11","Meicity","FIT",5,"HPS_FIT5_2_12","whole body",50
-"RNMB_Foping_BS_P3_tag26_E11","Meicity","FIT",5,"HPS_FIT5_2_13","whole body",50
-"RNMB_Foping_BS_P3_tag26_F11","Meicity","FIT",5,"HPS_FIT5_2_14","whole body",50
-"RNMB_Foping_BS_P3_tag26_G11","Meicity","FIT",5,"HPS_FIT5_2_15","whole body",50
-"RNMB_Foping_BS_P3_tag26_H11","Meicity","FIT",5,"HPS_FIT5_2_16","whole body",50
-"RNMB_Foping_BS_P3_tag26_A12","Meicity","FIT",5,"HPS_FIT5_3_1","whole body",50
-"RNMB_Foping_BS_P3_tag26_B12","Meicity","FIT",5,"HPS_FIT5_3_2","whole body",50
-"RNMB_Foping_BS_P3_tag26_C12","Meicity","FIT",5,"HPS_FIT5_3_3","whole body",50
-"RNMB_Foping_BS_P3_tag26_D12","Meicity","FIT",5,"HPS_FIT5_3_4","whole body",50
-"RNMB_Foping_BS_P3_tag26_E12","Meicity","FIT",5,"HPS_FIT5_3_5","whole body",50
-"RNMB_Foping_BS_P3_tag26_F12","Meicity","FIT",5,"HPS_FIT5_3_6","whole body",50
-"RNMB_Foping_BS_P3_tag26_G12","Meicity","FIT",5,"HPS_FIT5_3_7","whole body",50
-"RNMB_Foping_BS_P3_tag26_H12","Meicity","FIT",5,"HPS_FIT5_3_8","whole body",50
-"RNMB_meicity_BS_P1_tag41_A1","Meicity","FIT",1,"HPS_FIT1_1","leg",25
-"RNMB_meicity_BS_P1_tag41_B1","Meicity","FIT",1,"HPS_FIT1_2","leg",25
-"RNMB_meicity_BS_P1_tag41_C1","Meicity","FIT",1,"HPS_FIT1_3","leg",25
-"RNMB_meicity_BS_P1_tag41_D1","Meicity","FIT",1,"HPS_FIT1_4","leg",25
-"RNMB_meicity_BS_P1_tag41_E1","Meicity","FIT",1,"HPS_FIT1_5","leg",25
-"RNMB_meicity_BS_P1_tag41_F1","Meicity","FIT",1,"HPS_FIT1_6","leg",25
-"RNMB_meicity_BS_P1_tag41_G1","Meicity","FIT",1,"HPS_FIT1_7","leg",25
-"RNMB_meicity_BS_P1_tag41_H1","Meicity","FIT",2,"HPS_FIT2_1_1","leg",100
-"RNMB_meicity_BS_P1_tag41_A2","Meicity","FIT",2,"HPS_FIT2_1_2","leg",100
-"RNMB_meicity_BS_P1_tag41_B2","Meicity","FIT",2,"HPS_FIT2_1_3","leg",100
-"RNMB_meicity_BS_P1_tag41_C2","Meicity","FIT",2,"HPS_FIT2_1_4","leg",100
-"RNMB_meicity_BS_P1_tag41_D2","Meicity","FIT",2,"HPS_FIT2_1_5","leg",100
-"RNMB_meicity_BS_P1_tag41_E2","Meicity","FIT",3,"HPS_FIT3_1_1","leg",150
-"RNMB_meicity_BS_P1_tag41_F2","Meicity","FIT",3,"HPS_FIT3_1_2","leg",150
-"RNMB_meicity_BS_P1_tag41_G2","Meicity","FIT",3,"HPS_FIT3_1_3","leg",150
-"RNMB_meicity_BS_P1_tag41_H2","Meicity","FIT",3,"HPS_FIT3_1_4","leg",150
-"RNMB_meicity_BS_P1_tag41_A3","Meicity","FIT",3,"HPS_FIT3_2_1","head",50
-"RNMB_meicity_BS_P1_tag41_B3","Meicity","FIT",3,"HPS_FIT3_2_2","head",50
-"RNMB_meicity_BS_P1_tag41_C3","Meicity","FIT",3,"HPS_FIT3_2_3","head",50
-"RNMB_meicity_BS_P1_tag41_D3","Meicity","FIT",4,"HPS_FIT4_2_1","head",50
-"RNMB_meicity_BS_P1_tag41_E3","Meicity","FIT",4,"HPS_FIT4_2_2","head",50
-"RNMB_meicity_BS_P1_tag41_F3","Meicity","FIT",4,"HPS_FIT4_2_3","head",50
-"RNMB_meicity_BS_P1_tag41_G3","Meicity","FIT",4,"HPS_FIT4_2_4","head",50
-"RNMB_meicity_BS_P1_tag41_H3","Meicity","FIT",4,"HPS_FIT4_2_5","head",50
-"RNMB_meicity_BS_P1_tag41_A4","Meicity","FIT",4,"HPS_FIT4_2_6","head",50
-"RNMB_meicity_BS_P1_tag41_B4","Meicity","FIT",4,"HPS_FIT4_2_7","head",50
-"RNMB_meicity_BS_P1_tag41_C4","Meicity","FIT",4,"HPS_FIT4_2_8","head",50
-"RNMB_meicity_BS_P1_tag41_D4","Meicity","FIT",4,"HPS_FIT4_2_9","head",50
-"RNMB_meicity_BS_P1_tag41_E4","Meicity","FIT",4,"HPS_FIT4_2_10","head",50
-"RNMB_meicity_BS_P1_tag41_F4","Meicity","FIT",4,"HPS_FIT4_3_1","head",50
-"RNMB_meicity_BS_P1_tag41_G4","Meicity","FIT",4,"HPS_FIT4_3_2","head",50
-"RNMB_meicity_BS_P1_tag41_H4","Meicity","FIT",4,"HPS_FIT4_3_3","head",50
-"RNMB_meicity_BS_P1_tag41_A5","Meicity","FIT",4,"HPS_FIT4_3_4","head",50
-"RNMB_meicity_BS_P1_tag41_B5","Meicity","FIT",4,"HPS_FIT4_3_5","head",50
-"RNMB_meicity_BS_P1_tag41_C5","Meicity","FIT",4,"HPS_FIT4_3_6","head",50
-"RNMB_meicity_BS_P1_tag41_D5","Meicity","FIT",4,"HPS_FIT4_3_7","head",50
-"RNMB_meicity_BS_P1_tag41_E5","Meicity","FIT",4,"HPS_FIT4_3_8","head",50
-"RNMB_meicity_BS_P1_tag41_F5","Meicity","FIT",4,"HPS_FIT4_3_9","head",50
-"RNMB_meicity_BS_P1_tag41_G5","Meicity","FIT",4,"HPS_FIT4_3_10","head",50
-"RNMB_meicity_BS_P1_tag41_H5","Meicity","FIT",4,"HPS_FIT4_3_11","head",50
-"RNMB_meicity_BS_P1_tag41_A6","Meicity","FIT",4,"HPS_FIT4_3_12","head",50
-"RNMB_meicity_BS_P1_tag41_B6","Meicity","FIT",4,"HPS_FIT4_3_13","head",50
-"RNMB_meicity_BS_P1_tag41_C6","Meicity","FIT",4,"HPS_FIT4_3_14","head",50
-"RNMB_meicity_BS_P1_tag41_D6","Meicity","FIT",4,"HPS_FIT4_3_15","head",50
-"RNMB_meicity_BS_P1_tag41_E6","Meicity","FIT",4,"HPS_FIT4_3_16","head",50
-"RNMB_meicity_BS_P1_tag41_F6","Meicity","FIT",4,"HPS_FIT4_3_17","head",50
-"RNMB_meicity_BS_P1_tag41_G6","Meicity","FIT",4,"HPS_FIT4_3_18","head",50
-"RNMB_meicity_BS_P1_tag41_H6","Meicity","FIT",4,"HPS_FIT4_3_19","head",50
-"RNMB_meicity_BS_P1_tag41_A7","Meicity","FIT",4,"HPS_FIT4_3_20","head",50
-"RNMB_meicity_BS_P1_tag41_B7","Meicity","FIT",4,"HPS_FIT4_3_21","head",50
-"RNMB_meicity_BS_P1_tag41_C7","Meicity","FIT",4,"HPS_FIT4_3_22","head",50
-"RNMB_meicity_BS_P1_tag41_D7","Meicity","FIT",4,"HPS_FIT4_3_23","head",50
-"RNMB_meicity_BS_P1_tag41_E7","Meicity","FIT",4,"HPS_FIT4_3_24","head",50
-"RNMB_meicity_BS_P1_tag41_F7","Meicity","FIT",4,"HPS_FIT4_3_25","head",50
-"RNMB_meicity_BS_P1_tag41_G7","Meicity","FIT",4,"HPS_FIT4_3_26","head",50
-"RNMB_meicity_BS_P1_tag41_H7","Meicity","FIT",4,"HPS_FIT4_3_27","head",50
-"RNMB_meicity_BS_P1_tag41_A8","Meicity","FIT",4,"HPS_FIT4_3_28","head",50
-"RNMB_meicity_BS_P1_tag41_B8","Meicity","FIT",4,"HPS_FIT4_3_29","head",50
-"RNMB_meicity_BS_P1_tag41_C8","Meicity","FIT",4,"HPS_FIT4_3_30","head",50
-"RNMB_meicity_BS_P1_tag41_D8","Meicity","FIT",4,"HPS_FIT4_3_31","head",50
-"RNMB_meicity_BS_P1_tag41_E8","Meicity","FIT",4,"HPS_FIT4_3_32","head",50
-"RNMB_meicity_BS_P1_tag41_F8","Meicity","FIT",4,"HPS_FIT4_3_33","head",50
-"RNMB_meicity_BS_P1_tag41_G8","Meicity","FIT",4,"HPS_FIT4_3_34","head",50
-"RNMB_meicity_BS_P1_tag41_H8","Meicity","FIT",4,"HPS_FIT4_3_35","head",50
-"RNMB_meicity_BS_P1_tag41_A9","Meicity","FIT",4,"HPS_FIT4_3_36","head",50
-"RNMB_meicity_BS_P1_tag41_B9","Meicity","FIT",4,"HPS_FIT4_3_37","head",50
-"RNMB_meicity_BS_P1_tag41_C9","Meicity","FIT",4,"HPS_FIT4_3_38","head",50
-"RNMB_meicity_BS_P1_tag41_D9","Meicity","FIT",4,"HPS_FIT4_3_39","head",50
-"RNMB_meicity_BS_P1_tag41_E9","Meicity","FIT",4,"HPS_FIT4_3_40","head",50
-"RNMB_meicity_BS_P1_tag41_F9","Meicity","FIT",4,"HPS_FIT4_3_41","head",50
-"RNMB_meicity_BS_P1_tag41_G9","Meicity","L/N",1,"HPS_L/N1-1","leg",25
-"RNMB_meicity_BS_P1_tag41_H9","Meicity","L/N",1,"HPS_L/N1-2","leg",25
-"RNMB_meicity_BS_P1_tag41_A10","Meicity","L/N",1,"HPS_L/N1-3","leg",15
-"RNMB_meicity_BS_P1_tag41_B10","Meicity","L/N",2,"HPS_L/N2-1","leg",100
-"RNMB_meicity_BS_P1_tag41_C10","Meicity","L/N",2,"HPS_L/N2-2","leg",100
-"RNMB_meicity_BS_P1_tag41_D10","Meicity","L/N",2,"HPS_L/N2-3","leg",30
-"RNMB_meicity_BS_P1_tag41_E10","Meicity","L/N",3,"HPS_L/N3-1","leg",150
-"RNMB_meicity_BS_P1_tag41_F10","Meicity","L/N",3,"HPS_L/N3-2","leg",150
-"RNMB_meicity_BS_P1_tag41_G10","Meicity","L/N",3,"HPS_L/N3-3","leg",150
-"RNMB_meicity_BS_P1_tag41_H10","Meicity","L/N",4,"HPS_L/N4-1_1","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_A11","Meicity","L/N",4,"HPS_L/N4-2_2","head and thorax",32
-"RNMB_meicity_BS_P1_tag41_B11","Meicity","L/N",4,"HPS_L/N4-2_1","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_C11","Meicity","L/N",4,"HPS_L/N4-2_2","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_D11","Meicity","L/N",4,"HPS_L/N4-2_3","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_E11","Meicity","L/N",4,"HPS_L/N4-2_4","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_F11","Meicity","L/N",4,"HPS_L/N4-2_5","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_G11","Meicity","L/N",4,"HPS_L/N4-2_6","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_H11","Meicity","L/N",4,"HPS_L/N4-2_7","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_A12","Meicity","L/N",4,"HPS_L/N4-2_8","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_B12","Meicity","L/N",4,"HPS_L/N4-2_9","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_C12","Meicity","MT",2,"MT2-1","leg",100
-"RNMB_meicity_BS_P1_tag41_D12","Meicity","MT",3,"MT3-1","leg",150
-"RNMB_meicity_BS_P1_tag41_E12","Meicity","MT",4,"MT4-1_1","head ",25
-"RNMB_meicity_BS_P1_tag41_F12","Meicity","MT",4,"MT4-1_2","head ",25
-"RNMB_meicity_BS_P1_tag41_G12","Meicity","MT",4,"MT4-2_1","head and thorax",50
-"RNMB_meicity_BS_P1_tag41_H12","Meicity","MT",4,"MT4-2_2","head and thorax",50
-"RNMB_meicity_BS_P2_tag42_A1","Meicity","FIT",5,"HPS_FIT5_3_9","whole body",50
-"RNMB_meicity_BS_P2_tag42_B1","Meicity","FIT",5,"HPS_FIT5_3_10","whole body",50
-"RNMB_meicity_BS_P2_tag42_C1","Meicity","FIT",5,"HPS_FIT5_3_11","whole body",50
-"RNMB_meicity_BS_P2_tag42_D1","Meicity","FIT",5,"HPS_FIT5_3_12","whole body",50
-"RNMB_meicity_BS_P2_tag42_E1","Meicity","FIT",5,"HPS_FIT5_3_13","whole body",50
-"RNMB_meicity_BS_P2_tag42_F1","Meicity","FIT",5,"HPS_FIT5_3_14","whole body",50
-"RNMB_meicity_BS_P2_tag42_G1","Meicity","FIT",5,"HPS_FIT5_3_15","whole body",50
-"RNMB_meicity_BS_P2_tag42_H1","Meicity","FIT",5,"HPS_FIT5_3_16","whole body",50
-"RNMB_meicity_BS_P2_tag42_A2","Meicity","FIT",5,"HPS_FIT5_3_17","whole body",50
-"RNMB_meicity_BS_P2_tag42_B2","Meicity","FIT",5,"HPS_FIT5_3_18","whole body",50
-"RNMB_meicity_BS_P2_tag42_C2","Meicity","FIT",5,"HPS_FIT5_3_19","whole body",50
-"RNMB_meicity_BS_P2_tag42_D2","Meicity","FIT",5,"HPS_FIT5_3_20","whole body",50
-"RNMB_meicity_BS_P2_tag42_E2","Meicity","FIT",5,"HPS_FIT5_3_21","whole body",50
-"RNMB_meicity_BS_P2_tag42_F2","Meicity","FIT",5,"HPS_FIT5_3_22","whole body",50
-"RNMB_meicity_BS_P2_tag42_G2","Meicity","FIT",6,"HPS_FIT6-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_H2","Meicity","FIT",6,"HPS_FIT6-2","whole body",50
-"RNMB_meicity_BS_P2_tag42_A3","Meicity","FIT",6,"HPS_FIT6-3","whole body",50
-"RNMB_meicity_BS_P2_tag42_B3","Meicity","FIT",6,"HPS_FIT6-4","whole body",50
-"RNMB_meicity_BS_P2_tag42_C3","Meicity","FIT",6,"HPS_FIT6-5","whole body",50
-"RNMB_meicity_BS_P2_tag42_D3","Meicity","FIT",6,"HPS_FIT6-6","whole body",50
-"RNMB_meicity_BS_P2_tag42_E3","Meicity","FIT",6,"HPS_FIT6-7","whole body",50
-"RNMB_meicity_BS_P2_tag42_F3","Meicity","FIT",6,"HPS_FIT6-8","whole body",50
-"RNMB_meicity_BS_P2_tag42_G3","Meicity","FIT",6,"HPS_FIT6-9","whole body",50
-"RNMB_meicity_BS_P2_tag42_H3","Meicity","FIT",6,"HPS_FIT6-10","whole body",50
-"RNMB_meicity_BS_P2_tag42_A4","Meicity","FIT",6,"HPS_FIT6-11","whole body",50
-"RNMB_meicity_BS_P2_tag42_B4","Meicity","FIT",6,"HPS_FIT6-12","whole body",50
-"RNMB_meicity_BS_P2_tag42_C4","Meicity","FIT",6,"HPS_FIT6-13","whole body",50
-"RNMB_meicity_BS_P2_tag42_D4","Meicity","FIT",6,"HPS_FIT6-14","whole body",50
-"RNMB_meicity_BS_P2_tag42_E4","Meicity","FIT",6,"HPS_FIT6-15","whole body",50
-"RNMB_meicity_BS_P2_tag42_F4","Meicity","FIT",7,"HPS_FIT7-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_G4","Meicity","FIT",7,"HPS_FIT7-2","whole body",50
-"RNMB_meicity_BS_P2_tag42_H4","Meicity","FIT",7,"HPS_FIT7-3","whole body",50
-"RNMB_meicity_BS_P2_tag42_A5","Meicity","FIT",7,"HPS_FIT7-4","whole body",50
-"RNMB_meicity_BS_P2_tag42_B5","Meicity","FIT",7,"HPS_FIT7-5","whole body",50
-"RNMB_meicity_BS_P2_tag42_C5","Meicity","FIT",7,"HPS_FIT7-6","whole body",50
-"RNMB_meicity_BS_P2_tag42_D5","Meicity","FIT",7,"HPS_FIT7-7","whole body",50
-"RNMB_meicity_BS_P2_tag42_E5","Meicity","FIT",7,"HPS_FIT7-8","whole body",50
-"RNMB_meicity_BS_P2_tag42_F5","Meicity","FIT",7,"HPS_FIT7-9","whole body",50
-"RNMB_meicity_BS_P2_tag42_G5","Meicity","L/N",5,"HPS_L/N5-1_1","whole body",25
-"RNMB_meicity_BS_P2_tag42_H5","Meicity","L/N",5,"HPS_L/N5-1_2","whole body",25
-"RNMB_meicity_BS_P2_tag42_A6","Meicity","L/N",5,"HPS_L/N5-1_3","whole body",25
-"RNMB_meicity_BS_P2_tag42_B6","Meicity","L/N",5,"HPS_L/N5-1_4","whole body",25
-"RNMB_meicity_BS_P2_tag42_C6","Meicity","L/N",5,"HPS_L/N5-1_5","whole body",25
-"RNMB_meicity_BS_P2_tag42_D6","Meicity","L/N",5,"HPS_L/N5-1_6","whole body",25
-"RNMB_meicity_BS_P2_tag42_E6","Meicity","L/N",5,"HPS_L/N5-1_7","whole body",25
-"RNMB_meicity_BS_P2_tag42_F6","Meicity","L/N",5,"HPS_L/N5-1_8","whole body",25
-"RNMB_meicity_BS_P2_tag42_G6","Meicity","L/N",5,"HPS_L/N5-1_9","whole body",25
-"RNMB_meicity_BS_P2_tag42_H6","Meicity","L/N",5,"HPS_L/N5-1_10","whole body",25
-"RNMB_meicity_BS_P2_tag42_A7","Meicity","L/N",5,"HPS_L/N5-1_11","whole body",25
-"RNMB_meicity_BS_P2_tag42_B7","Meicity","L/N",5,"HPS_L/N5-1_12","whole body",25
-"RNMB_meicity_BS_P2_tag42_C7","Meicity","L/N",5,"HPS_L/N5-2_1","whole body",50
-"RNMB_meicity_BS_P2_tag42_D7","Meicity","L/N",5,"HPS_L/N5-2_2","whole body",29
-"RNMB_meicity_BS_P2_tag42_E7","Meicity","L/N",6,"HPS_L/N6-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_F7","Meicity","L/N",6,"HPS_L/N6-2","whole body",50
-"RNMB_meicity_BS_P2_tag42_G7","Meicity","L/N",6,"HPS_L/N6-3","whole body",50
-"RNMB_meicity_BS_P2_tag42_H7","Meicity","L/N",6,"HPS_L/N6-4","whole body",50
-"RNMB_meicity_BS_P2_tag42_A8","Meicity","L/N",6,"HPS_L/N6-5","whole body",50
-"RNMB_meicity_BS_P2_tag42_B8","Meicity","L/N",6,"HPS_L/N6-6","whole body",50
-"RNMB_meicity_BS_P2_tag42_C8","Meicity","L/N",6,"HPS_L/N6-7","whole body",50
-"RNMB_meicity_BS_P2_tag42_D8","Meicity","L/N",7,"HPS_L/N7-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_E8","Meicity","L/N",7,"HPS_L/N7-2","whole body",19
-"RNMB_meicity_BS_P2_tag42_F8","Meicity","MT",5,"HPS_MT5-1_1","whole body",25
-"RNMB_meicity_BS_P2_tag42_G8","Meicity","MT",5,"HPS_MT5-1_2","whole body",25
-"RNMB_meicity_BS_P2_tag42_H8","Meicity","MT",5,"HPS_MT5-1_3","whole body",25
-"RNMB_meicity_BS_P2_tag42_A9","Meicity","MT",5,"HPS_MT5-1_4","whole body",25
-"RNMB_meicity_BS_P2_tag42_B9","Meicity","MT",5,"HPS_MT5-1_5","whole body",25
-"RNMB_meicity_BS_P2_tag42_C9","Meicity","MT",5,"HPS_MT5-1_6","whole body",25
-"RNMB_meicity_BS_P2_tag42_D9","Meicity","MT",5,"HPS_MT5-1_7","whole body",25
-"RNMB_meicity_BS_P2_tag42_E9","Meicity","MT",5,"HPS_MT5-2_1","whole body",50
-"RNMB_meicity_BS_P2_tag42_F9","Meicity","MT",5,"HPS_MT5-2_2","whole body",50
-"RNMB_meicity_BS_P2_tag42_G9","Meicity","MT",5,"HPS_MT5-2_3","whole body",50
-"RNMB_meicity_BS_P2_tag42_H9","Meicity","MT",5,"HPS_MT5-2_4","whole body",50
-"RNMB_meicity_BS_P2_tag42_A10","Meicity","MT",5,"HPS_MT5-2_5","whole body",50
-"RNMB_meicity_BS_P2_tag42_B10","Meicity","MT",5,"HPS_MT5-2_6","whole body",50
-"RNMB_meicity_BS_P2_tag42_C10","Meicity","MT",5,"HPS_MT5-2_7","whole body",50
-"RNMB_meicity_BS_P2_tag42_D10","Meicity","MT",6,"HPS_MT6-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_E10","Meicity","MT",6,"HPS_MT6-2","whole body",50
-"RNMB_meicity_BS_P2_tag42_F10","Meicity","MT",6,"HPS_MT6-3","whole body",50
-"RNMB_meicity_BS_P2_tag42_G10","Meicity","MT",6,"HPS_MT6-4","whole body",50
-"RNMB_meicity_BS_P2_tag42_H10","Meicity","MT",6,"HPS_MT6-5","whole body",50
-"RNMB_meicity_BS_P2_tag42_A11","Meicity","MT",6,"HPS_MT6-6","whole body",50
-"RNMB_meicity_BS_P2_tag42_B11","Meicity","MT",6,"HPS_MT6-7","whole body",50
-"RNMB_meicity_BS_P2_tag42_C11","Meicity","MT",6,"HPS_MT6-8","whole body",50
-"RNMB_meicity_BS_P2_tag42_D11","Meicity","MT",6,"HPS_MT6-9","whole body",50
-"RNMB_meicity_BS_P2_tag42_E11","Meicity","MT",6,"HPS_MT6-10","whole body",50
-"RNMB_meicity_BS_P2_tag42_F11","Meicity","MT",7,"HPS_MT7-1","whole body",50
-"RNMB_meicity_BS_P2_tag42_G11","Meicity","MT",7,"HPS_MT7-2","whole body",50
-"RNMB_meicity_BS_P2_tag42_H11","Meicity","MT",7,"HPS_MT7-3","whole body",50
-"RNMB_meicity_BS_P2_tag42_A12","Meicity","MT",7,"HPS_MT7-4","whole body",50
-"RNMB_meicity_BS_P2_tag42_B12","Meicity","MT",7,"HPS_MT7-5","whole body",50
-"RNMB_meicity_BS_P2_tag42_C12","Meicity","MT",7,"HPS_MT7-6","whole body",50
-"RNMB_meicity_BS_P2_tag42_D12","Meicity","MT",7,"HPS_MT7-7","whole body",50
-"RNMB_meicity_BS_P2_tag42_E12","Meicity","MT",7,"HPS_MT7-8","whole body",50
-"RNMB_meicity_BS_P2_tag42_F12","Meicity","MT",7,"HPS_MT7-9","whole body",50
-"RNMB_meicity_BS_P2_tag42_G12","Meicity","MT",7,"HPS_MT7-10","whole body",50
-"RNMB_meicity_BS_P2_tag42_H12","Meicity","MT",5,"HPS_pit5-1","whole body",25
-"RNMB_YHM_BS_P1_tag15_A1","Yuhuangmiao","FIT",1,"YHM_FIT1-1","leg",25
-"RNMB_YHM_BS_P1_tag15_B1","Yuhuangmiao","FIT",1,"YHM_FIT1-2","leg",25
-"RNMB_YHM_BS_P1_tag15_C1","Yuhuangmiao","FIT",1,"YHM_FIT1-3","leg",25
-"RNMB_YHM_BS_P1_tag15_D1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_1","leg",50
-"RNMB_YHM_BS_P1_tag15_E1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_2","leg",50
-"RNMB_YHM_BS_P1_tag15_F1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_3","leg",50
-"RNMB_YHM_BS_P1_tag15_G1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_4","leg",50
-"RNMB_YHM_BS_P1_tag15_H1","Yuhuangmiao","FIT",2,"YHM_FIT2-2_1","leg",100
-"RNMB_YHM_BS_P1_tag15_A2","Yuhuangmiao","FIT",2,"YHM_FIT2-2_2","leg",100
-"RNMB_YHM_BS_P1_tag15_B2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_1","head",25
-"RNMB_YHM_BS_P1_tag15_C2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_2","head",25
-"RNMB_YHM_BS_P1_tag15_D2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_3","head",25
-"RNMB_YHM_BS_P1_tag15_E2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_4","head",25
-"RNMB_YHM_BS_P1_tag15_F2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_5","head",25
-"RNMB_YHM_BS_P1_tag15_G2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_6","head",25
-"RNMB_YHM_BS_P1_tag15_H2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_7","head",25
-"RNMB_YHM_BS_P1_tag15_A3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_8","head",25
-"RNMB_YHM_BS_P1_tag15_B3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_9","head",25
-"RNMB_YHM_BS_P1_tag15_C3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_10","head",25
-"RNMB_YHM_BS_P1_tag15_D3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_11","head",25
-"RNMB_YHM_BS_P1_tag15_E3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_12","head",25
-"RNMB_YHM_BS_P1_tag15_F3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_13","head",25
-"RNMB_YHM_BS_P1_tag15_G3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_14","head",25
-"RNMB_YHM_BS_P1_tag15_H3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_15","head",25
-"RNMB_YHM_BS_P1_tag15_A4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_16","head",25
-"RNMB_YHM_BS_P1_tag15_B4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_17","head",25
-"RNMB_YHM_BS_P1_tag15_C4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_18","head",25
-"RNMB_YHM_BS_P1_tag15_D4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_19","head",25
-"RNMB_YHM_BS_P1_tag15_E4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_1","leg",150
-"RNMB_YHM_BS_P1_tag15_F4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_2","leg",150
-"RNMB_YHM_BS_P1_tag15_G4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_3","leg",150
-"RNMB_YHM_BS_P1_tag15_H4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_4","leg",150
-"RNMB_YHM_BS_P1_tag15_A5","Yuhuangmiao","FIT",4,"YHM_FIT4-2_1","head",50
-"RNMB_YHM_BS_P1_tag15_B5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_2","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_3","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_4","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_5","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_F5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_6","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_7","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_H5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_8","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_A6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_9","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_B6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_10","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_11","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_12","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_13","head and thorax",35
-"RNMB_YHM_BS_P1_tag15_F6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_1","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_2","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_H6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_3","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_A7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_4","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_B7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_5","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_6","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_7","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_8","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_F7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_9","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_10","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_H7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_11","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_A8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_12","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_B8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_13","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_14","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_15","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_16","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_F8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_17","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_18","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_H8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_19","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_A9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_20","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_B9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_21","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_22","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_23","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_24","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_F9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_25","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_26","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_H9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_27","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_A10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_28","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_B10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_29","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_C10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_30","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_D10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_31","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_E10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_32","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_F10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_33","head and thorax",50
-"RNMB_YHM_BS_P1_tag15_G10","Yuhuangmiao","pit",1,"YHM_pit-1-1","leg",25
-"RNMB_YHM_BS_P1_tag15_H10","Yuhuangmiao","pit",1,"YHM_pit-1-2","leg",25
-"RNMB_YHM_BS_P1_tag15_A11","Yuhuangmiao","pit",2,"YHM_pit-2-1","leg",100
-"RNMB_YHM_BS_P1_tag15_B11","Yuhuangmiao","pit",2,"YHM_pit-2-2","leg",100
-"RNMB_YHM_BS_P1_tag15_C11","Yuhuangmiao","pit",2,"YHM_pit-2-3","leg",100
-"RNMB_YHM_BS_P1_tag15_D11","Yuhuangmiao","pit",2,"YHM_pit-2-4","leg",100
-"RNMB_YHM_BS_P1_tag15_E11","Yuhuangmiao","pit",2,"YHM_pit-2-5","leg",100
-"RNMB_YHM_BS_P1_tag15_F11","Yuhuangmiao","pit",2,"YHM_pit-2-6","leg",100
-"RNMB_YHM_BS_P1_tag15_G11","Yuhuangmiao","pit",2,"YHM_pit-2-7","leg",100
-"RNMB_YHM_BS_P1_tag15_H11","Yuhuangmiao","pit",3,"YHM_pit-3-1","leg",150
-"RNMB_YHM_BS_P1_tag15_A12","Yuhuangmiao","pit",3,"YHM_pit-3-2","leg",150
-"RNMB_YHM_BS_P1_tag15_B12","Yuhuangmiao","pit",3,"YHM_pit-3-3","leg",150
-"RNMB_YHM_BS_P1_tag15_C12","Yuhuangmiao","pit",3,"YHM_pit-3-4","leg",150
-"RNMB_YHM_BS_P1_tag15_D12","Yuhuangmiao","pit",3,"YHM_pit-3-6","leg",150
-"RNMB_YHM_BS_P1_tag15_E12","Yuhuangmiao","pit",3,"YHM_pit-3-7","leg",150
-"RNMB_YHM_BS_P1_tag15_F12","Yuhuangmiao","pit",3,"YHM_pit-3-8","leg",150
-"RNMB_YHM_BS_P1_tag15_G12","Yuhuangmiao","pit",3,"YHM_pit-3-9","leg",150
-"RNMB_YHM_BS_P1_tag15_H12","Yuhuangmiao","pit",3,"YHM_pit-3-10","leg",150
-"RNMB_YHM_BS_P2_tag38_A1","Yuhuangmiao","pit",3,"YHM_pit-3-11","leg",150
-"RNMB_YHM_BS_P2_tag38_B1","Yuhuangmiao","pit",3,"YHM_pit-3-12","leg",150
-"RNMB_YHM_BS_P2_tag38_C1","Yuhuangmiao","pit",3,"YHM_pit-3-13","leg",150
-"RNMB_YHM_BS_P2_tag38_D1","Yuhuangmiao","pit",3,"YHM_pit-3-5","leg",150
-"RNMB_YHM_BS_P2_tag38_E1","Yuhuangmiao","pit",3,"YHM_pit-3-14","leg",150
-"RNMB_YHM_BS_P2_tag38_F1","Yuhuangmiao","pit",3,"YHM_pit-3-15","leg",150
-"RNMB_YHM_BS_P2_tag38_G1","Yuhuangmiao","pit",3,"YHM_pit-3-16","leg",150
-"RNMB_YHM_BS_P2_tag38_H1","Yuhuangmiao","pit",3,"YHM_pit-3-17","leg",150
-"RNMB_YHM_BS_P2_tag38_A2","Yuhuangmiao","pit",3,"YHM_pit-3-18","leg",150
-"RNMB_YHM_BS_P2_tag38_B2","Yuhuangmiao","pit",3,"YHM_pit-3-19","leg",150
-"RNMB_YHM_BS_P2_tag38_C2","Yuhuangmiao","pit",3,"YHM_pit-3-20","leg",150
-"RNMB_YHM_BS_P2_tag38_D2","Yuhuangmiao","pit",3,"YHM_pit-3-21","leg",100
-"RNMB_YHM_BS_P2_tag38_E2","Yuhuangmiao","pit",4,"YHM_pit-4-1_1","head",50
-"RNMB_YHM_BS_P2_tag38_F2","Yuhuangmiao","pit",4,"YHM_pit-4-1_2","head",50
-"RNMB_YHM_BS_P2_tag38_G2","Yuhuangmiao","pit",4,"YHM_pit-4-1_3","head",50
-"RNMB_YHM_BS_P2_tag38_H2","Yuhuangmiao","pit",4,"YHM_pit-4-1_4","head",50
-"RNMB_YHM_BS_P2_tag38_A3","Yuhuangmiao","pit",4,"YHM_pit-4-1_5","head",50
-"RNMB_YHM_BS_P2_tag38_B3","Yuhuangmiao","pit",4,"YHM_pit-4-2_1","head",50
-"RNMB_YHM_BS_P2_tag38_C3","Yuhuangmiao","pit",4,"YHM_pit-4-2_2","head",50
-"RNMB_YHM_BS_P2_tag38_D3","Yuhuangmiao","pit",4,"YHM_pit-4-2_3","head",50
-"RNMB_YHM_BS_P2_tag38_E3","Yuhuangmiao","pit",4,"YHM_pit-4-2_4","head",50
-"RNMB_YHM_BS_P2_tag38_F3","Yuhuangmiao","pit",4,"YHM_pit-4-2_5","head",50
-"RNMB_YHM_BS_P2_tag38_G3","Yuhuangmiao","pit",4,"YHM_pit-4-2_6","head",38
-"RNMB_YHM_BS_P2_tag38_H3","Yuhuangmiao","MT",3,"YHM_MT-3_1","leg",40
-"RNMB_YHM_BS_P2_tag38_A4","Yuhuangmiao","MT",4,"YHM_MT-4-1_1","head",50
-"RNMB_YHM_BS_P2_tag38_B4","Yuhuangmiao","MT",4,"YHM_MT-4-1_2","head",50
-"RNMB_YHM_BS_P2_tag38_C4","Yuhuangmiao","MT",4,"YHM_MT-4-2_1","head",50
-"RNMB_YHM_BS_P2_tag38_D4","Yuhuangmiao","MT",4,"YHM_MT-4-2_2","head",50
-"RNMB_YHM_BS_P2_tag38_E4","Yuhuangmiao","MT",4,"YHM_MT-4-2_3","head",50
-"RNMB_YHM_BS_P2_tag38_F4","Yuhuangmiao","L/N",1,"YHM_L/N1-1","leg",25
-"RNMB_YHM_BS_P2_tag38_G4","Yuhuangmiao","L/N",1,"YHM_L/N1-2","leg",17
-"RNMB_YHM_BS_P2_tag38_H4","Yuhuangmiao","L/N",2,"YHM_L/N2-1","leg",100
-"RNMB_YHM_BS_P2_tag38_A5","Yuhuangmiao","L/N",2,"YHM_L/N2-2","leg",100
-"RNMB_YHM_BS_P2_tag38_B5","Yuhuangmiao","L/N",2,"YHM_L/N2-3","leg",46
-"RNMB_YHM_BS_P2_tag38_C5","Yuhuangmiao","L/N",3,"YHM_L/N3-1","leg",150
-"RNMB_YHM_BS_P2_tag38_D5","Yuhuangmiao","L/N",3,"YHM_L/N3-2","leg",150
-"RNMB_YHM_BS_P2_tag38_E5","Yuhuangmiao","L/N",3,"YHM_L/N3-3","leg",150
-"RNMB_YHM_BS_P2_tag38_F5","Yuhuangmiao","L/N",3,"YHM_L/N3-4","head",96
-"RNMB_YHM_BS_P2_tag38_G5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_1","head",50
-"RNMB_YHM_BS_P2_tag38_H5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_2","head",17
-"RNMB_YHM_BS_P2_tag38_A6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_1","head",50
-"RNMB_YHM_BS_P2_tag38_B6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_2","head",50
-"RNMB_YHM_BS_P2_tag38_C6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_3","head",50
-"RNMB_YHM_BS_P2_tag38_D6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_4","head",50
-"RNMB_YHM_BS_P2_tag38_E6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_5","head",50
-"RNMB_YHM_BS_P2_tag38_F6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_6","head",50
-"RNMB_YHM_BS_P2_tag38_G6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_7","head",50
-"RNMB_YHM_BS_P2_tag38_H6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_8","head",50
-"RNMB_YHM_BS_P2_tag38_A7","Yuhuangmiao","L/N",4,"YHM_L/N4-2_9","head",30
-"RNMB_YHM_BS_P2_tag38_B7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_1","whole body",25
-"RNMB_YHM_BS_P2_tag38_C7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_2","whole body",25
-"RNMB_YHM_BS_P2_tag38_D7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_3","whole body",25
-"RNMB_YHM_BS_P2_tag38_E7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_4","whole body",25
-"RNMB_YHM_BS_P2_tag38_F7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_1","whole body",50
-"RNMB_YHM_BS_P2_tag38_G7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_2","whole body",50
-"RNMB_YHM_BS_P2_tag38_H7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_3","whole body",50
-"RNMB_YHM_BS_P2_tag38_A8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_4","whole body",50
-"RNMB_YHM_BS_P2_tag38_B8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_5","whole body",50
-"RNMB_YHM_BS_P2_tag38_C8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_6","whole body",50
-"RNMB_YHM_BS_P2_tag38_D8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_7","whole body",50
-"RNMB_YHM_BS_P2_tag38_E8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_8","whole body",50
-"RNMB_YHM_BS_P2_tag38_F8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_9","whole body",50
-"RNMB_YHM_BS_P2_tag38_G8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_10","whole body",50
-"RNMB_YHM_BS_P2_tag38_H8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_11","whole body",50
-"RNMB_YHM_BS_P2_tag38_A9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_12","whole body",50
-"RNMB_YHM_BS_P2_tag38_B9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_13","whole body",50
-"RNMB_YHM_BS_P2_tag38_C9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_14","whole body",50
-"RNMB_YHM_BS_P2_tag38_D9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_15","whole body",50
-"RNMB_YHM_BS_P2_tag38_E9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_16","whole body",50
-"RNMB_YHM_BS_P2_tag38_F9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_17","whole body",50
-"RNMB_YHM_BS_P2_tag38_G9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_18","whole body",50
-"RNMB_YHM_BS_P2_tag38_H9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_19","whole body",50
-"RNMB_YHM_BS_P2_tag38_A10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_20","whole body",50
-"RNMB_YHM_BS_P2_tag38_B10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_21","whole body",50
-"RNMB_YHM_BS_P2_tag38_C10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_22","whole body",50
-"RNMB_YHM_BS_P2_tag38_D10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_23","whole body",50
-"RNMB_YHM_BS_P2_tag38_E10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_24","whole body",50
-"RNMB_YHM_BS_P2_tag38_F10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_25","whole body",50
-"RNMB_YHM_BS_P2_tag38_G10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_26","whole body",50
-"RNMB_YHM_BS_P2_tag38_H10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_27","whole body",50
-"RNMB_YHM_BS_P2_tag38_A11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_28","whole body",50
-"RNMB_YHM_BS_P2_tag38_B11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_29","whole body",50
-"RNMB_YHM_BS_P2_tag38_C11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_30","whole body",50
-"RNMB_YHM_BS_P2_tag38_D11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_31","whole body",50
-"RNMB_YHM_BS_P2_tag38_E11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_32","whole body",50
-"RNMB_YHM_BS_P2_tag38_F11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_33","whole body",50
-"RNMB_YHM_BS_P2_tag38_G11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_34","whole body",46
-"RNMB_YHM_BS_P2_tag38_H11","Yuhuangmiao","FIT",5,"YHM_FIT5-3_1","whole body",50
-"RNMB_YHM_BS_P2_tag38_A12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_2","whole body",50
-"RNMB_YHM_BS_P2_tag38_B12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_3","whole body",50
-"RNMB_YHM_BS_P2_tag38_C12","Yuhuangmiao","FIT",6,"YHM_FIT6-1","whole body",50
-"RNMB_YHM_BS_P2_tag38_D12","Yuhuangmiao","FIT",6,"YHM_FIT6-2","whole body",50
-"RNMB_YHM_BS_P2_tag38_E12","Yuhuangmiao","FIT",6,"YHM_FIT6-3","whole body",50
-"RNMB_YHM_BS_P2_tag38_F12","Yuhuangmiao","FIT",6,"YHM_FIT6-4","whole body",50
-"RNMB_YHM_BS_P2_tag38_G12","Yuhuangmiao","FIT",6,"YHM_FIT6-5","whole body",50
-"RNMB_YHM_BS_P2_tag38_H12","Yuhuangmiao","FIT",6,"YHM_FIT6-6","whole body",50
-"RNMB_YHM_BS_P3_tag53_A1","Yuhuangmiao","FIT",6,"YHM_FIT6-7","whole body",50
-"RNMB_YHM_BS_P3_tag53_B1","Yuhuangmiao","FIT",6,"YHM_FIT6-8","whole body",50
-"RNMB_YHM_BS_P3_tag53_C1","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50
-"RNMB_YHM_BS_P3_tag53_D1","Yuhuangmiao","FIT",6,"YHM_FIT6-10","whole body",50
-"RNMB_YHM_BS_P3_tag53_E1","Yuhuangmiao","FIT",6,"YHM_FIT6-11","whole body",50
-"RNMB_YHM_BS_P3_tag53_F1","Yuhuangmiao","FIT",6,"YHM_FIT6-12","whole body",50
-"RNMB_YHM_BS_P3_tag53_G1","Yuhuangmiao","FIT",6,"YHM_FIT6-13","whole body",50
-"RNMB_YHM_BS_P3_tag53_H1","Yuhuangmiao","FIT",6,"YHM_FIT6-14","whole body",50
-"RNMB_YHM_BS_P3_tag53_A2","Yuhuangmiao","FIT",6,"YHM_FIT6-15","whole body",50
-"RNMB_YHM_BS_P3_tag53_B2","Yuhuangmiao","FIT",6,"YHM_FIT6-16","whole body",50
-"RNMB_YHM_BS_P3_tag53_C2","Yuhuangmiao","FIT",6,"YHM_FIT6-17","whole body",50
-"RNMB_YHM_BS_P3_tag53_D2","Yuhuangmiao","FIT",6,"YHM_FIT6-18","whole body",50
-"RNMB_YHM_BS_P3_tag53_E2","Yuhuangmiao","FIT",6,"YHM_FIT6-19","whole body",50
-"RNMB_YHM_BS_P3_tag53_F2","Yuhuangmiao","FIT",6,"YHM_FIT6-20","whole body",50
-"RNMB_YHM_BS_P3_tag53_G2","Yuhuangmiao","FIT",6,"YHM_FIT6-21","whole body",50
-"RNMB_YHM_BS_P3_tag53_H2","Yuhuangmiao","FIT",6,"YHM_FIT6-22","whole body",50
-"RNMB_YHM_BS_P3_tag53_A3","Yuhuangmiao","FIT",6,"YHM_FIT6-23","whole body",50
-"RNMB_YHM_BS_P3_tag53_B3","Yuhuangmiao","FIT",7,"YHM_FIT7-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_C3","Yuhuangmiao","FIT",7,"YHM_FIT7-2","whole body",50
-"RNMB_YHM_BS_P3_tag53_D3","Yuhuangmiao","FIT",7,"YHM_FIT7-3","whole body",50
-"RNMB_YHM_BS_P3_tag53_E3","Yuhuangmiao","FIT",7,"YHM_FIT7-4","whole body",50
-"RNMB_YHM_BS_P3_tag53_F3","Yuhuangmiao","FIT",7,"YHM_FIT7-5","whole body",50
-"RNMB_YHM_BS_P3_tag53_G3","Yuhuangmiao","FIT",7,"YHM_FIT7-6","whole body",50
-"RNMB_YHM_BS_P3_tag53_H3","Yuhuangmiao","MT",5,"YHM_MT5-1_1","whole body",25
-"RNMB_YHM_BS_P3_tag53_A4","Yuhuangmiao","MT",5,"YHM_MT5-1_2","whole body",25
-"RNMB_YHM_BS_P3_tag53_B4","Yuhuangmiao","MT",5,"YHM_MT5-1_3","whole body",25
-"RNMB_YHM_BS_P3_tag53_C4","Yuhuangmiao","MT",5,"YHM_MT5-1_4","whole body",25
-"RNMB_YHM_BS_P3_tag53_D4","Yuhuangmiao","MT",5,"YHM_MT5-2_1","whole body",50
-"RNMB_YHM_BS_P3_tag53_E4","Yuhuangmiao","MT",5,"YHM_MT5-2_2","whole body",50
-"RNMB_YHM_BS_P3_tag53_F4","Yuhuangmiao","MT",5,"YHM_MT5-2_3","whole body",15
-"RNMB_YHM_BS_P3_tag53_G4","Yuhuangmiao","MT",6,"YHM_MT6-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_H4","Yuhuangmiao","MT",6,"YHM_MT6-2","whole body",50
-"RNMB_YHM_BS_P3_tag53_A5","Yuhuangmiao","MT",6,"YHM_MT6-3","whole body",50
-"RNMB_YHM_BS_P3_tag53_B5","Yuhuangmiao","MT",6,"YHM_MT6-4","whole body",50
-"RNMB_YHM_BS_P3_tag53_C5","Yuhuangmiao","MT",6,"YHM_MT6-5","whole body",50
-"RNMB_YHM_BS_P3_tag53_D5","Yuhuangmiao","MT",6,"YHM_MT6-6","whole body",42
-"RNMB_YHM_BS_P3_tag53_E5","Yuhuangmiao","MT",7,"YHM_MT7-1","whole body",19
-"RNMB_YHM_BS_P3_tag53_F5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_1","whole body",25
-"RNMB_YHM_BS_P3_tag53_G5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_2","whole body",25
-"RNMB_YHM_BS_P3_tag53_H5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_3","whole body",25
-"RNMB_YHM_BS_P3_tag53_A6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_4","whole body",25
-"RNMB_YHM_BS_P3_tag53_B6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_5","whole body",25
-"RNMB_YHM_BS_P3_tag53_C6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_6","whole body",25
-"RNMB_YHM_BS_P3_tag53_D6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_7","whole body",25
-"RNMB_YHM_BS_P3_tag53_E6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_2","whole body",50
-"RNMB_YHM_BS_P3_tag53_F6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_1","whole body",50
-"RNMB_YHM_BS_P3_tag53_G6","Yuhuangmiao","L/N",6,"YHM_L/N6-2_1","whole body",50
-"RNMB_YHM_BS_P3_tag53_H6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_3","whole body",50
-"RNMB_YHM_BS_P3_tag53_A7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_4","whole body",50
-"RNMB_YHM_BS_P3_tag53_B7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_5","whole body",50
-"RNMB_YHM_BS_P3_tag53_C7","Yuhuangmiao","L/N",6,"YHM_L/N6-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_D7","Yuhuangmiao","L/N",6,"YHM_L/N6-3","whole body",50
-"RNMB_YHM_BS_P3_tag53_E7","Yuhuangmiao","L/N",6,"YHM_L/N6-4","whole body",50
-"RNMB_YHM_BS_P3_tag53_F7","Yuhuangmiao","L/N",6,"YHM_L/N6-5","whole body",50
-"RNMB_YHM_BS_P3_tag53_G7","Yuhuangmiao","L/N",6,"YHM_L/N6-6","whole body",50
-"RNMB_YHM_BS_P3_tag53_H7","Yuhuangmiao","L/N",6,"YHM_L/N6-7","whole body",50
-"RNMB_YHM_BS_P3_tag53_A8","Yuhuangmiao","L/N",6,"YHM_L/N6-8","whole body",50
-"RNMB_YHM_BS_P3_tag53_B8","Yuhuangmiao","L/N",6,"YHM_L/N6-9","whole body",50
-"RNMB_YHM_BS_P3_tag53_C8","Yuhuangmiao","L/N",6,"YHM_L/N6-10","whole body",42
-"RNMB_YHM_BS_P3_tag53_D8","Yuhuangmiao","L/N",6,"YHM_L/N7-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_E8","Meicity","pit",7,"YHM_pit7-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_F8","Meicity","pit",6,"YHM_pit6-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_G8","Meicity","pit",5,"YHM_pit5-1","whole body",50
-"RNMB_YHM_BS_P3_tag53_H8","Meicity","FIT",5,"HPS_FIT5_2_2","whole body",50
-"RNMB_YHM_BS_P3_tag53_A9","Meicity","MT",4,"HPS_MT4_2_3","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_B9","Meicity","MT",4,"HPS_MT4_2_4","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_C9","Meicity","pit",1,"HPS_pit1-1","leg",25
-"RNMB_YHM_BS_P3_tag53_D9","Meicity","pit",1,"HPS_pit1-2","leg",25
-"RNMB_YHM_BS_P3_tag53_E9","Meicity","pit",1,"HPS_pit1-3","leg",25
-"RNMB_YHM_BS_P3_tag53_F9","Meicity","pit",1,"HPS_pit1-4","leg",25
-"RNMB_YHM_BS_P3_tag53_G9","Meicity","pit",1,"HPS_pit1-5","leg",25
-"RNMB_YHM_BS_P3_tag53_H9","Meicity","pit",2,"HPS_pit2-1","leg",100
-"RNMB_YHM_BS_P3_tag53_A10","Meicity","pit",2,"HPS_pit2-2","leg",100
-"RNMB_YHM_BS_P3_tag53_B10","Meicity","pit",3,"HPS_pit3-1","leg",150
-"RNMB_YHM_BS_P3_tag53_C10","Meicity","pit",3,"HPS_pit3-2","leg",151
-"RNMB_YHM_BS_P3_tag53_D10","Meicity","pit",3,"HPS_pit3-3","leg",152
-"RNMB_YHM_BS_P3_tag53_E10","Meicity","pit",4,"HPS_pit4-1_1","head",50
-"RNMB_YHM_BS_P3_tag53_F10","Meicity","pit",4,"HPS_pit4-1_2","head",50
-"RNMB_YHM_BS_P3_tag53_G10","Meicity","pit",4,"HPS_pit4-2_1","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_H10","Meicity","pit",4,"HPS_pit4-2_2","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_A11","Meicity","pit",4,"HPS_pit4-2_3","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_B11","Meicity","pit",4,"HPS_pit4-2_4","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_C11","Meicity","pit",4,"HPS_pit4-2_5","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_D11","Meicity","pit",4,"HPS_pit4-2_6","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_E11","Meicity","pit",4,"HPS_pit4-2_7","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_F11","Meicity","pit",4,"HPS_pit4-2_8","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_G11","Meicity","pit",4,"HPS_pit4-2_9","head and thorax",50
-"RNMB_YHM_BS_P3_tag53_H11","Meicity","FIT",5,"HPS_FIT5-1_1","whole body",25
-"RNMB_YHM_BS_P3_tag53_A12","Meicity","FIT",5,"HPS_FIT5-1_2","whole body",25
-"RNMB_YHM_BS_P3_tag53_B12","Meicity","FIT",5,"HPS_FIT5-1_3","whole body",25
-"RNMB_YHM_BS_P3_tag53_C12","Meicity","FIT",5,"HPS_FIT5-1_4","whole body",25
-"RNMB_YHM_BS_P3_tag53_D12","Meicity","FIT",5,"HPS_FIT5-1_5","whole body",25
-"RNMB_YHM_BS_P3_tag53_E12","Meicity","FIT",5,"HPS_FIT5-1_6","whole body",25
-"RNMB_YHM_BS_P3_tag53_F12","Meicity","FIT",5,"HPS_FIT5-1_7","whole body",25
-"RNMB_YHM_BS_P3_tag53_G12","Meicity","FIT",5,"HPS_FIT5-1_8","whole body",25
-"RNMB_YHM_BS_P3_tag53_H12","Meicity","FIT",5,"HPS_FIT5-2_1","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A1","Meicity","pit",6,"HPS-pit6_1","whole body",50
-"RNMB_Mix_BS_PIX_tag34_B1","Meicity","pit",5,"HPS-pit5_2","whole body",50
-"RNMB_Mix_BS_PIX_tag34_C1","Meicity","pit",5,"HPS-pit5_3","whole body",50
-"RNMB_Mix_BS_PIX_tag34_D1","Meicity","pit",5,"HPS-pit5_4","whole body",50
-"RNMB_Mix_BS_PIX_tag34_E1","Meicity","pit",5,"HPS-pit5_5","whole body",50
-"RNMB_Mix_BS_PIX_tag34_F1","Meicity","pit",5,"HPS-pit5_6","whole body",50
-"RNMB_Mix_BS_PIX_tag34_G1","Meicity","pit",5,"HPS-pit5_7","whole body",50
-"RNMB_Mix_BS_PIX_tag34_H1","Meicity","pit",5,"HPS-pit5_8","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A2","Meicity","pit",5,"HPS-pit5_9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_B2","Fengcity","FIT",5,"FX_FIT5-3_56","whole body",50
-"RNMB_Mix_BS_PIX_tag34_C2","Fengcity","FIT",5,"FX_FIT5-3_57","whole body",50
-"RNMB_Mix_BS_PIX_tag34_D2","Fengcity","FIT",5,"FX_FIT5-3_58","whole body",50
-"RNMB_Mix_BS_PIX_tag34_E2","Fengcity","FIT",5,"FX_FIT5-3_59","whole body",50
-"RNMB_Mix_BS_PIX_tag34_F2","Fengcity","FIT",5,"FX_FIT5-3_60","whole body",50
-"RNMB_Mix_BS_PIX_tag34_G2","Fengcity","FIT",5,"FX_FIT5-3_61","whole body",50
-"RNMB_Mix_BS_PIX_tag34_H2","Fengcity","FIT",5,"FX_FIT5-3_62","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A3","Fengcity","FIT",5,"FX_FIT5-3_63","whole body",50
-"RNMB_Mix_BS_PIX_tag34_B3","Fengcity","FIT",5,"FX_FIT5-3_64","whole body",50
-"RNMB_Mix_BS_PIX_tag34_C3","Fengcity","FIT",5,"FX_FIT5-3_65","whole body",50
-"RNMB_Mix_BS_PIX_tag34_D3","Fengcity","FIT",5,"FX_FIT5-3_66","whole body",50
-"RNMB_Mix_BS_PIX_tag34_E3","Fengcity","FIT",3,"FX_FIT3-2_3","leg ",150
-"RNMB_Mix_BS_PIX_tag34_F3","Fengcity","FIT",4,"FX_FIT4-1_17","head",25
-"RNMB_Mix_BS_PIX_tag34_G3","Fengcity","FIT",4,"FX_FIT4-1_33","head",25
-"RNMB_Mix_BS_PIX_tag34_H3","Fengcity","FIT",4,"FX_FIT4-2_10","head and thorax",50
-"RNMB_Mix_BS_PIX_tag34_A4","Fengcity","FIT",4,"FX_FIT4-3_17","head and thorax",50
-"RNMB_Mix_BS_PIX_tag34_B4","Fengcity","FIT",4,"FX_FIT4-1_21","head",25
-"RNMB_Mix_BS_PIX_tag34_C4","Fengcity","FIT",4,"FX_FIT4-2_14","head and thorax",50
-"RNMB_Mix_BS_PIX_tag34_D4","Fengcity","FIT",4,"FX_FIT4-3_14","head and thorax",50
-"RNMB_Mix_BS_PIX_tag34_E4","Fengcity","FIT",5,"FX_FIT5-5","whole body",50
-"RNMB_Mix_BS_PIX_tag34_F4","Fengcity","FIT",5,"FX_FIT5-13","whole body",50
-"RNMB_Mix_BS_PIX_tag34_G4","Fengcity","FIT",4,"FX_FIT4-1_1","head",25
-"RNMB_Mix_BS_PIX_tag34_H4","Fengcity","FIT",5,"FX_FIT5-24","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A5","Fengcity","FIT",6,"FX_FIT6-6","whole body",50
-"RNMB_Mix_BS_PIX_tag34_B5","Fengcity","FIT",6,"FX_FIT6-19","whole body",50
-"RNMB_Mix_BS_PIX_tag34_C5","Fengcity","MT",6,"FX_MT6-8","whole body",50
-"RNMB_Mix_BS_PIX_tag34_D5","Fengcity","MT",6,"FX_MT6-9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_E5","Fengcity","FIT",4,"FX_FIT4-1_2","head",25
-"RNMB_Mix_BS_PIX_tag34_F5","Fengcity","FIT",4,"FX_FIT4-1_34","head",25
-"RNMB_Mix_BS_PIX_tag34_G5","Fengcity","FIT",4,"FX_FIT4-2_2","head and thorax",50
-"RNMB_Mix_BS_PIX_tag34_H5","Fengcity","FIT",6,"FX_FIT6-1","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A6","Fengcity","FIT",7,"FX_FIT7-8","whole body",50
-"RNMB_Mix_BS_PIX_tag34_B6","Fengcity","FIT",3,"FX_FIT3-2_26","leg",150
-"RNMB_Mix_BS_PIX_tag34_C6","Fengcity","FIT",7,"FX_FIT7-3","whole body",50
-"RNMB_Mix_BS_PIX_tag34_D6","Fengcity","FIT",7,"FX_FIT7-7","whole body",50
-"RNMB_Mix_BS_PIX_tag34_E6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_F6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_G6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_H6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50
-"RNMB_Mix_BS_PIX_tag34_A7","Fengcity","all",5,"FXpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_B7","Fengcity","all",5,"Fxpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_C7","Foping","all",5,"FPpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_D7","Foping","all",5,"FPpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_E7","Meicity","all",5,"HPSpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_F7","Meicity","all",5,"HPSpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_G7","Yuhuangmiao","all",5,"YHMpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_H7","Yuhuangmiao","all",5,"YHMpool","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_A8","Foursites","all",5,"pool1","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_B8","Foursites","all",5,"pool1","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_C8","Foursites","all",5,"pool2","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_D8","Foursites","all",5,"pool2","whole body",NA
-"RNMB_Mix_BS_PIX_tag34_E8","Foursites","all",5,"pool1+2","whole body",NA
-"RNMB1_FXBSP1_tag08_A1","Feng city","FIT",1,"FX_FIT1-1_3 ","leg",25
-"RNMB1_FXBSP1_tag08_A10","Feng city","FIT",4,"FX_FIT4-3_1","head",50
-"RNMB1_FXBSP1_tag08_A11","Feng city","FIT",4,"FX_FIT4-3_9","head",50
-"RNMB1_FXBSP1_tag08_A12","Feng city","FIT",4,"FX_FIT4-3_17","head",50
-"RNMB1_FXBSP1_tag08_A2","Feng city","FIT",3,"FX_FIT3-2_3 ","leg",150
-"RNMB1_FXBSP1_tag08_A3","Feng city","FIT",3,"FX_FIT3-2_11","leg",150
-"RNMB1_FXBSP1_tag08_A4","Feng city","FIT",3,"FX_FIT4-1_9","head",25
-"RNMB1_FXBSP1_tag08_A5","Feng city","FIT",3,"FX_FIT4-1_17","head",25
-"RNMB1_FXBSP1_tag08_A6","Feng city","FIT",3,"FX_FIT4-1_25","head",25
-"RNMB1_FXBSP1_tag08_A7","Feng city","FIT",3,"FX_FIT4-1_33","head",25
-"RNMB1_FXBSP1_tag08_A8","Feng city","FIT",4,"FX_FIT4-2_10","head",50
-"RNMB1_FXBSP1_tag08_A9","Feng city","FIT",4,"FX_FIT4-2_18","head",50
-"RNMB1_FXBSP1_tag08_B1","Feng city","FIT",1,"FX_FIT1-1_4","leg",25
-"RNMB1_FXBSP1_tag08_B10","Feng city","FIT",4,"FX_FIT4-3_2","head",50
-"RNMB1_FXBSP1_tag08_B11","Feng city","FIT",4,"FX_FIT4-3_10","head",50
-"RNMB1_FXBSP1_tag08_B12","Feng city","FIT",4,"FX_FIT4-3_20","head",50
-"RNMB1_FXBSP1_tag08_B2","Feng city","FIT",3,"FX_FIT3-2_4","leg",150
-"RNMB1_FXBSP1_tag08_B3","Feng city","FIT",3,"FX_FIT3-2_12","leg",150
-"RNMB1_FXBSP1_tag08_B4","Feng city","FIT",3,"FX_FIT4-1_10","head",25
-"RNMB1_FXBSP1_tag08_B5","Feng city","FIT",3,"FX_FIT4-1_18","head",25
-"RNMB1_FXBSP1_tag08_B6","Feng city","FIT",3,"FX_FIT4-1_26","head",25
-"RNMB1_FXBSP1_tag08_B7","Feng city","FIT",4,"FX_FIT4-2_3","head",50
-"RNMB1_FXBSP1_tag08_B8","Feng city","FIT",4,"FX_FIT4-2_11","head",50
-"RNMB1_FXBSP1_tag08_B9","Feng city","FIT",4,"FX_FIT4-2_19","head",50
-"RNMB1_FXBSP1_tag08_C1","Feng city","FIT",1,"FX_FIT1-2_3","leg",10
-"RNMB1_FXBSP1_tag08_C10","Feng city","FIT",4,"FX_FIT4-3_3","head",50
-"RNMB1_FXBSP1_tag08_C11","Feng city","FIT",4,"FX_FIT4-3_11","head",50
-"RNMB1_FXBSP1_tag08_C12","Feng city","FIT",4,"FX_FIT4-3_21","head",50
-"RNMB1_FXBSP1_tag08_C2","Feng city","FIT",3,"FX_FIT3-2_5 ","leg",150
-"RNMB1_FXBSP1_tag08_C3","Feng city","FIT",3,"FX_FIT4-1_3","head",25
-"RNMB1_FXBSP1_tag08_C4","Feng city","FIT",3,"FX_FIT4-1_11","head",25
-"RNMB1_FXBSP1_tag08_C5","Feng city","FIT",3,"FX_FIT4-1_19","head",25
-"RNMB1_FXBSP1_tag08_C6","Feng city","FIT",3,"FX_FIT4-1_27","head",25
-"RNMB1_FXBSP1_tag08_C7","Feng city","FIT",4,"FX_FIT4-2_4","head",50
-"RNMB1_FXBSP1_tag08_C8","Feng city","FIT",4,"FX_FIT4-2_12","head",50
-"RNMB1_FXBSP1_tag08_C9","Feng city","FIT",4,"FX_FIT4-2_20","head",50
-"RNMB1_FXBSP1_tag08_D1","Feng city","FIT",2,"FX_FIT2-2_3 ","leg",100
-"RNMB1_FXBSP1_tag08_D10","Feng city","FIT",4,"FX_FIT4-3_4","head",50
-"RNMB1_FXBSP1_tag08_D11","Feng city","FIT",4,"FX_FIT4-3_12","head",50
-"RNMB1_FXBSP1_tag08_D12","Feng city","FIT",4,"FX_FIT4-3_22","head",50
-"RNMB1_FXBSP1_tag08_D2","Feng city","FIT",3,"FX_FIT3-2_6","leg",150
-"RNMB1_FXBSP1_tag08_D3","Feng city","FIT",3,"FX_FIT4-1_4","head",25
-"RNMB1_FXBSP1_tag08_D4","Feng city","FIT",3,"FX_FIT4-1_12","head",25
-"RNMB1_FXBSP1_tag08_D5","Feng city","FIT",3,"FX_FIT4-1_20","head",25
-"RNMB1_FXBSP1_tag08_D6","Feng city","FIT",3,"FX_FIT4-1_28","head",25
-"RNMB1_FXBSP1_tag08_D7","Feng city","FIT",4,"FX_FIT4-2_5","head",50
-"RNMB1_FXBSP1_tag08_D8","Feng city","FIT",4,"FX_FIT4-2_13","head",50
-"RNMB1_FXBSP1_tag08_D9","Feng city","FIT",4,"FX_FIT4-2_21","head",50
-"RNMB1_FXBSP1_tag08_E1","Feng city","FIT",2,"FX_FIT2-2_4","leg",100
-"RNMB1_FXBSP1_tag08_E10","Feng city","FIT",4,"FX_FIT4-3_5","head",50
-"RNMB1_FXBSP1_tag08_E11","Feng city","FIT",4,"FX_FIT4-3_13","head",50
-"RNMB1_FXBSP1_tag08_E12","Feng city","FIT",4,"FX_FIT4-3_23","head",50
-"RNMB1_FXBSP1_tag08_E2","Feng city","FIT",3,"FX_FIT3-2_7","leg",150
-"RNMB1_FXBSP1_tag08_E3","Feng city","FIT",3,"FX_FIT4-1_5","head",25
-"RNMB1_FXBSP1_tag08_E4","Feng city","FIT",3,"FX_FIT4-1_13","head",25
-"RNMB1_FXBSP1_tag08_E5","Feng city","FIT",3,"FX_FIT4-1_21","head",25
-"RNMB1_FXBSP1_tag08_E6","Feng city","FIT",3,"FX_FIT4-1_29","head",25
-"RNMB1_FXBSP1_tag08_E7","Feng city","FIT",4,"FX_FIT4-2_6","head",50
-"RNMB1_FXBSP1_tag08_E8","Feng city","FIT",4,"FX_FIT4-2_14","head",50
-"RNMB1_FXBSP1_tag08_E9","Feng city","FIT",4,"FX_FIT4-2_22","head",50
-"RNMB1_FXBSP1_tag08_F1","Feng city","FIT",2,"FX_FIT2-2_5","leg",10
-"RNMB1_FXBSP1_tag08_F10","Feng city","FIT",4,"FX_FIT4-3_6","head",50
-"RNMB1_FXBSP1_tag08_F11","Feng city","FIT",4,"FX_FIT4-3_14","head",50
-"RNMB1_FXBSP1_tag08_F12","Feng city","FIT",4,"FX_FIT4-3_24","head",50
-"RNMB1_FXBSP1_tag08_F2","Feng city","FIT",3,"FX_FIT3-2_8","leg",150
-"RNMB1_FXBSP1_tag08_F3","Feng city","FIT",3,"FX_FIT4-1_6","head",25
-"RNMB1_FXBSP1_tag08_F4","Feng city","FIT",3,"FX_FIT4-1_14","head",25
-"RNMB1_FXBSP1_tag08_F5","Feng city","FIT",3,"FX_FIT4-1_22","head",25
-"RNMB1_FXBSP1_tag08_F6","Feng city","FIT",3,"FX_FIT4-1_30","head",25
-"RNMB1_FXBSP1_tag08_F7","Feng city","FIT",4,"FX_FIT4-2_7","head",50
-"RNMB1_FXBSP1_tag08_F8","Feng city","FIT",4,"FX_FIT4-2_15","head",50
-"RNMB1_FXBSP1_tag08_F9","Feng city","FIT",4,"FX_FIT4-2_23","head",50
-"RNMB1_FXBSP1_tag08_G1","Feng city","FIT",3,"FX_FIT3-2_2","leg",150
-"RNMB1_FXBSP1_tag08_G10","Feng city","FIT",4,"FX_FIT4-3_7","head",50
-"RNMB1_FXBSP1_tag08_G11","Feng city","FIT",4,"FX_FIT4-3_15","head",50
-"RNMB1_FXBSP1_tag08_G12","Feng city","FIT",4,"FX_FIT4-3_25","head",50
-"RNMB1_FXBSP1_tag08_G2","Feng city","FIT",3,"FX_FIT3-2_9","leg",150
-"RNMB1_FXBSP1_tag08_G3","Feng city","FIT",3,"FX_FIT4-1_7","head",25
-"RNMB1_FXBSP1_tag08_G4","Feng city","FIT",3,"FX_FIT4-1_15","head",25
-"RNMB1_FXBSP1_tag08_G5","Feng city","FIT",3,"FX_FIT4-1_23","head",25
-"RNMB1_FXBSP1_tag08_G6","Feng city","FIT",3,"FX_FIT4-1_31","head",25
-"RNMB1_FXBSP1_tag08_G7","Feng city","FIT",4,"FX_FIT4-2_8","head",50
-"RNMB1_FXBSP1_tag08_G8","Feng city","FIT",4,"FX_FIT4-2_16","head",50
-"RNMB1_FXBSP1_tag08_G9","Feng city","FIT",4,"FX_FIT4-2_24","head",50
-"RNMB1_FXBSP1_tag08_H1","Feng city","FIT",3,"FX_FIT3-2_1","leg",150
-"RNMB1_FXBSP1_tag08_H10","Feng city","FIT",4,"FX_FIT4-3_8","head",50
-"RNMB1_FXBSP1_tag08_H11","Feng city","FIT",4,"FX_FIT4-3_16","head",50
-"RNMB1_FXBSP1_tag08_H12","Feng city","FIT",4,"FX_FIT4-3_26","head",50
-"RNMB1_FXBSP1_tag08_H2","Feng city","FIT",3,"FX_FIT3-2_10","leg",150
-"RNMB1_FXBSP1_tag08_H3","Feng city","FIT",3,"FX_FIT4-1_8","head",25
-"RNMB1_FXBSP1_tag08_H4","Feng city","FIT",3,"FX_FIT4-1_16","head",25
-"RNMB1_FXBSP1_tag08_H5","Feng city","FIT",3,"FX_FIT4-1_24","head",25
-"RNMB1_FXBSP1_tag08_H6","Feng city","FIT",3,"FX_FIT4-1_32","head",25
-"RNMB1_FXBSP1_tag08_H7","Feng city","FIT",4,"FX_FIT4-2_9","head",50
-"RNMB1_FXBSP1_tag08_H8","Feng city","FIT",4,"FX_FIT4-2_17","head",50
-"RNMB1_FXBSP1_tag08_H9","Feng city","FIT",4,"FX_FIT4-2_25","head",50
-"RNMB1_FXBSP2_tag18_A1","Feng city","FIT",5,"FX_FIT5_3 ","body",50
-"RNMB1_FXBSP2_tag18_A10","Feng city","Pit",4,"FX_pit4-2_2","head",50
-"RNMB1_FXBSP2_tag18_A11","Feng city","L/N",4,"FX_L/N4-2_2","head",50
-"RNMB1_FXBSP2_tag18_A12","Feng city","FIT",6,"FX_FIT6_9","body",50
-"RNMB1_FXBSP2_tag18_A2","Feng city","FIT",5,"FX_FIT5_11","body",50
-"RNMB1_FXBSP2_tag18_A3","Feng city","FIT",5,"FX_FIT5_19","body",50
-"RNMB1_FXBSP2_tag18_A4","Feng city","FIT",5,"FX_FIT5_27","body",50
-"RNMB1_FXBSP2_tag18_A5","Feng city","FIT",5,"FX_FIT5_35","body",50
-"RNMB1_FXBSP2_tag18_A6","Feng city","MT",3,"FX_MT3_1","leg",150
-"RNMB1_FXBSP2_tag18_A7","Feng city","MT",4,"FX_MT4-1_5","head",25
-"RNMB1_FXBSP2_tag18_A8","Feng city","MT",4,"FX_MT4-1_13","head",25
-"RNMB1_FXBSP2_tag18_A9","Feng city","Pit",2,"FX_pit2_6","leg",100
-"RNMB1_FXBSP2_tag18_B1","Feng city","FIT",5,"FX_FIT5_4","body",50
-"RNMB1_FXBSP2_tag18_B10","Feng city","Pit",4,"FX_pit4-2_3","head",50
-"RNMB1_FXBSP2_tag18_B11","Feng city","L/N",4,"FX_L/N4-2_3","head",50
-"RNMB1_FXBSP2_tag18_B12","Feng city","FIT",6,"FX_FIT6_10","body",50
-"RNMB1_FXBSP2_tag18_B2","Feng city","FIT",5,"FX_FIT5_12","body",50
-"RNMB1_FXBSP2_tag18_B3","Feng city","FIT",5,"FX_FIT5_20","body",50
-"RNMB1_FXBSP2_tag18_B4","Feng city","FIT",5,"FX_FIT5_28","body",50
-"RNMB1_FXBSP2_tag18_B5","Feng city","FIT",4,"FX_FIT4-3_27","head",50
-"RNMB1_FXBSP2_tag18_B6","Feng city","MT",3,"FX_MT3_2","leg",150
-"RNMB1_FXBSP2_tag18_B7","Feng city","MT",4,"FX_MT4-1_6","head",25
-"RNMB1_FXBSP2_tag18_B8","Feng city","MT",4,"FX_MT4-1_14","head",25
-"RNMB1_FXBSP2_tag18_B9","Feng city","Pit",3,"FX_pit3_1","leg",150
-"RNMB1_FXBSP2_tag18_C1","Feng city","FIT",5,"FX_FIT5_5","body",50
-"RNMB1_FXBSP2_tag18_C10","Feng city","L/N",2,"FX_L/N2_1(50legs)","leg",100
-"RNMB1_FXBSP2_tag18_C11","Feng city","FIT",6,"FX_FIT6_3","body",50
-"RNMB1_FXBSP2_tag18_C12","Feng city","FIT",6,"FX_FIT6_11","body",50
-"RNMB1_FXBSP2_tag18_C2","Feng city","FIT",5,"FX_FIT5_13","body",50
-"RNMB1_FXBSP2_tag18_C3","Feng city","FIT",5,"FX_FIT5_21","body",50
-"RNMB1_FXBSP2_tag18_C4","Feng city","FIT",5,"FX_FIT5_29","body",50
-"RNMB1_FXBSP2_tag18_C5","Feng city","FIT",4,"FX_FIT4-3_28","head",50
-"RNMB1_FXBSP2_tag18_C6","Feng city","MT",3,"FX_MT3_3","leg",150
-"RNMB1_FXBSP2_tag18_C7","Feng city","MT",4,"FX_MT4-1_7","head",25
-"RNMB1_FXBSP2_tag18_C8","Feng city","Pit",2,"FX_pit2_1","leg",100
-"RNMB1_FXBSP2_tag18_C9","Feng city","Pit",4,"FX_pit4-1_1","head",50
-"RNMB1_FXBSP2_tag18_D1","Feng city","FIT",5,"FX_FIT5_6","body",50
-"RNMB1_FXBSP2_tag18_D10","Feng city","L/N",2,"FX_L/N2_2","leg",100
-"RNMB1_FXBSP2_tag18_D11","Feng city","FIT",6,"FX_FIT6_4","body",50
-"RNMB1_FXBSP2_tag18_D12","Feng city","FIT",6,"FX_FIT6_12","body",50
-"RNMB1_FXBSP2_tag18_D2","Feng city","FIT",5,"FX_FIT5_14","body",50
-"RNMB1_FXBSP2_tag18_D3","Feng city","FIT",5,"FX_FIT5_22","body",50
-"RNMB1_FXBSP2_tag18_D4","Feng city","FIT",5,"FX_FIT5_30","body",50
-"RNMB1_FXBSP2_tag18_D5","Feng city","FIT",4,"FX_FIT4-3_29","head",50
-"RNMB1_FXBSP2_tag18_D6","Feng city","MT",3,"FX_MT3_4","leg",150
-"RNMB1_FXBSP2_tag18_D7","Feng city","MT",4,"FX_MT4-1_8","head",25
-"RNMB1_FXBSP2_tag18_D8","Feng city","Pit",2,"FX_pit2_2","leg",100
-"RNMB1_FXBSP2_tag18_D9","Feng city","Pit",4,"FX_pit4-1_2","head",50
-"RNMB1_FXBSP2_tag18_E1","Feng city","FIT",5,"FX_FIT5_7","body",50
-"RNMB1_FXBSP2_tag18_E10","Feng city","L/N",3,"FX_L/N3_1","leg",150
-"RNMB1_FXBSP2_tag18_E11","Feng city","FIT",6,"FX_FIT6_5","body",50
-"RNMB1_FXBSP2_tag18_E12","Feng city","FIT",6,"FX_FIT6_13","body",50
-"RNMB1_FXBSP2_tag18_E2","Feng city","FIT",5,"FX_FIT5_15","body",50
-"RNMB1_FXBSP2_tag18_E3","Feng city","FIT",5,"FX_FIT5_23","body",50
-"RNMB1_FXBSP2_tag18_E4","Feng city","FIT",5,"FX_FIT5_31","body",50
-"RNMB1_FXBSP2_tag18_E5","Feng city","FIT",4,"FX_FIT4-3_30","head",50
-"RNMB1_FXBSP2_tag18_E6","Feng city","MT",4,"FX_MT4-1_1","head",25
-"RNMB1_FXBSP2_tag18_E7","Feng city","MT",4,"FX_MT4-1_9","head",25
-"RNMB1_FXBSP2_tag18_E8","Feng city","Pit",2,"FX_pit2_3","leg",100
-"RNMB1_FXBSP2_tag18_E9","Feng city","Pit",4,"FX_pit4-1_3","head",50
-"RNMB1_FXBSP2_tag18_F1","Feng city","FIT",5,"FX_FIT5_8","body",50
-"RNMB1_FXBSP2_tag18_F10","Feng city","L/N",3,"FX_L/N3_2","leg",150
-"RNMB1_FXBSP2_tag18_F11","Feng city","FIT",6,"FX_FIT6_6","body",50
-"RNMB1_FXBSP2_tag18_F12","Feng city","FIT",6,"FX_FIT6_14","body",50
-"RNMB1_FXBSP2_tag18_F2","Feng city","FIT",5,"FX_FIT5_16","body",50
-"RNMB1_FXBSP2_tag18_F3","Feng city","FIT",5,"FX_FIT5_24","body",50
-"RNMB1_FXBSP2_tag18_F4","Feng city","FIT",5,"FX_FIT5_32","body",50
-"RNMB1_FXBSP2_tag18_F5","Feng city","FIT",4,"FX_FIT4-3_31","head",50
-"RNMB1_FXBSP2_tag18_F6","Feng city","MT",4,"FX_MT4-1_2","head",25
-"RNMB1_FXBSP2_tag18_F7","Feng city","MT",4,"FX_MT4-1_10","head",25
-"RNMB1_FXBSP2_tag18_F8","Feng city","Pit",2,"FX_pit2_4","leg",100
-"RNMB1_FXBSP2_tag18_F9","Feng city","Pit",4,"FX_pit4-1_4","head",50
-"RNMB1_FXBSP2_tag18_G1","Feng city","FIT",5,"FX_FIT5_9","body",50
-"RNMB1_FXBSP2_tag18_G10","Feng city","L/N",4,"FX_L/N4-1_1","head",50
-"RNMB1_FXBSP2_tag18_G11","Feng city","FIT",6,"FX_FIT6_7","body",50
-"RNMB1_FXBSP2_tag18_G12","Feng city","FIT",6,"FX_FIT6_15","body",50
-"RNMB1_FXBSP2_tag18_G2","Feng city","FIT",5,"FX_FIT5_17","body",50
-"RNMB1_FXBSP2_tag18_G3","Feng city","FIT",5,"FX_FIT5_25","body",50
-"RNMB1_FXBSP2_tag18_G4","Feng city","FIT",5,"FX_FIT5_33","body",50
-"RNMB1_FXBSP2_tag18_G5","Feng city","MT",1,"FX_MT1","leg",25
-"RNMB1_FXBSP2_tag18_G6","Feng city","MT",4,"FX_MT4-1_3","head",25
-"RNMB1_FXBSP2_tag18_G7","Feng city","MT",4,"FX_MT4-1_11","head",25
-"RNMB1_FXBSP2_tag18_G8","Feng city","Pit",2,"FX_pit2_5","leg",100
-"RNMB1_FXBSP2_tag18_G9","Feng city","Pit",4,"FX_pit4-1_5","head",50
-"RNMB1_FXBSP2_tag18_H1","Feng city","FIT",5,"FX_FIT5_10","body",50
-"RNMB1_FXBSP2_tag18_H10","Feng city","L/N",4,"FX_L/N4-2_1","head",50
-"RNMB1_FXBSP2_tag18_H11","Feng city","FIT",6,"FX_FIT6_8","body",50
-"RNMB1_FXBSP2_tag18_H12","Feng city","FIT",6,"FX_FIT6_16","body",50
-"RNMB1_FXBSP2_tag18_H2","Feng city","FIT",5,"FX_FIT5_18","body",50
-"RNMB1_FXBSP2_tag18_H3","Feng city","FIT",5,"FX_FIT5_26","body",50
-"RNMB1_FXBSP2_tag18_H4","Feng city","FIT",5,"FX_FIT5_34","body",50
-"RNMB1_FXBSP2_tag18_H5","Feng city","MT",2,"FX_MT2","leg",50
-"RNMB1_FXBSP2_tag18_H6","Feng city","MT",4,"FX_MT4-1_4","head",25
-"RNMB1_FXBSP2_tag18_H7","Feng city","MT",4,"FX_MT4-1_12","head",25
-"RNMB1_FXBSP2_tag18_H8","Feng city","Pit",2,"FX_pit2_6","leg",100
-"RNMB1_FXBSP2_tag18_H9","Feng city","Pit",4,"FX_pit4-2_1","head",50
-"RNMB1_FXBSP3_tag42_A1","Feng city","FIT",6,"FX_FIT6_17","body",50
-"RNMB1_FXBSP3_tag42_A10","Feng city","MT",5,"FX_MT5_7","body",50
-"RNMB1_FXBSP3_tag42_A11","Feng city","MT",6,"FX_MT6_5","body",50
-"RNMB1_FXBSP3_tag42_A12","Feng city","MT",7,"FX_MT7_4","body",21
-"RNMB1_FXBSP3_tag42_A2","Feng city","FIT",6,"FX_FIT6_25","body",50
-"RNMB1_FXBSP3_tag42_A3","Feng city","FIT",6,"FX_FIT6_33","body",50
-"RNMB1_FXBSP3_tag42_A4","Feng city","FIT",6,"FX_FIT6_41","body",50
-"RNMB1_FXBSP3_tag42_A5","Feng city","FIT",6,"FX_FIT6_49","body",50
-"RNMB1_FXBSP3_tag42_A6","Feng city","FIT",6,"FX_FIT6_57","body",50
-"RNMB1_FXBSP3_tag42_A7","Feng city","FIT",6,"FX_FIT6_65","body",50
-"RNMB1_FXBSP3_tag42_A8","Feng city","FIT",6,"FX_FIT6_73","body",50
-"RNMB1_FXBSP3_tag42_A9","Feng city","FIT",6,"FX_FIT6_81","body",50
-"RNMB1_FXBSP3_tag42_B1","Feng city","FIT",6,"FX_FIT6_18","body",50
-"RNMB1_FXBSP3_tag42_B10","Feng city","MT",5,"FX_MT5_8","body",50
-"RNMB1_FXBSP3_tag42_B11","Feng city","MT",6,"FX_MT6_6","body",50
-"RNMB1_FXBSP3_tag42_B12","Feng city","Pit",5,"FX_pit5_1","body",25
-"RNMB1_FXBSP3_tag42_B2","Feng city","FIT",6,"FX_FIT6_26","body",50
-"RNMB1_FXBSP3_tag42_B3","Feng city","FIT",6,"FX_FIT6_34","body",50
-"RNMB1_FXBSP3_tag42_B4","Feng city","FIT",6,"FX_FIT6_42","body",50
-"RNMB1_FXBSP3_tag42_B5","Feng city","FIT",6,"FX_FIT6_50","body",50
-"RNMB1_FXBSP3_tag42_B6","Feng city","FIT",6,"FX_FIT6_58","body",50
-"RNMB1_FXBSP3_tag42_B7","Feng city","FIT",6,"FX_FIT6_66","body",50
-"RNMB1_FXBSP3_tag42_B8","Feng city","FIT",6,"FX_FIT6_74","body",50
-"RNMB1_FXBSP3_tag42_B9","Feng city","FIT",6,"FX_FIT6_82","body",50
-"RNMB1_FXBSP3_tag42_C1","Feng city","FIT",6,"FX_FIT6_19","body",50
-"RNMB1_FXBSP3_tag42_C10","Feng city","MT",5,"FX_MT5_9","body",50
-"RNMB1_FXBSP3_tag42_C11","Feng city","MT",6,"FX_MT6_7","body",50
-"RNMB1_FXBSP3_tag42_C12","Feng city","Pit",6,"FX_pit6_1","body",20
-"RNMB1_FXBSP3_tag42_C2","Feng city","FIT",6,"FX_FIT6_27","body",50
-"RNMB1_FXBSP3_tag42_C3","Feng city","FIT",6,"FX_FIT6_35","body",50
-"RNMB1_FXBSP3_tag42_C4","Feng city","FIT",6,"FX_FIT6_43","body",50
-"RNMB1_FXBSP3_tag42_C5","Feng city","FIT",6,"FX_FIT6_51","body",50
-"RNMB1_FXBSP3_tag42_C6","Feng city","FIT",6,"FX_FIT6_59","body",50
-"RNMB1_FXBSP3_tag42_C7","Feng city","FIT",6,"FX_FIT6_67","body",50
-"RNMB1_FXBSP3_tag42_C8","Feng city","FIT",6,"FX_FIT6_75","body",50
-"RNMB1_FXBSP3_tag42_C9","Feng city","MT",5,"FX_MT5_1","body",50
-"RNMB1_FXBSP3_tag42_D1","Feng city","FIT",6,"FX_FIT6_20","body",50
-"RNMB1_FXBSP3_tag42_D10","Feng city","MT",5,"FX_MT5_10","body",43
-"RNMB1_FXBSP3_tag42_D11","Feng city","MT",6,"FX_MT6_8","body",50
-"RNMB1_FXBSP3_tag42_D12","Feng city","L/N",5,"FX_L/N5_1 ","body",50
-"RNMB1_FXBSP3_tag42_D2","Feng city","FIT",6,"FX_FIT6_28","body",50
-"RNMB1_FXBSP3_tag42_D3","Feng city","FIT",6,"FX_FIT6_36","body",50
-"RNMB1_FXBSP3_tag42_D4","Feng city","FIT",6,"FX_FIT6_44","body",50
-"RNMB1_FXBSP3_tag42_D5","Feng city","FIT",6,"FX_FIT6_52","body",50
-"RNMB1_FXBSP3_tag42_D6","Feng city","FIT",6,"FX_FIT6_60","body",50
-"RNMB1_FXBSP3_tag42_D7","Feng city","FIT",6,"FX_FIT6_68","body",50
-"RNMB1_FXBSP3_tag42_D8","Feng city","FIT",6,"FX_FIT6_76","body",50
-"RNMB1_FXBSP3_tag42_D9","Feng city","MT",5,"FX_MT5_2","body",50
-"RNMB1_FXBSP3_tag42_E1","Feng city","FIT",6,"FX_FIT6_21","body",50
-"RNMB1_FXBSP3_tag42_E10","Feng city","MT",6,"FX_MT6_1","body",50
-"RNMB1_FXBSP3_tag42_E11","Feng city","MT",6,"FX_MT6_9","body",50
-"RNMB1_FXBSP3_tag42_E12","Feng city","L/N",7,"FX_FIT7_4 ","body",50
-"RNMB1_FXBSP3_tag42_E2","Feng city","FIT",6,"FX_FIT6_29","body",50
-"RNMB1_FXBSP3_tag42_E3","Feng city","FIT",6,"FX_FIT6_37","body",50
-"RNMB1_FXBSP3_tag42_E4","Feng city","FIT",6,"FX_FIT6_45","body",50
-"RNMB1_FXBSP3_tag42_E5","Feng city","FIT",6,"FX_FIT6_53","body",50
-"RNMB1_FXBSP3_tag42_E6","Feng city","FIT",6,"FX_FIT6_61","body",50
-"RNMB1_FXBSP3_tag42_E7","Feng city","FIT",6,"FX_FIT6_69","body",50
-"RNMB1_FXBSP3_tag42_E8","Feng city","FIT",6,"FX_FIT6_77","body",50
-"RNMB1_FXBSP3_tag42_E9","Feng city","MT",5,"FX_MT5_3","body",50
-"RNMB1_FXBSP3_tag42_F1","Feng city","FIT",6,"FX_FIT6_22","body",50
-"RNMB1_FXBSP3_tag42_F10","Feng city","MT",6,"FX_MT6_2","body",50
-"RNMB1_FXBSP3_tag42_F11","Feng city","MT",7,"FX_MT7_1","body",50
-"RNMB1_FXBSP3_tag42_F12","Feng city","L/N",7,"FX_FIT7_5","body",50
-"RNMB1_FXBSP3_tag42_F2","Feng city","FIT",6,"FX_FIT6_30","body",50
-"RNMB1_FXBSP3_tag42_F3","Feng city","FIT",6,"FX_FIT6_38","body",50
-"RNMB1_FXBSP3_tag42_F4","Feng city","FIT",6,"FX_FIT6_46","body",50
-"RNMB1_FXBSP3_tag42_F5","Feng city","FIT",6,"FX_FIT6_54","body",50
-"RNMB1_FXBSP3_tag42_F6","Feng city","FIT",6,"FX_FIT6_62","body",50
-"RNMB1_FXBSP3_tag42_F7","Feng city","FIT",6,"FX_FIT6_70","body",50
-"RNMB1_FXBSP3_tag42_F8","Feng city","FIT",6,"FX_FIT6_78","body",50
-"RNMB1_FXBSP3_tag42_F9","Feng city","MT",5,"FX_MT5_4","body",50
-"RNMB1_FXBSP3_tag42_G1","Feng city","FIT",6,"FX_FIT6_23","body",50
-"RNMB1_FXBSP3_tag42_G10","Feng city","MT",6,"FX_MT6_3","body",50
-"RNMB1_FXBSP3_tag42_G11","Feng city","MT",7,"FX_MT7_2","body",50
-"RNMB1_FXBSP3_tag42_G12","Feng city","L/N",7,"FX_FIT7_6","body",50
-"RNMB1_FXBSP3_tag42_G2","Feng city","FIT",6,"FX_FIT6_31","body",50
-"RNMB1_FXBSP3_tag42_G3","Feng city","FIT",6,"FX_FIT6_39","body",50
-"RNMB1_FXBSP3_tag42_G4","Feng city","FIT",6,"FX_FIT6_47","body",50
-"RNMB1_FXBSP3_tag42_G5","Feng city","FIT",6,"FX_FIT6_55","body",50
-"RNMB1_FXBSP3_tag42_G6","Feng city","FIT",6,"FX_FIT6_63","body",50
-"RNMB1_FXBSP3_tag42_G7","Feng city","FIT",6,"FX_FIT6_71","body",50
-"RNMB1_FXBSP3_tag42_G8","Feng city","FIT",6,"FX_FIT6_79","body",50
-"RNMB1_FXBSP3_tag42_G9","Feng city","MT",5,"FX_MT5_5","body",50
-"RNMB1_FXBSP3_tag42_H1","Feng city","FIT",6,"FX_FIT6_24","body",50
-"RNMB1_FXBSP3_tag42_H10","Feng city","MT",6,"FX_MT6_4","body",50
-"RNMB1_FXBSP3_tag42_H11","Feng city","MT",7,"FX_MT7_3","body",50
-"RNMB1_FXBSP3_tag42_H12","Feng city","L/N",6,"FX_L/N6-1","body",41
-"RNMB1_FXBSP3_tag42_H2","Feng city","FIT",6,"FX_FIT6_32","body",50
-"RNMB1_FXBSP3_tag42_H3","Feng city","FIT",6,"FX_FIT6_40","body",50
-"RNMB1_FXBSP3_tag42_H4","Feng city","FIT",6,"FX_FIT6_48","body",50
-"RNMB1_FXBSP3_tag42_H5","Feng city","FIT",6,"FX_FIT6_56","body",50
-"RNMB1_FXBSP3_tag42_H6","Feng city","FIT",6,"FX_FIT6_64","body",50
-"RNMB1_FXBSP3_tag42_H7","Feng city","FIT",6,"FX_FIT6_72","body",50
-"RNMB1_FXBSP3_tag42_H8","Feng city","FIT",6,"FX_FIT6_80","body",50
-"RNMB1_FXBSP3_tag42_H9","Feng city","MT",5,"FX_MT5_6","body",50
-"RNMB2_FXBSP4_tag07_A10","Feng city","FIT",4,"FIT4-2_2","head",50
-"RNMB2_FXBSP4_tag07_A11","Feng city","FIT",2,"FIT2-1_1","leg",100
-"RNMB2_FXBSP4_tag07_A12","Feng city","FIT",6,"FIT6_1","body",50
-"RNMB2_FXBSP4_tag07_B10","Feng city","FIT",4,"FIT4-2_21","head",50
-"RNMB2_FXBSP4_tag07_B11","Feng city","FIT",2,"FIT2-2_1","leg",100
-"RNMB2_FXBSP4_tag07_B12","Feng city","FIT",7,"FIT7_8","body",50
-"RNMB2_FXBSP4_tag07_C10","Feng city","FIT",4,"FIT4-3_19","head",50
-"RNMB2_FXBSP4_tag07_C11","Feng city","FIT",3,"FIT3-2_35","leg",150
-"RNMB2_FXBSP4_tag07_C12","Feng city","FIT",7,"FIT7_1","body",50
-"RNMB2_FXBSP4_tag07_C9","Feng city","FIT",1,"FIT1-1_2","leg",25
-"RNMB2_FXBSP4_tag07_D10","Feng city","FIT",5,"FIT5-2","body",50
-"RNMB2_FXBSP4_tag07_D11","Feng city","FIT",4,"FIT4-1_1","head",50
-"RNMB2_FXBSP4_tag07_D12","Feng city","FIT",7,"FIT7_2","body",50
-"RNMB2_FXBSP4_tag07_D9","Feng city","FIT",1,"FIT1-2_2","leg",25
-"RNMB2_FXBSP4_tag07_E10","Feng city","FIT",6,"FIT6_2","body",50
-"RNMB2_FXBSP4_tag07_E11","Feng city","FIT",4,"FIT4-1_35","head",50
-"RNMB2_FXBSP4_tag07_E12","Feng city","FIT",7,"FIT7_3","body",50
-"RNMB2_FXBSP4_tag07_E9","Feng city","FIT",2,"FIT2-2_2","leg",100
-"RNMB2_FXBSP4_tag07_F10","Feng city","FIT",7,"FIT7_9","body",50
-"RNMB2_FXBSP4_tag07_F11","Feng city","FIT",4,"FIT4-2_1","head",50
-"RNMB2_FXBSP4_tag07_F12","Feng city","FIT",7,"FIT7_7","body",50
-"RNMB2_FXBSP4_tag07_F9","Feng city","FIT",3,"FIT3-2_36","leg",150
-"RNMB2_FXBSP4_tag07_G10","Feng city","FIT",1,"FIT1-1_1","leg",25
-"RNMB2_FXBSP4_tag07_G11","Feng city","FIT",4,"FIT4-3_18","head",50
-"RNMB2_FXBSP4_tag07_G12","Feng city","L/N",5,"L/N5-2","body",50
-"RNMB2_FXBSP4_tag07_G9","Feng city","FIT",4,"FIT4-1_2","head",50
-"RNMB2_FXBSP4_tag07_H10","Feng city","FIT",1,"FIT1-2_1","leg",25
-"RNMB2_FXBSP4_tag07_H11","Feng city","FIT",5,"FIT5-1","body",50
-"RNMB2_FXBSP4_tag07_H12","Feng city","MT",6,"MT6_10","body",34
-"RNMB2_FXBSP4_tag07_H9","Feng city","FIT",4,"FIT4-1_34","head",50
+"seqname","location","trap","sizeclass","label","bodypart","nparts","plate_contents"
+"RNMB_Foping_BS_P1_tag21_A1","Foping","FIT",3,"FP_MT_4-1_1+J2:J67","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B1","Foping","FIT",3,"FP_FIT3-1_2","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C1","Foping","FIT",3,"FP_FIT3-1_3","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D1","Foping","FIT",3,"FP_FIT3-1_4","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E1","Foping","FIT",3,"FP_FIT3-1_5","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F1","Foping","FIT",3,"FP_FIT3-1_6","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G1","Foping","FIT",3,"FP_FIT3-1_7","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H1","Foping","FIT",3,"FP_FIT3-1_8","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A2","Foping","FIT",3,"FP_FIT3-1_9","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B2","Foping","FIT",3,"FP_FIT3-1_10","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C2","Foping","FIT",3,"FP_FIT3-1_11","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D2","Foping","FIT",3,"FP_FIT3-1_12","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E2","Foping","FIT",3,"FP_FIT3-1_13","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F2","Foping","FIT",3,"FP_FIT3-1_14","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G2","Foping","FIT",3,"FP_FIT3-1_15","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H2","Foping","FIT",3,"FP_FIT3-1_16","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A3","Foping","FIT",3,"FP_FIT3-1_17","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B3","Foping","FIT",3,"FP_FIT3-1_18","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C3","Foping","FIT",3,"FP_FIT3-1_19","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D3","Foping","FIT",3,"FP_FIT3-1_20","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E3","Foping","FIT",3,"FP_FIT3-1_21","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F3","Foping","FIT",3,"FP_FIT3-1_22","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G3","Foping","FIT",3,"FP_FIT3-1_23","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H3","Foping","FIT",3,"FP_FIT3-1_24","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A4","Foping","FIT",3,"FP_FIT3-1_25","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B4","Foping","FIT",3,"FP_FIT3-1_26","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C4","Foping","FIT",3,"FP_FIT3-1_27","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D4","Foping","FIT",3,"FP_FIT3-1_28","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E4","Foping","FIT",3,"FP_FIT3-1_29","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F4","Foping","FIT",3,"FP_FIT3-1_30","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G4","Foping","FIT",3,"FP_FIT3-1_31","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H4","Foping","FIT",3,"FP_FIT3-1_32","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A5","Foping","FIT",3,"FP_FIT3-1_33","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B5","Foping","FIT",3,"FP_FIT3-1_34","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C5","Foping","FIT",3,"FP_FIT3-1_35","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D5","Foping","FIT",3,"FP_FIT3-1_36","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E5","Foping","FIT",3,"FP_FIT3-1_37","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F5","Foping","FIT",3,"FP_FIT3-1_38","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G5","Foping","FIT",3,"FP_FIT3-1_39","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H5","Foping","FIT",3,"FP_FIT3-1_40","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A6","Foping","FIT",3,"FP_FIT3-1_41","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B6","Foping","FIT",4,"FP_FIT4-2_1","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C6","Foping","FIT",4,"FP_FIT4-2_2","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D6","Foping","FIT",4,"FP_FIT4-2_3","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E6","Foping","FIT",4,"FP_FIT4-2_4","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F6","Foping","FIT",4,"FP_FIT4-2_5","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G6","Foping","FIT",4,"FP_FIT4-2_6","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H6","Foping","FIT",4,"FP_FIT4-2_7","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A7","Foping","FIT",4,"FP_FIT4-2_8","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B7","Foping","FIT",4,"FP_FIT4-2_9","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C7","Foping","FIT",4,"FP_FIT4-2_10","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D7","Foping","FIT",4,"FP_FIT4-2_11","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E7","Foping","FIT",4,"FP_FIT4-2_12","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F7","Foping","FIT",4,"FP_FIT4-2_13","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G7","Foping","FIT",4,"FP_FIT4-2_14","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H7","Foping","FIT",4,"FP_FIT4-2_15","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A8","Foping","FIT",4,"FP_FIT4-2_16","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B8","Foping","FIT",4,"FP_FIT4-2_17","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C8","Foping","FIT",4,"FP_FIT4-2_18","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D8","Foping","FIT",4,"FP_FIT4-2_19","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E8","Foping","FIT",4,"FP_FIT4-2_20","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F8","Foping","FIT",2,"FP_FIT2-1_3","leg",35,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G8","Foping","FIT",2,"FP_FIT2-1_4","head",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H8","Foping","FIT",2,"FP_FIT2-1_1","leg",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A9","Foping","FIT",1,"FP_FIT1-1","leg",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B9","Foping","FIT",1,"FP_FIT1-2","leg",16,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C9","Foping","MT",4,"FP_MT_4-1_1","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D9","Foping","L/N",2,"FP_L/N_2-1","leg",100,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E9","Foping","L/N",2,"FP_L/N_2-2","leg",69,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F9","Foping","Pit",1,"FP_Pit1-1","leg",17,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G9","Foping","Pit",1,"FP_Pit1-2","leg",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H9","Foping","Pit",2,"FP_Pit2-1","leg",44,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A10","Foping","Pit",3,"FP_Pit3-1","leg",101,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B10","Foping","Pit",4,"FP_Pit4-1_1","head",68,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C10","Foping","FIT",5,"FP_FIT5-1_1","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D10","Foping","FIT",5,"FP_FIT5-1_2","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E10","Foping","FIT",5,"FP_FIT5-1_3","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F10","Foping","FIT",5,"FP_FIT5-1_4","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G10","Foping","FIT",5,"FP_FIT5-1_5","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H10","Foping","FIT",5,"FP_FIT5-1_6","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A11","Foping","FIT",5,"FP_FIT5-1_7","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B11","Foping","FIT",5,"FP_FIT5-1_8","whole body",25,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C11","Foping","FIT",5,"FP_FIT5-2_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D11","Foping","FIT",5,"FP_FIT5-2_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E11","Foping","FIT",5,"FP_FIT5-2_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F11","Foping","FIT",5,"FP_FIT5-2_4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G11","Foping","FIT",5,"FP_FIT5-2_5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H11","Foping","FIT",5,"FP_FIT5-2_6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_A12","Foping","FIT",5,"FP_FIT5-2_7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_B12","Foping","FIT",5,"FP_FIT5-1_8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_C12","Foping","FIT",5,"FP_FIT5-2_8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_D12","Foping","FIT",5,"FP_FIT5-2_9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_E12","Foping","FIT",5,"FP_FIT5-2_10","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_F12","Foping","FIT",5,"FP_FIT5-2_11","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_G12","Foping","FIT",5,"FP_FIT5-2_12","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P1_tag21_H12","Foping","FIT",5,"FP_FIT5-2_13","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A1","Foping","FIT",5,"FP_FIT5-2_14","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B1","Foping","FIT",5,"FP_FIT5-2_15","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C1","Foping","FIT",5,"FP_FIT5-2_16","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D1","Foping","FIT",5,"FP_FIT5-2_17","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E1","Foping","FIT",5,"FP_FIT5-2_18","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F1","Foping","FIT",5,"FP_FIT5-2_19","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G1","Foping","FIT",5,"FP_FIT5-2_20","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H1","Foping","FIT",5,"FP_FIT5-2_21","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A2","Foping","FIT",5,"FP_FIT5-2_22","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B2","Foping","FIT",5,"FP_FIT5-2_23","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C2","Foping","FIT",5,"FP_FIT5-2_24","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D2","Foping","FIT",5,"FP_FIT5-2_25","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E2","Foping","FIT",5,"FP_FIT5-3_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F2","Foping","FIT",5,"FP_FIT5-3_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G2","Foping","FIT",5,"FP_FIT5-3_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H2","Foping","FIT",5,"FP_FIT5-3_4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A3","Foping","FIT",5,"FP_FIT5-3_5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B3","Foping","FIT",5,"FP_FIT5-3_6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C3","Foping","FIT",5,"FP_FIT5-3_7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D3","Foping","FIT",5,"FP_FIT5-3_8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E3","Foping","FIT",5,"FP_FIT5-3_9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F3","Foping","FIT",5,"FP_FIT5-3_10","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G3","Foping","FIT",5,"FP_FIT5-3_11","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H3","Foping","FIT",5,"FP_FIT5-3_12","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A4","Foping","FIT",5,"FP_FIT5-3_13","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B4","Foping","FIT",5,"FP_FIT5-3_14","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C4","Foping","FIT",5,"FP_FIT5-3_15","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D4","Foping","FIT",5,"FP_FIT5-3_16","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E4","Foping","FIT",5,"FP_FIT5-3_17","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F4","Foping","FIT",5,"FP_FIT5-3_18","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G4","Foping","FIT",5,"FP_FIT5-3_19","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H4","Foping","FIT",5,"FP_FIT5-3_20","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A5","Foping","FIT",5,"FP_FIT5-3_21","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B5","Foping","FIT",5,"FP_FIT5-3_22","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C5","Foping","FIT",5,"FP_FIT5-3_23","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D5","Foping","FIT",5,"FP_FIT5-3_24","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E5","Foping","FIT",5,"FP_FIT5-3_25","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F5","Foping","FIT",5,"FP_FIT5-3_26","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G5","Foping","FIT",5,"FP_FIT5-3_27","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H5","Foping","FIT",5,"FP_FIT5-3_28","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A6","Foping","FIT",5,"FP_FIT5-3_29","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B6","Foping","FIT",5,"FP_FIT5-3_30","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C6","Foping","FIT",5,"FP_FIT5-3_31","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D6","Foping","FIT",5,"FP_FIT5-3_32","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E6","Foping","FIT",6,"FP_FIT6-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F6","Foping","FIT",6,"FP_FIT6-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G6","Foping","FIT",6,"FP_FIT6-3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H6","Foping","FIT",6,"FP_FIT6-4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A7","Foping","FIT",6,"FP_FIT6-5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B7","Foping","FIT",6,"FP_FIT6-6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C7","Foping","FIT",6,"FP_FIT6-7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D7","Foping","FIT",6,"FP_FIT6-8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E7","Foping","FIT",6,"FP_FIT6-9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F7","Foping","FIT",6,"FP_FIT6-10","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G7","Foping","FIT",6,"FP_FIT6-11","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H7","Foping","FIT",6,"FP_FIT6-12","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A8","Foping","FIT",6,"FP_FIT6-13","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B8","Foping","FIT",6,"FP_FIT6-14","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C8","Foping","FIT",6,"FP_FIT6-15","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D8","Foping","FIT",6,"FP_FIT6-16","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E8","Foping","FIT",6,"FP_FIT6-17","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F8","Foping","FIT",6,"FP_FIT6-18","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G8","Foping","FIT",6,"FP_FIT6-19","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H8","Foping","FIT",6,"FP_FIT6-20","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A9","Foping","FIT",6,"FP_FIT6-21","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B9","Foping","FIT",6,"FP_FIT6-22","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C9","Foping","FIT",6,"FP_FIT6-23","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D9","Foping","FIT",6,"FP_FIT6-24","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E9","Foping","FIT",6,"FP_FIT6-25","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F9","Foping","FIT",6,"FP_FIT6-26","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G9","Foping","FIT",6,"FP_FIT6-27","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H9","Foping","FIT",6,"FP_FIT6-28","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A10","Foping","FIT",6,"FP_FIT6-29","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B10","Foping","FIT",6,"FP_FIT6-30","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C10","Foping","FIT",6,"FP_FIT6-31","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D10","Foping","FIT",6,"FP_FIT6-32","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E10","Foping","FIT",6,"FP_FIT6-33","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F10","Foping","FIT",6,"FP_FIT6-34","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G10","Foping","FIT",6,"FP_FIT6-35","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H10","Foping","FIT",6,"FP_FIT6-36","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A11","Foping","FIT",6,"FP_FIT6-37","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B11","Foping","FIT",6,"FP_FIT6-38","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C11","Foping","FIT",6,"FP_FIT6-39","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D11","Foping","FIT",6,"FP_FIT6-40","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E11","Foping","FIT",6,"FP_FIT6-41","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F11","Foping","FIT",6,"FP_FIT6-42","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G11","Foping","FIT",6,"FP_FIT6-43","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H11","Foping","FIT",6,"FP_FIT6-44","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_A12","Foping","FIT",6,"FP_FIT6-45","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_B12","Foping","FIT",6,"FP_FIT6-46","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_C12","Foping","FIT",6,"FP_FIT6-47","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_D12","Foping","FIT",6,"FP_FIT6-48","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_E12","Foping","FIT",6,"FP_FIT6-49","whole body",12,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_F12","Foping","FIT",7,"FP_FIT7-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_G12","Foping","FIT",7,"FP_FIT7-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P2_tag24_H12","Foping","FIT",7,"FP_FIT7-3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A1","Foping","FIT",7,"FP_FIT7-4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B1","Foping","FIT",7,"FP_FIT7-5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C1","Foping","FIT",7,"FP_FIT7-6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D1","Foping","FIT",7,"FP_FIT7-7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E1","Foping","FIT",7,"FP_FIT7-8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F1","Foping","FIT",7,"FP_FIT7-9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G1","Foping","FIT",7,"FP_FIT7-10","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H1","Foping","FIT",7,"FP_FIT7-11","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A2","Foping","FIT",7,"FP_FIT7-12","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B2","Foping","FIT",7,"FP_FIT7-13","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C2","Foping","FIT",7,"FP_FIT7-14","whole body",16,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D2","Foping","MT",5,"FP_MT5-1_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E2","Foping","MT",5,"FP_MT5-1_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F2","Foping","MT",5,"FP_MT5-1_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G2","Foping","MT",5,"FP_MT5-1_4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H2","Foping","MT",5,"FP_MT5-1_5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A3","Foping","MT",5,"FP_MT5-1_6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B3","Foping","MT",5,"FP_MT5-2_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C3","Foping","MT",5,"FP_MT5-2_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D3","Foping","MT",5,"FP_MT5-2_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E3","Foping","MT",6,"FP_MT6-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F3","Foping","MT",6,"FP_MT6-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G3","Foping","MT",6,"FP_MT6-3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H3","Foping","MT",6,"FP_MT6-4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A4","Foping","MT",6,"FP_MT6-5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B4","Foping","MT",7,"FP_MT7-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C4","Foping","MT",7,"FP_MT7-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D4","Foping","MT",7,"FP_MT7-3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E4","Foping","MT",7,"FP_MT7-4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F4","Foping","MT",7,"FP_MT7-5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G4","Foping","MT",7,"FP_MT7-6","whole body",18,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H4","Foping","L/N",5,"FP_L/N5-1_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A5","Foping","L/N",5,"FP_L/N5-2_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B5","Foping","L/N",5,"FP_L/N5-2_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C5","Foping","L/N",6,"FP_L/N6-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D5","Foping","L/N",6,"FP_L/N6-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E5","Foping","L/N",7,"FP_L/N7-1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F5","Foping","L/N",7,"FP_L/N7-2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G5","Foping","Pit",5,"FP_Pit5-1","whole body",33,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H5","Foping","Pit",6,"FP_Pit6-1","whole body",5,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A6","Foping","L/N",1,"FP_L/N1-2","leg",25,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B6","Foping","L/N",1,"FP_L/N1-3","leg",25,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C6","Foping","L/N",1,"FP_L/N1-4","leg",14,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D6","Foping","L/N",3,"FP_L/N3-1","head",39,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E6","Foping","L/N",3,"FP_L/N3-2","leg",35,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F6","Foping","L/N",4,"FP_L/N4-1","head",26,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G6","Foping","L/N",4,"FP_L/N4-2_1","head",31,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H6","Foping","L/N",4,"FP_L/N4-2_2","head",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A7","Foping","L/N",4,"FP_L/N4-2_3","head",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B7","Foping","L/N",4,"FP_L/N4-2_4","head",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C7","Foping","Pit",1,"FP_Pit-1-3","leg",7,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D7","Foping","Pit",4,"FP_Pit-4-2_1","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E7","Foping","Pit",4,"FP_Pit-4-2_2","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F7","Foping","Pit",4,"FP_Pit-4-2_3","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G7","Foping","Pit",4,"FP_Pit-4-2_4","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H7","Foping","Pit",4,"FP_Pit-4-1_2","head and thorax",44,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A8","Foping","Pit",3,"FP_Pit-3-2_1","leg",82,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B8","Foping","Pit",3,"FP_Pit-3-2_2","head",29,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C8","Foping","MT",4,"FP_MT-4-1_5","head",11,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D8","Foping","MT",4,"FP_MT-4-2_4","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E8","Foping","MT",4,"FP_MT-4-2_3","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F8","Foping","MT",4,"FP_MT-4-2_2","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G8","Foping","MT",4,"FP_MT-4-2_1","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H8","Foping","MT",4,"FP_MT-4-1_2","head",11,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A9","Foping","MT",3,"FP_MT3-1","head",21,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B9","Foping","FIT",3,"FP_FIT3-2_5","leg",150,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C9","Foping","FIT",3,"FP_FIT3-2_4","leg",150,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D9","Foping","FIT",3,"FP_FIT3-2_3","leg",150,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E9","Foping","FIT",3,"FP_FIT3-2_2","leg",150,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F9","Foping","FIT",3,"FP_FIT3-2_1","leg",150,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G9","Foping","FIT",4,"FP_FIT4-2_22","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H9","Foping","FIT",4,"FP_FIT4-2_21","head and thorax",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A10","Foping","L/N",4,"FP_L/N4-1_1","leg",25,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B10","Meicity","FIT",5,"HPS_FIT5_2_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C10","Meicity","FIT",5,"HPS_FIT5_2_4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D10","Meicity","FIT",5,"HPS_FIT5_2_5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E10","Meicity","FIT",5,"HPS_FIT5_2_6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F10","Meicity","FIT",5,"HPS_FIT5_2_7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G10","Meicity","FIT",5,"HPS_FIT5_2_8","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H10","Meicity","FIT",5,"HPS_FIT5_2_9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A11","Meicity","FIT",5,"HPS_FIT5_2_10","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B11","Meicity","FIT",5,"HPS_FIT5_2_11","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C11","Meicity","FIT",5,"HPS_FIT5_1_9","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D11","Meicity","FIT",5,"HPS_FIT5_2_12","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E11","Meicity","FIT",5,"HPS_FIT5_2_13","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F11","Meicity","FIT",5,"HPS_FIT5_2_14","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G11","Meicity","FIT",5,"HPS_FIT5_2_15","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H11","Meicity","FIT",5,"HPS_FIT5_2_16","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_A12","Meicity","FIT",5,"HPS_FIT5_3_1","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_B12","Meicity","FIT",5,"HPS_FIT5_3_2","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_C12","Meicity","FIT",5,"HPS_FIT5_3_3","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_D12","Meicity","FIT",5,"HPS_FIT5_3_4","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_E12","Meicity","FIT",5,"HPS_FIT5_3_5","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_F12","Meicity","FIT",5,"HPS_FIT5_3_6","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_G12","Meicity","FIT",5,"HPS_FIT5_3_7","whole body",50,"Foping samples only"
+"RNMB_Foping_BS_P3_tag26_H12","Meicity","FIT",5,"HPS_FIT5_3_8","whole body",50,"Foping samples only"
+"RNMB_meicity_BS_P1_tag41_A1","Meicity","FIT",1,"HPS_FIT1_1","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B1","Meicity","FIT",1,"HPS_FIT1_2","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C1","Meicity","FIT",1,"HPS_FIT1_3","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D1","Meicity","FIT",1,"HPS_FIT1_4","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E1","Meicity","FIT",1,"HPS_FIT1_5","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F1","Meicity","FIT",1,"HPS_FIT1_6","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G1","Meicity","FIT",1,"HPS_FIT1_7","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H1","Meicity","FIT",2,"HPS_FIT2_1_1","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A2","Meicity","FIT",2,"HPS_FIT2_1_2","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B2","Meicity","FIT",2,"HPS_FIT2_1_3","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C2","Meicity","FIT",2,"HPS_FIT2_1_4","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D2","Meicity","FIT",2,"HPS_FIT2_1_5","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E2","Meicity","FIT",3,"HPS_FIT3_1_1","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F2","Meicity","FIT",3,"HPS_FIT3_1_2","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G2","Meicity","FIT",3,"HPS_FIT3_1_3","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H2","Meicity","FIT",3,"HPS_FIT3_1_4","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A3","Meicity","FIT",3,"HPS_FIT3_2_1","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B3","Meicity","FIT",3,"HPS_FIT3_2_2","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C3","Meicity","FIT",3,"HPS_FIT3_2_3","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D3","Meicity","FIT",4,"HPS_FIT4_2_1","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E3","Meicity","FIT",4,"HPS_FIT4_2_2","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F3","Meicity","FIT",4,"HPS_FIT4_2_3","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G3","Meicity","FIT",4,"HPS_FIT4_2_4","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H3","Meicity","FIT",4,"HPS_FIT4_2_5","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A4","Meicity","FIT",4,"HPS_FIT4_2_6","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B4","Meicity","FIT",4,"HPS_FIT4_2_7","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C4","Meicity","FIT",4,"HPS_FIT4_2_8","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D4","Meicity","FIT",4,"HPS_FIT4_2_9","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E4","Meicity","FIT",4,"HPS_FIT4_2_10","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F4","Meicity","FIT",4,"HPS_FIT4_3_1","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G4","Meicity","FIT",4,"HPS_FIT4_3_2","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H4","Meicity","FIT",4,"HPS_FIT4_3_3","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A5","Meicity","FIT",4,"HPS_FIT4_3_4","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B5","Meicity","FIT",4,"HPS_FIT4_3_5","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C5","Meicity","FIT",4,"HPS_FIT4_3_6","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D5","Meicity","FIT",4,"HPS_FIT4_3_7","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E5","Meicity","FIT",4,"HPS_FIT4_3_8","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F5","Meicity","FIT",4,"HPS_FIT4_3_9","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G5","Meicity","FIT",4,"HPS_FIT4_3_10","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H5","Meicity","FIT",4,"HPS_FIT4_3_11","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A6","Meicity","FIT",4,"HPS_FIT4_3_12","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B6","Meicity","FIT",4,"HPS_FIT4_3_13","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C6","Meicity","FIT",4,"HPS_FIT4_3_14","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D6","Meicity","FIT",4,"HPS_FIT4_3_15","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E6","Meicity","FIT",4,"HPS_FIT4_3_16","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F6","Meicity","FIT",4,"HPS_FIT4_3_17","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G6","Meicity","FIT",4,"HPS_FIT4_3_18","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H6","Meicity","FIT",4,"HPS_FIT4_3_19","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A7","Meicity","FIT",4,"HPS_FIT4_3_20","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B7","Meicity","FIT",4,"HPS_FIT4_3_21","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C7","Meicity","FIT",4,"HPS_FIT4_3_22","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D7","Meicity","FIT",4,"HPS_FIT4_3_23","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E7","Meicity","FIT",4,"HPS_FIT4_3_24","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F7","Meicity","FIT",4,"HPS_FIT4_3_25","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G7","Meicity","FIT",4,"HPS_FIT4_3_26","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H7","Meicity","FIT",4,"HPS_FIT4_3_27","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A8","Meicity","FIT",4,"HPS_FIT4_3_28","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B8","Meicity","FIT",4,"HPS_FIT4_3_29","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C8","Meicity","FIT",4,"HPS_FIT4_3_30","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D8","Meicity","FIT",4,"HPS_FIT4_3_31","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E8","Meicity","FIT",4,"HPS_FIT4_3_32","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F8","Meicity","FIT",4,"HPS_FIT4_3_33","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G8","Meicity","FIT",4,"HPS_FIT4_3_34","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H8","Meicity","FIT",4,"HPS_FIT4_3_35","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A9","Meicity","FIT",4,"HPS_FIT4_3_36","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B9","Meicity","FIT",4,"HPS_FIT4_3_37","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C9","Meicity","FIT",4,"HPS_FIT4_3_38","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D9","Meicity","FIT",4,"HPS_FIT4_3_39","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E9","Meicity","FIT",4,"HPS_FIT4_3_40","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F9","Meicity","FIT",4,"HPS_FIT4_3_41","head",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G9","Meicity","L/N",1,"HPS_L/N1-1","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H9","Meicity","L/N",1,"HPS_L/N1-2","leg",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A10","Meicity","L/N",1,"HPS_L/N1-3","leg",15,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B10","Meicity","L/N",2,"HPS_L/N2-1","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C10","Meicity","L/N",2,"HPS_L/N2-2","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D10","Meicity","L/N",2,"HPS_L/N2-3","leg",30,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E10","Meicity","L/N",3,"HPS_L/N3-1","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F10","Meicity","L/N",3,"HPS_L/N3-2","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G10","Meicity","L/N",3,"HPS_L/N3-3","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H10","Meicity","L/N",4,"HPS_L/N4-1_1","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A11","Meicity","L/N",4,"HPS_L/N4-2_2","head and thorax",32,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B11","Meicity","L/N",4,"HPS_L/N4-2_1","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C11","Meicity","L/N",4,"HPS_L/N4-2_2","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D11","Meicity","L/N",4,"HPS_L/N4-2_3","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E11","Meicity","L/N",4,"HPS_L/N4-2_4","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F11","Meicity","L/N",4,"HPS_L/N4-2_5","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G11","Meicity","L/N",4,"HPS_L/N4-2_6","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H11","Meicity","L/N",4,"HPS_L/N4-2_7","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_A12","Meicity","L/N",4,"HPS_L/N4-2_8","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_B12","Meicity","L/N",4,"HPS_L/N4-2_9","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_C12","Meicity","MT",2,"MT2-1","leg",100,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_D12","Meicity","MT",3,"MT3-1","leg",150,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_E12","Meicity","MT",4,"MT4-1_1","head ",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_F12","Meicity","MT",4,"MT4-1_2","head ",25,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_G12","Meicity","MT",4,"MT4-2_1","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P1_tag41_H12","Meicity","MT",4,"MT4-2_2","head and thorax",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A1","Meicity","FIT",5,"HPS_FIT5_3_9","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B1","Meicity","FIT",5,"HPS_FIT5_3_10","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C1","Meicity","FIT",5,"HPS_FIT5_3_11","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D1","Meicity","FIT",5,"HPS_FIT5_3_12","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E1","Meicity","FIT",5,"HPS_FIT5_3_13","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F1","Meicity","FIT",5,"HPS_FIT5_3_14","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G1","Meicity","FIT",5,"HPS_FIT5_3_15","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H1","Meicity","FIT",5,"HPS_FIT5_3_16","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A2","Meicity","FIT",5,"HPS_FIT5_3_17","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B2","Meicity","FIT",5,"HPS_FIT5_3_18","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C2","Meicity","FIT",5,"HPS_FIT5_3_19","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D2","Meicity","FIT",5,"HPS_FIT5_3_20","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E2","Meicity","FIT",5,"HPS_FIT5_3_21","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F2","Meicity","FIT",5,"HPS_FIT5_3_22","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G2","Meicity","FIT",6,"HPS_FIT6-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H2","Meicity","FIT",6,"HPS_FIT6-2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A3","Meicity","FIT",6,"HPS_FIT6-3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B3","Meicity","FIT",6,"HPS_FIT6-4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C3","Meicity","FIT",6,"HPS_FIT6-5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D3","Meicity","FIT",6,"HPS_FIT6-6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E3","Meicity","FIT",6,"HPS_FIT6-7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F3","Meicity","FIT",6,"HPS_FIT6-8","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G3","Meicity","FIT",6,"HPS_FIT6-9","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H3","Meicity","FIT",6,"HPS_FIT6-10","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A4","Meicity","FIT",6,"HPS_FIT6-11","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B4","Meicity","FIT",6,"HPS_FIT6-12","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C4","Meicity","FIT",6,"HPS_FIT6-13","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D4","Meicity","FIT",6,"HPS_FIT6-14","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E4","Meicity","FIT",6,"HPS_FIT6-15","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F4","Meicity","FIT",7,"HPS_FIT7-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G4","Meicity","FIT",7,"HPS_FIT7-2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H4","Meicity","FIT",7,"HPS_FIT7-3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A5","Meicity","FIT",7,"HPS_FIT7-4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B5","Meicity","FIT",7,"HPS_FIT7-5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C5","Meicity","FIT",7,"HPS_FIT7-6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D5","Meicity","FIT",7,"HPS_FIT7-7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E5","Meicity","FIT",7,"HPS_FIT7-8","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F5","Meicity","FIT",7,"HPS_FIT7-9","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G5","Meicity","L/N",5,"HPS_L/N5-1_1","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H5","Meicity","L/N",5,"HPS_L/N5-1_2","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A6","Meicity","L/N",5,"HPS_L/N5-1_3","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B6","Meicity","L/N",5,"HPS_L/N5-1_4","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C6","Meicity","L/N",5,"HPS_L/N5-1_5","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D6","Meicity","L/N",5,"HPS_L/N5-1_6","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E6","Meicity","L/N",5,"HPS_L/N5-1_7","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F6","Meicity","L/N",5,"HPS_L/N5-1_8","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G6","Meicity","L/N",5,"HPS_L/N5-1_9","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H6","Meicity","L/N",5,"HPS_L/N5-1_10","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A7","Meicity","L/N",5,"HPS_L/N5-1_11","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B7","Meicity","L/N",5,"HPS_L/N5-1_12","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C7","Meicity","L/N",5,"HPS_L/N5-2_1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D7","Meicity","L/N",5,"HPS_L/N5-2_2","whole body",29,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E7","Meicity","L/N",6,"HPS_L/N6-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F7","Meicity","L/N",6,"HPS_L/N6-2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G7","Meicity","L/N",6,"HPS_L/N6-3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H7","Meicity","L/N",6,"HPS_L/N6-4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A8","Meicity","L/N",6,"HPS_L/N6-5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B8","Meicity","L/N",6,"HPS_L/N6-6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C8","Meicity","L/N",6,"HPS_L/N6-7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D8","Meicity","L/N",7,"HPS_L/N7-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E8","Meicity","L/N",7,"HPS_L/N7-2","whole body",19,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F8","Meicity","MT",5,"HPS_MT5-1_1","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G8","Meicity","MT",5,"HPS_MT5-1_2","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H8","Meicity","MT",5,"HPS_MT5-1_3","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A9","Meicity","MT",5,"HPS_MT5-1_4","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B9","Meicity","MT",5,"HPS_MT5-1_5","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C9","Meicity","MT",5,"HPS_MT5-1_6","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D9","Meicity","MT",5,"HPS_MT5-1_7","whole body",25,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E9","Meicity","MT",5,"HPS_MT5-2_1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F9","Meicity","MT",5,"HPS_MT5-2_2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G9","Meicity","MT",5,"HPS_MT5-2_3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H9","Meicity","MT",5,"HPS_MT5-2_4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A10","Meicity","MT",5,"HPS_MT5-2_5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B10","Meicity","MT",5,"HPS_MT5-2_6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C10","Meicity","MT",5,"HPS_MT5-2_7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D10","Meicity","MT",6,"HPS_MT6-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E10","Meicity","MT",6,"HPS_MT6-2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F10","Meicity","MT",6,"HPS_MT6-3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G10","Meicity","MT",6,"HPS_MT6-4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H10","Meicity","MT",6,"HPS_MT6-5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A11","Meicity","MT",6,"HPS_MT6-6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B11","Meicity","MT",6,"HPS_MT6-7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C11","Meicity","MT",6,"HPS_MT6-8","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D11","Meicity","MT",6,"HPS_MT6-9","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E11","Meicity","MT",6,"HPS_MT6-10","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F11","Meicity","MT",7,"HPS_MT7-1","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G11","Meicity","MT",7,"HPS_MT7-2","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H11","Meicity","MT",7,"HPS_MT7-3","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_A12","Meicity","MT",7,"HPS_MT7-4","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_B12","Meicity","MT",7,"HPS_MT7-5","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_C12","Meicity","MT",7,"HPS_MT7-6","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_D12","Meicity","MT",7,"HPS_MT7-7","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_E12","Meicity","MT",7,"HPS_MT7-8","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_F12","Meicity","MT",7,"HPS_MT7-9","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_G12","Meicity","MT",7,"HPS_MT7-10","whole body",50,"meicity samples only"
+"RNMB_meicity_BS_P2_tag42_H12","Meicity","MT",5,"HPS_pit5-1","whole body",25,"meicity samples only"
+"RNMB_YHM_BS_P1_tag15_A1","Yuhuangmiao","FIT",1,"YHM_FIT1-1","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B1","Yuhuangmiao","FIT",1,"YHM_FIT1-2","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C1","Yuhuangmiao","FIT",1,"YHM_FIT1-3","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_1","leg",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_2","leg",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_3","leg",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G1","Yuhuangmiao","FIT",2,"YHM_FIT2-1_4","leg",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H1","Yuhuangmiao","FIT",2,"YHM_FIT2-2_1","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A2","Yuhuangmiao","FIT",2,"YHM_FIT2-2_2","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_1","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_2","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_3","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_4","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_5","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_6","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H2","Yuhuangmiao","FIT",3,"YHM_FIT3-1_7","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_8","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_9","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_10","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_11","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_12","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_13","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_14","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H3","Yuhuangmiao","FIT",3,"YHM_FIT3-1_15","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_16","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_17","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_18","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D4","Yuhuangmiao","FIT",3,"YHM_FIT3-1_19","head",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_1","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_2","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_3","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H4","Yuhuangmiao","FIT",3,"YHM_FIT3-2_4","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A5","Yuhuangmiao","FIT",4,"YHM_FIT4-2_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_2","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_3","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_4","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_5","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_6","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_7","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H5","Yuhuangmiao","FIT",4,"YHM_FIT4-1_8","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_9","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_10","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_11","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_12","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_13","head and thorax",35,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F6","Yuhuangmiao","FIT",4,"YHM_FIT4-1_1","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_2","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H6","Yuhuangmiao","FIT",4,"YHM_FIT4-2_3","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_4","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_5","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_6","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_7","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_8","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_9","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_10","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H7","Yuhuangmiao","FIT",4,"YHM_FIT4-2_11","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_12","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_13","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_14","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_15","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_16","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_17","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_18","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H8","Yuhuangmiao","FIT",4,"YHM_FIT4-2_19","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_20","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_21","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_22","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_23","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_24","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_25","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_26","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H9","Yuhuangmiao","FIT",4,"YHM_FIT4-2_27","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_28","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_29","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_30","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_31","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_32","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F10","Yuhuangmiao","FIT",4,"YHM_FIT4-2_33","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G10","Yuhuangmiao","pit",1,"YHM_pit-1-1","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H10","Yuhuangmiao","pit",1,"YHM_pit-1-2","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A11","Yuhuangmiao","pit",2,"YHM_pit-2-1","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B11","Yuhuangmiao","pit",2,"YHM_pit-2-2","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C11","Yuhuangmiao","pit",2,"YHM_pit-2-3","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D11","Yuhuangmiao","pit",2,"YHM_pit-2-4","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E11","Yuhuangmiao","pit",2,"YHM_pit-2-5","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F11","Yuhuangmiao","pit",2,"YHM_pit-2-6","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G11","Yuhuangmiao","pit",2,"YHM_pit-2-7","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H11","Yuhuangmiao","pit",3,"YHM_pit-3-1","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_A12","Yuhuangmiao","pit",3,"YHM_pit-3-2","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_B12","Yuhuangmiao","pit",3,"YHM_pit-3-3","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_C12","Yuhuangmiao","pit",3,"YHM_pit-3-4","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_D12","Yuhuangmiao","pit",3,"YHM_pit-3-6","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_E12","Yuhuangmiao","pit",3,"YHM_pit-3-7","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_F12","Yuhuangmiao","pit",3,"YHM_pit-3-8","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_G12","Yuhuangmiao","pit",3,"YHM_pit-3-9","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P1_tag15_H12","Yuhuangmiao","pit",3,"YHM_pit-3-10","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A1","Yuhuangmiao","pit",3,"YHM_pit-3-11","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B1","Yuhuangmiao","pit",3,"YHM_pit-3-12","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C1","Yuhuangmiao","pit",3,"YHM_pit-3-13","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D1","Yuhuangmiao","pit",3,"YHM_pit-3-5","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E1","Yuhuangmiao","pit",3,"YHM_pit-3-14","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F1","Yuhuangmiao","pit",3,"YHM_pit-3-15","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G1","Yuhuangmiao","pit",3,"YHM_pit-3-16","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H1","Yuhuangmiao","pit",3,"YHM_pit-3-17","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A2","Yuhuangmiao","pit",3,"YHM_pit-3-18","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B2","Yuhuangmiao","pit",3,"YHM_pit-3-19","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C2","Yuhuangmiao","pit",3,"YHM_pit-3-20","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D2","Yuhuangmiao","pit",3,"YHM_pit-3-21","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E2","Yuhuangmiao","pit",4,"YHM_pit-4-1_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F2","Yuhuangmiao","pit",4,"YHM_pit-4-1_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G2","Yuhuangmiao","pit",4,"YHM_pit-4-1_3","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H2","Yuhuangmiao","pit",4,"YHM_pit-4-1_4","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A3","Yuhuangmiao","pit",4,"YHM_pit-4-1_5","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B3","Yuhuangmiao","pit",4,"YHM_pit-4-2_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C3","Yuhuangmiao","pit",4,"YHM_pit-4-2_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D3","Yuhuangmiao","pit",4,"YHM_pit-4-2_3","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E3","Yuhuangmiao","pit",4,"YHM_pit-4-2_4","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F3","Yuhuangmiao","pit",4,"YHM_pit-4-2_5","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G3","Yuhuangmiao","pit",4,"YHM_pit-4-2_6","head",38,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H3","Yuhuangmiao","MT",3,"YHM_MT-3_1","leg",40,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A4","Yuhuangmiao","MT",4,"YHM_MT-4-1_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B4","Yuhuangmiao","MT",4,"YHM_MT-4-1_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C4","Yuhuangmiao","MT",4,"YHM_MT-4-2_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D4","Yuhuangmiao","MT",4,"YHM_MT-4-2_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E4","Yuhuangmiao","MT",4,"YHM_MT-4-2_3","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F4","Yuhuangmiao","L/N",1,"YHM_L/N1-1","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G4","Yuhuangmiao","L/N",1,"YHM_L/N1-2","leg",17,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H4","Yuhuangmiao","L/N",2,"YHM_L/N2-1","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A5","Yuhuangmiao","L/N",2,"YHM_L/N2-2","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B5","Yuhuangmiao","L/N",2,"YHM_L/N2-3","leg",46,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C5","Yuhuangmiao","L/N",3,"YHM_L/N3-1","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D5","Yuhuangmiao","L/N",3,"YHM_L/N3-2","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E5","Yuhuangmiao","L/N",3,"YHM_L/N3-3","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F5","Yuhuangmiao","L/N",3,"YHM_L/N3-4","head",96,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H5","Yuhuangmiao","L/N",4,"YHM_L/N4-1_2","head",17,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_3","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_4","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_5","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_6","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_7","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H6","Yuhuangmiao","L/N",4,"YHM_L/N4-2_8","head",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A7","Yuhuangmiao","L/N",4,"YHM_L/N4-2_9","head",30,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_1","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_2","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_3","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E7","Yuhuangmiao","FIT",5,"YHM_FIT5-1_4","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H7","Yuhuangmiao","FIT",5,"YHM_FIT5-2_3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_6","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_7","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_8","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_9","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_10","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H8","Yuhuangmiao","FIT",5,"YHM_FIT5-2_11","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_12","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_13","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_14","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_15","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_16","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_17","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_18","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H9","Yuhuangmiao","FIT",5,"YHM_FIT5-2_19","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_20","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_21","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_22","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_23","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_24","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_25","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_26","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H10","Yuhuangmiao","FIT",5,"YHM_FIT5-2_27","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_28","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_29","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_30","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_31","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_32","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_33","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G11","Yuhuangmiao","FIT",5,"YHM_FIT5-2_34","whole body",46,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H11","Yuhuangmiao","FIT",5,"YHM_FIT5-3_1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_A12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_B12","Yuhuangmiao","FIT",5,"YHM_FIT5-3_3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_C12","Yuhuangmiao","FIT",6,"YHM_FIT6-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_D12","Yuhuangmiao","FIT",6,"YHM_FIT6-2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_E12","Yuhuangmiao","FIT",6,"YHM_FIT6-3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_F12","Yuhuangmiao","FIT",6,"YHM_FIT6-4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_G12","Yuhuangmiao","FIT",6,"YHM_FIT6-5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P2_tag38_H12","Yuhuangmiao","FIT",6,"YHM_FIT6-6","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A1","Yuhuangmiao","FIT",6,"YHM_FIT6-7","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B1","Yuhuangmiao","FIT",6,"YHM_FIT6-8","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C1","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D1","Yuhuangmiao","FIT",6,"YHM_FIT6-10","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E1","Yuhuangmiao","FIT",6,"YHM_FIT6-11","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F1","Yuhuangmiao","FIT",6,"YHM_FIT6-12","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G1","Yuhuangmiao","FIT",6,"YHM_FIT6-13","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H1","Yuhuangmiao","FIT",6,"YHM_FIT6-14","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A2","Yuhuangmiao","FIT",6,"YHM_FIT6-15","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B2","Yuhuangmiao","FIT",6,"YHM_FIT6-16","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C2","Yuhuangmiao","FIT",6,"YHM_FIT6-17","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D2","Yuhuangmiao","FIT",6,"YHM_FIT6-18","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E2","Yuhuangmiao","FIT",6,"YHM_FIT6-19","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F2","Yuhuangmiao","FIT",6,"YHM_FIT6-20","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G2","Yuhuangmiao","FIT",6,"YHM_FIT6-21","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H2","Yuhuangmiao","FIT",6,"YHM_FIT6-22","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A3","Yuhuangmiao","FIT",6,"YHM_FIT6-23","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B3","Yuhuangmiao","FIT",7,"YHM_FIT7-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C3","Yuhuangmiao","FIT",7,"YHM_FIT7-2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D3","Yuhuangmiao","FIT",7,"YHM_FIT7-3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E3","Yuhuangmiao","FIT",7,"YHM_FIT7-4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F3","Yuhuangmiao","FIT",7,"YHM_FIT7-5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G3","Yuhuangmiao","FIT",7,"YHM_FIT7-6","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H3","Yuhuangmiao","MT",5,"YHM_MT5-1_1","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A4","Yuhuangmiao","MT",5,"YHM_MT5-1_2","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B4","Yuhuangmiao","MT",5,"YHM_MT5-1_3","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C4","Yuhuangmiao","MT",5,"YHM_MT5-1_4","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D4","Yuhuangmiao","MT",5,"YHM_MT5-2_1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E4","Yuhuangmiao","MT",5,"YHM_MT5-2_2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F4","Yuhuangmiao","MT",5,"YHM_MT5-2_3","whole body",15,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G4","Yuhuangmiao","MT",6,"YHM_MT6-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H4","Yuhuangmiao","MT",6,"YHM_MT6-2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A5","Yuhuangmiao","MT",6,"YHM_MT6-3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B5","Yuhuangmiao","MT",6,"YHM_MT6-4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C5","Yuhuangmiao","MT",6,"YHM_MT6-5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D5","Yuhuangmiao","MT",6,"YHM_MT6-6","whole body",42,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E5","Yuhuangmiao","MT",7,"YHM_MT7-1","whole body",19,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_1","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_2","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H5","Yuhuangmiao","L/N",5,"YHM_L/N5-1_3","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_4","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_5","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_6","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D6","Yuhuangmiao","L/N",5,"YHM_L/N5-1_7","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G6","Yuhuangmiao","L/N",6,"YHM_L/N6-2_1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H6","Yuhuangmiao","L/N",5,"YHM_L/N5-2_3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B7","Yuhuangmiao","L/N",5,"YHM_L/N5-2_5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C7","Yuhuangmiao","L/N",6,"YHM_L/N6-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D7","Yuhuangmiao","L/N",6,"YHM_L/N6-3","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E7","Yuhuangmiao","L/N",6,"YHM_L/N6-4","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F7","Yuhuangmiao","L/N",6,"YHM_L/N6-5","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G7","Yuhuangmiao","L/N",6,"YHM_L/N6-6","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H7","Yuhuangmiao","L/N",6,"YHM_L/N6-7","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A8","Yuhuangmiao","L/N",6,"YHM_L/N6-8","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B8","Yuhuangmiao","L/N",6,"YHM_L/N6-9","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C8","Yuhuangmiao","L/N",6,"YHM_L/N6-10","whole body",42,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D8","Yuhuangmiao","L/N",6,"YHM_L/N7-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E8","Meicity","pit",7,"YHM_pit7-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F8","Meicity","pit",6,"YHM_pit6-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G8","Meicity","pit",5,"YHM_pit5-1","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H8","Meicity","FIT",5,"HPS_FIT5_2_2","whole body",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A9","Meicity","MT",4,"HPS_MT4_2_3","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B9","Meicity","MT",4,"HPS_MT4_2_4","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C9","Meicity","pit",1,"HPS_pit1-1","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D9","Meicity","pit",1,"HPS_pit1-2","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E9","Meicity","pit",1,"HPS_pit1-3","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F9","Meicity","pit",1,"HPS_pit1-4","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G9","Meicity","pit",1,"HPS_pit1-5","leg",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H9","Meicity","pit",2,"HPS_pit2-1","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A10","Meicity","pit",2,"HPS_pit2-2","leg",100,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B10","Meicity","pit",3,"HPS_pit3-1","leg",150,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C10","Meicity","pit",3,"HPS_pit3-2","leg",151,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D10","Meicity","pit",3,"HPS_pit3-3","leg",152,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E10","Meicity","pit",4,"HPS_pit4-1_1","head",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F10","Meicity","pit",4,"HPS_pit4-1_2","head",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G10","Meicity","pit",4,"HPS_pit4-2_1","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H10","Meicity","pit",4,"HPS_pit4-2_2","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A11","Meicity","pit",4,"HPS_pit4-2_3","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B11","Meicity","pit",4,"HPS_pit4-2_4","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C11","Meicity","pit",4,"HPS_pit4-2_5","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D11","Meicity","pit",4,"HPS_pit4-2_6","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E11","Meicity","pit",4,"HPS_pit4-2_7","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F11","Meicity","pit",4,"HPS_pit4-2_8","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G11","Meicity","pit",4,"HPS_pit4-2_9","head and thorax",50,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H11","Meicity","FIT",5,"HPS_FIT5-1_1","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_A12","Meicity","FIT",5,"HPS_FIT5-1_2","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_B12","Meicity","FIT",5,"HPS_FIT5-1_3","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_C12","Meicity","FIT",5,"HPS_FIT5-1_4","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_D12","Meicity","FIT",5,"HPS_FIT5-1_5","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_E12","Meicity","FIT",5,"HPS_FIT5-1_6","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_F12","Meicity","FIT",5,"HPS_FIT5-1_7","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_G12","Meicity","FIT",5,"HPS_FIT5-1_8","whole body",25,"YHM samples only"
+"RNMB_YHM_BS_P3_tag53_H12","Meicity","FIT",5,"HPS_FIT5-2_1","whole body",50,"YHM samples only"
+"RNMB_Mix_BS_PIX_tag34_A1","Meicity","pit",6,"HPS-pit6_1","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B1","Meicity","pit",5,"HPS-pit5_2","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C1","Meicity","pit",5,"HPS-pit5_3","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D1","Meicity","pit",5,"HPS-pit5_4","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E1","Meicity","pit",5,"HPS-pit5_5","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F1","Meicity","pit",5,"HPS-pit5_6","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G1","Meicity","pit",5,"HPS-pit5_7","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H1","Meicity","pit",5,"HPS-pit5_8","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A2","Meicity","pit",5,"HPS-pit5_9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B2","Fengcity","FIT",5,"FX_FIT5-3_56","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C2","Fengcity","FIT",5,"FX_FIT5-3_57","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D2","Fengcity","FIT",5,"FX_FIT5-3_58","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E2","Fengcity","FIT",5,"FX_FIT5-3_59","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F2","Fengcity","FIT",5,"FX_FIT5-3_60","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G2","Fengcity","FIT",5,"FX_FIT5-3_61","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H2","Fengcity","FIT",5,"FX_FIT5-3_62","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A3","Fengcity","FIT",5,"FX_FIT5-3_63","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B3","Fengcity","FIT",5,"FX_FIT5-3_64","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C3","Fengcity","FIT",5,"FX_FIT5-3_65","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D3","Fengcity","FIT",5,"FX_FIT5-3_66","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E3","Fengcity","FIT",3,"FX_FIT3-2_3","leg ",150,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F3","Fengcity","FIT",4,"FX_FIT4-1_17","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G3","Fengcity","FIT",4,"FX_FIT4-1_33","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H3","Fengcity","FIT",4,"FX_FIT4-2_10","head and thorax",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A4","Fengcity","FIT",4,"FX_FIT4-3_17","head and thorax",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B4","Fengcity","FIT",4,"FX_FIT4-1_21","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C4","Fengcity","FIT",4,"FX_FIT4-2_14","head and thorax",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D4","Fengcity","FIT",4,"FX_FIT4-3_14","head and thorax",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E4","Fengcity","FIT",5,"FX_FIT5-5","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F4","Fengcity","FIT",5,"FX_FIT5-13","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G4","Fengcity","FIT",4,"FX_FIT4-1_1","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H4","Fengcity","FIT",5,"FX_FIT5-24","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A5","Fengcity","FIT",6,"FX_FIT6-6","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B5","Fengcity","FIT",6,"FX_FIT6-19","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C5","Fengcity","MT",6,"FX_MT6-8","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D5","Fengcity","MT",6,"FX_MT6-9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E5","Fengcity","FIT",4,"FX_FIT4-1_2","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F5","Fengcity","FIT",4,"FX_FIT4-1_34","head",25,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G5","Fengcity","FIT",4,"FX_FIT4-2_2","head and thorax",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H5","Fengcity","FIT",6,"FX_FIT6-1","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A6","Fengcity","FIT",7,"FX_FIT7-8","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B6","Fengcity","FIT",3,"FX_FIT3-2_26","leg",150,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C6","Fengcity","FIT",7,"FX_FIT7-3","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D6","Fengcity","FIT",7,"FX_FIT7-7","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H6","Yuhuangmiao","FIT",6,"YHM_FIT6-9","whole body",50,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A7","Fengcity","all",5,"FXpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B7","Fengcity","all",5,"Fxpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C7","Foping","all",5,"FPpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D7","Foping","all",5,"FPpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E7","Meicity","all",5,"HPSpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_F7","Meicity","all",5,"HPSpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_G7","Yuhuangmiao","all",5,"YHMpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_H7","Yuhuangmiao","all",5,"YHMpool","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_A8","Foursites","all",5,"pool1","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_B8","Foursites","all",5,"pool1","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_C8","Foursites","all",5,"pool2","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_D8","Foursites","all",5,"pool2","whole body",NA,"Samples from multiple sources samples only"
+"RNMB_Mix_BS_PIX_tag34_E8","Foursites","all",5,"pool1+2","whole body",NA,"Samples from multiple sources samples only"
+"RNMB1_FXBSP1_tag08_A1","Feng city","FIT",1,"FX_FIT1-1_3 ","leg",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A10","Feng city","FIT",4,"FX_FIT4-3_1","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A11","Feng city","FIT",4,"FX_FIT4-3_9","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A12","Feng city","FIT",4,"FX_FIT4-3_17","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A2","Feng city","FIT",3,"FX_FIT3-2_3 ","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A3","Feng city","FIT",3,"FX_FIT3-2_11","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A4","Feng city","FIT",3,"FX_FIT4-1_9","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A5","Feng city","FIT",3,"FX_FIT4-1_17","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A6","Feng city","FIT",3,"FX_FIT4-1_25","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A7","Feng city","FIT",3,"FX_FIT4-1_33","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A8","Feng city","FIT",4,"FX_FIT4-2_10","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_A9","Feng city","FIT",4,"FX_FIT4-2_18","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B1","Feng city","FIT",1,"FX_FIT1-1_4","leg",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B10","Feng city","FIT",4,"FX_FIT4-3_2","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B11","Feng city","FIT",4,"FX_FIT4-3_10","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B12","Feng city","FIT",4,"FX_FIT4-3_20","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B2","Feng city","FIT",3,"FX_FIT3-2_4","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B3","Feng city","FIT",3,"FX_FIT3-2_12","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B4","Feng city","FIT",3,"FX_FIT4-1_10","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B5","Feng city","FIT",3,"FX_FIT4-1_18","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B6","Feng city","FIT",3,"FX_FIT4-1_26","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B7","Feng city","FIT",4,"FX_FIT4-2_3","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B8","Feng city","FIT",4,"FX_FIT4-2_11","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_B9","Feng city","FIT",4,"FX_FIT4-2_19","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C1","Feng city","FIT",1,"FX_FIT1-2_3","leg",10,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C10","Feng city","FIT",4,"FX_FIT4-3_3","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C11","Feng city","FIT",4,"FX_FIT4-3_11","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C12","Feng city","FIT",4,"FX_FIT4-3_21","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C2","Feng city","FIT",3,"FX_FIT3-2_5 ","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C3","Feng city","FIT",3,"FX_FIT4-1_3","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C4","Feng city","FIT",3,"FX_FIT4-1_11","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C5","Feng city","FIT",3,"FX_FIT4-1_19","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C6","Feng city","FIT",3,"FX_FIT4-1_27","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C7","Feng city","FIT",4,"FX_FIT4-2_4","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C8","Feng city","FIT",4,"FX_FIT4-2_12","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_C9","Feng city","FIT",4,"FX_FIT4-2_20","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D1","Feng city","FIT",2,"FX_FIT2-2_3 ","leg",100,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D10","Feng city","FIT",4,"FX_FIT4-3_4","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D11","Feng city","FIT",4,"FX_FIT4-3_12","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D12","Feng city","FIT",4,"FX_FIT4-3_22","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D2","Feng city","FIT",3,"FX_FIT3-2_6","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D3","Feng city","FIT",3,"FX_FIT4-1_4","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D4","Feng city","FIT",3,"FX_FIT4-1_12","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D5","Feng city","FIT",3,"FX_FIT4-1_20","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D6","Feng city","FIT",3,"FX_FIT4-1_28","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D7","Feng city","FIT",4,"FX_FIT4-2_5","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D8","Feng city","FIT",4,"FX_FIT4-2_13","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_D9","Feng city","FIT",4,"FX_FIT4-2_21","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E1","Feng city","FIT",2,"FX_FIT2-2_4","leg",100,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E10","Feng city","FIT",4,"FX_FIT4-3_5","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E11","Feng city","FIT",4,"FX_FIT4-3_13","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E12","Feng city","FIT",4,"FX_FIT4-3_23","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E2","Feng city","FIT",3,"FX_FIT3-2_7","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E3","Feng city","FIT",3,"FX_FIT4-1_5","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E4","Feng city","FIT",3,"FX_FIT4-1_13","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E5","Feng city","FIT",3,"FX_FIT4-1_21","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E6","Feng city","FIT",3,"FX_FIT4-1_29","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E7","Feng city","FIT",4,"FX_FIT4-2_6","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E8","Feng city","FIT",4,"FX_FIT4-2_14","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_E9","Feng city","FIT",4,"FX_FIT4-2_22","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F1","Feng city","FIT",2,"FX_FIT2-2_5","leg",10,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F10","Feng city","FIT",4,"FX_FIT4-3_6","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F11","Feng city","FIT",4,"FX_FIT4-3_14","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F12","Feng city","FIT",4,"FX_FIT4-3_24","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F2","Feng city","FIT",3,"FX_FIT3-2_8","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F3","Feng city","FIT",3,"FX_FIT4-1_6","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F4","Feng city","FIT",3,"FX_FIT4-1_14","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F5","Feng city","FIT",3,"FX_FIT4-1_22","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F6","Feng city","FIT",3,"FX_FIT4-1_30","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F7","Feng city","FIT",4,"FX_FIT4-2_7","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F8","Feng city","FIT",4,"FX_FIT4-2_15","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_F9","Feng city","FIT",4,"FX_FIT4-2_23","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G1","Feng city","FIT",3,"FX_FIT3-2_2","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G10","Feng city","FIT",4,"FX_FIT4-3_7","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G11","Feng city","FIT",4,"FX_FIT4-3_15","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G12","Feng city","FIT",4,"FX_FIT4-3_25","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G2","Feng city","FIT",3,"FX_FIT3-2_9","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G3","Feng city","FIT",3,"FX_FIT4-1_7","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G4","Feng city","FIT",3,"FX_FIT4-1_15","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G5","Feng city","FIT",3,"FX_FIT4-1_23","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G6","Feng city","FIT",3,"FX_FIT4-1_31","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G7","Feng city","FIT",4,"FX_FIT4-2_8","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G8","Feng city","FIT",4,"FX_FIT4-2_16","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_G9","Feng city","FIT",4,"FX_FIT4-2_24","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H1","Feng city","FIT",3,"FX_FIT3-2_1","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H10","Feng city","FIT",4,"FX_FIT4-3_8","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H11","Feng city","FIT",4,"FX_FIT4-3_16","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H12","Feng city","FIT",4,"FX_FIT4-3_26","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H2","Feng city","FIT",3,"FX_FIT3-2_10","leg",150,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H3","Feng city","FIT",3,"FX_FIT4-1_8","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H4","Feng city","FIT",3,"FX_FIT4-1_16","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H5","Feng city","FIT",3,"FX_FIT4-1_24","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H6","Feng city","FIT",3,"FX_FIT4-1_32","head",25,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H7","Feng city","FIT",4,"FX_FIT4-2_9","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H8","Feng city","FIT",4,"FX_FIT4-2_17","head",50,"Feng samples only"
+"RNMB1_FXBSP1_tag08_H9","Feng city","FIT",4,"FX_FIT4-2_25","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A1","Feng city","FIT",5,"FX_FIT5_3 ","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A10","Feng city","Pit",4,"FX_pit4-2_2","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A11","Feng city","L/N",4,"FX_L/N4-2_2","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A12","Feng city","FIT",6,"FX_FIT6_9","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A2","Feng city","FIT",5,"FX_FIT5_11","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A3","Feng city","FIT",5,"FX_FIT5_19","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A4","Feng city","FIT",5,"FX_FIT5_27","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A5","Feng city","FIT",5,"FX_FIT5_35","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A6","Feng city","MT",3,"FX_MT3_1","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A7","Feng city","MT",4,"FX_MT4-1_5","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A8","Feng city","MT",4,"FX_MT4-1_13","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_A9","Feng city","Pit",2,"FX_pit2_6","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B1","Feng city","FIT",5,"FX_FIT5_4","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B10","Feng city","Pit",4,"FX_pit4-2_3","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B11","Feng city","L/N",4,"FX_L/N4-2_3","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B12","Feng city","FIT",6,"FX_FIT6_10","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B2","Feng city","FIT",5,"FX_FIT5_12","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B3","Feng city","FIT",5,"FX_FIT5_20","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B4","Feng city","FIT",5,"FX_FIT5_28","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B5","Feng city","FIT",4,"FX_FIT4-3_27","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B6","Feng city","MT",3,"FX_MT3_2","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B7","Feng city","MT",4,"FX_MT4-1_6","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B8","Feng city","MT",4,"FX_MT4-1_14","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_B9","Feng city","Pit",3,"FX_pit3_1","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C1","Feng city","FIT",5,"FX_FIT5_5","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C10","Feng city","L/N",2,"FX_L/N2_1(50legs)","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C11","Feng city","FIT",6,"FX_FIT6_3","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C12","Feng city","FIT",6,"FX_FIT6_11","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C2","Feng city","FIT",5,"FX_FIT5_13","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C3","Feng city","FIT",5,"FX_FIT5_21","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C4","Feng city","FIT",5,"FX_FIT5_29","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C5","Feng city","FIT",4,"FX_FIT4-3_28","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C6","Feng city","MT",3,"FX_MT3_3","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C7","Feng city","MT",4,"FX_MT4-1_7","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C8","Feng city","Pit",2,"FX_pit2_1","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_C9","Feng city","Pit",4,"FX_pit4-1_1","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D1","Feng city","FIT",5,"FX_FIT5_6","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D10","Feng city","L/N",2,"FX_L/N2_2","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D11","Feng city","FIT",6,"FX_FIT6_4","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D12","Feng city","FIT",6,"FX_FIT6_12","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D2","Feng city","FIT",5,"FX_FIT5_14","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D3","Feng city","FIT",5,"FX_FIT5_22","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D4","Feng city","FIT",5,"FX_FIT5_30","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D5","Feng city","FIT",4,"FX_FIT4-3_29","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D6","Feng city","MT",3,"FX_MT3_4","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D7","Feng city","MT",4,"FX_MT4-1_8","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D8","Feng city","Pit",2,"FX_pit2_2","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_D9","Feng city","Pit",4,"FX_pit4-1_2","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E1","Feng city","FIT",5,"FX_FIT5_7","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E10","Feng city","L/N",3,"FX_L/N3_1","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E11","Feng city","FIT",6,"FX_FIT6_5","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E12","Feng city","FIT",6,"FX_FIT6_13","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E2","Feng city","FIT",5,"FX_FIT5_15","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E3","Feng city","FIT",5,"FX_FIT5_23","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E4","Feng city","FIT",5,"FX_FIT5_31","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E5","Feng city","FIT",4,"FX_FIT4-3_30","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E6","Feng city","MT",4,"FX_MT4-1_1","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E7","Feng city","MT",4,"FX_MT4-1_9","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E8","Feng city","Pit",2,"FX_pit2_3","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_E9","Feng city","Pit",4,"FX_pit4-1_3","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F1","Feng city","FIT",5,"FX_FIT5_8","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F10","Feng city","L/N",3,"FX_L/N3_2","leg",150,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F11","Feng city","FIT",6,"FX_FIT6_6","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F12","Feng city","FIT",6,"FX_FIT6_14","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F2","Feng city","FIT",5,"FX_FIT5_16","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F3","Feng city","FIT",5,"FX_FIT5_24","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F4","Feng city","FIT",5,"FX_FIT5_32","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F5","Feng city","FIT",4,"FX_FIT4-3_31","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F6","Feng city","MT",4,"FX_MT4-1_2","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F7","Feng city","MT",4,"FX_MT4-1_10","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F8","Feng city","Pit",2,"FX_pit2_4","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_F9","Feng city","Pit",4,"FX_pit4-1_4","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G1","Feng city","FIT",5,"FX_FIT5_9","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G10","Feng city","L/N",4,"FX_L/N4-1_1","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G11","Feng city","FIT",6,"FX_FIT6_7","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G12","Feng city","FIT",6,"FX_FIT6_15","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G2","Feng city","FIT",5,"FX_FIT5_17","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G3","Feng city","FIT",5,"FX_FIT5_25","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G4","Feng city","FIT",5,"FX_FIT5_33","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G5","Feng city","MT",1,"FX_MT1","leg",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G6","Feng city","MT",4,"FX_MT4-1_3","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G7","Feng city","MT",4,"FX_MT4-1_11","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G8","Feng city","Pit",2,"FX_pit2_5","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_G9","Feng city","Pit",4,"FX_pit4-1_5","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H1","Feng city","FIT",5,"FX_FIT5_10","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H10","Feng city","L/N",4,"FX_L/N4-2_1","head",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H11","Feng city","FIT",6,"FX_FIT6_8","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H12","Feng city","FIT",6,"FX_FIT6_16","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H2","Feng city","FIT",5,"FX_FIT5_18","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H3","Feng city","FIT",5,"FX_FIT5_26","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H4","Feng city","FIT",5,"FX_FIT5_34","body",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H5","Feng city","MT",2,"FX_MT2","leg",50,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H6","Feng city","MT",4,"FX_MT4-1_4","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H7","Feng city","MT",4,"FX_MT4-1_12","head",25,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H8","Feng city","Pit",2,"FX_pit2_6","leg",100,"Feng samples only"
+"RNMB1_FXBSP2_tag18_H9","Feng city","Pit",4,"FX_pit4-2_1","head",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A1","Feng city","FIT",6,"FX_FIT6_17","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A10","Feng city","MT",5,"FX_MT5_7","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A11","Feng city","MT",6,"FX_MT6_5","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A12","Feng city","MT",7,"FX_MT7_4","body",21,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A2","Feng city","FIT",6,"FX_FIT6_25","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A3","Feng city","FIT",6,"FX_FIT6_33","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A4","Feng city","FIT",6,"FX_FIT6_41","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A5","Feng city","FIT",6,"FX_FIT6_49","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A6","Feng city","FIT",6,"FX_FIT6_57","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A7","Feng city","FIT",6,"FX_FIT6_65","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A8","Feng city","FIT",6,"FX_FIT6_73","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_A9","Feng city","FIT",6,"FX_FIT6_81","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B1","Feng city","FIT",6,"FX_FIT6_18","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B10","Feng city","MT",5,"FX_MT5_8","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B11","Feng city","MT",6,"FX_MT6_6","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B12","Feng city","Pit",5,"FX_pit5_1","body",25,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B2","Feng city","FIT",6,"FX_FIT6_26","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B3","Feng city","FIT",6,"FX_FIT6_34","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B4","Feng city","FIT",6,"FX_FIT6_42","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B5","Feng city","FIT",6,"FX_FIT6_50","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B6","Feng city","FIT",6,"FX_FIT6_58","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B7","Feng city","FIT",6,"FX_FIT6_66","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B8","Feng city","FIT",6,"FX_FIT6_74","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_B9","Feng city","FIT",6,"FX_FIT6_82","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C1","Feng city","FIT",6,"FX_FIT6_19","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C10","Feng city","MT",5,"FX_MT5_9","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C11","Feng city","MT",6,"FX_MT6_7","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C12","Feng city","Pit",6,"FX_pit6_1","body",20,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C2","Feng city","FIT",6,"FX_FIT6_27","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C3","Feng city","FIT",6,"FX_FIT6_35","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C4","Feng city","FIT",6,"FX_FIT6_43","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C5","Feng city","FIT",6,"FX_FIT6_51","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C6","Feng city","FIT",6,"FX_FIT6_59","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C7","Feng city","FIT",6,"FX_FIT6_67","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C8","Feng city","FIT",6,"FX_FIT6_75","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_C9","Feng city","MT",5,"FX_MT5_1","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D1","Feng city","FIT",6,"FX_FIT6_20","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D10","Feng city","MT",5,"FX_MT5_10","body",43,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D11","Feng city","MT",6,"FX_MT6_8","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D12","Feng city","L/N",5,"FX_L/N5_1 ","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D2","Feng city","FIT",6,"FX_FIT6_28","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D3","Feng city","FIT",6,"FX_FIT6_36","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D4","Feng city","FIT",6,"FX_FIT6_44","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D5","Feng city","FIT",6,"FX_FIT6_52","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D6","Feng city","FIT",6,"FX_FIT6_60","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D7","Feng city","FIT",6,"FX_FIT6_68","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D8","Feng city","FIT",6,"FX_FIT6_76","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_D9","Feng city","MT",5,"FX_MT5_2","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E1","Feng city","FIT",6,"FX_FIT6_21","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E10","Feng city","MT",6,"FX_MT6_1","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E11","Feng city","MT",6,"FX_MT6_9","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E12","Feng city","L/N",7,"FX_FIT7_4 ","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E2","Feng city","FIT",6,"FX_FIT6_29","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E3","Feng city","FIT",6,"FX_FIT6_37","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E4","Feng city","FIT",6,"FX_FIT6_45","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E5","Feng city","FIT",6,"FX_FIT6_53","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E6","Feng city","FIT",6,"FX_FIT6_61","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E7","Feng city","FIT",6,"FX_FIT6_69","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E8","Feng city","FIT",6,"FX_FIT6_77","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_E9","Feng city","MT",5,"FX_MT5_3","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F1","Feng city","FIT",6,"FX_FIT6_22","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F10","Feng city","MT",6,"FX_MT6_2","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F11","Feng city","MT",7,"FX_MT7_1","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F12","Feng city","L/N",7,"FX_FIT7_5","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F2","Feng city","FIT",6,"FX_FIT6_30","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F3","Feng city","FIT",6,"FX_FIT6_38","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F4","Feng city","FIT",6,"FX_FIT6_46","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F5","Feng city","FIT",6,"FX_FIT6_54","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F6","Feng city","FIT",6,"FX_FIT6_62","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F7","Feng city","FIT",6,"FX_FIT6_70","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F8","Feng city","FIT",6,"FX_FIT6_78","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_F9","Feng city","MT",5,"FX_MT5_4","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G1","Feng city","FIT",6,"FX_FIT6_23","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G10","Feng city","MT",6,"FX_MT6_3","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G11","Feng city","MT",7,"FX_MT7_2","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G12","Feng city","L/N",7,"FX_FIT7_6","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G2","Feng city","FIT",6,"FX_FIT6_31","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G3","Feng city","FIT",6,"FX_FIT6_39","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G4","Feng city","FIT",6,"FX_FIT6_47","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G5","Feng city","FIT",6,"FX_FIT6_55","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G6","Feng city","FIT",6,"FX_FIT6_63","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G7","Feng city","FIT",6,"FX_FIT6_71","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G8","Feng city","FIT",6,"FX_FIT6_79","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_G9","Feng city","MT",5,"FX_MT5_5","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H1","Feng city","FIT",6,"FX_FIT6_24","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H10","Feng city","MT",6,"FX_MT6_4","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H11","Feng city","MT",7,"FX_MT7_3","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H12","Feng city","L/N",6,"FX_L/N6-1","body",41,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H2","Feng city","FIT",6,"FX_FIT6_32","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H3","Feng city","FIT",6,"FX_FIT6_40","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H4","Feng city","FIT",6,"FX_FIT6_48","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H5","Feng city","FIT",6,"FX_FIT6_56","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H6","Feng city","FIT",6,"FX_FIT6_64","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H7","Feng city","FIT",6,"FX_FIT6_72","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H8","Feng city","FIT",6,"FX_FIT6_80","body",50,"Feng samples only"
+"RNMB1_FXBSP3_tag42_H9","Feng city","MT",5,"FX_MT5_6","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_A10","Feng city","FIT",4,"FIT4-2_2","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_A11","Feng city","FIT",2,"FIT2-1_1","leg",100,"Feng samples only"
+"RNMB2_FXBSP4_tag07_A12","Feng city","FIT",6,"FIT6_1","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_B10","Feng city","FIT",4,"FIT4-2_21","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_B11","Feng city","FIT",2,"FIT2-2_1","leg",100,"Feng samples only"
+"RNMB2_FXBSP4_tag07_B12","Feng city","FIT",7,"FIT7_8","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_C10","Feng city","FIT",4,"FIT4-3_19","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_C11","Feng city","FIT",3,"FIT3-2_35","leg",150,"Feng samples only"
+"RNMB2_FXBSP4_tag07_C12","Feng city","FIT",7,"FIT7_1","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_C9","Feng city","FIT",1,"FIT1-1_2","leg",25,"Feng samples only"
+"RNMB2_FXBSP4_tag07_D10","Feng city","FIT",5,"FIT5-2","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_D11","Feng city","FIT",4,"FIT4-1_1","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_D12","Feng city","FIT",7,"FIT7_2","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_D9","Feng city","FIT",1,"FIT1-2_2","leg",25,"Feng samples only"
+"RNMB2_FXBSP4_tag07_E10","Feng city","FIT",6,"FIT6_2","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_E11","Feng city","FIT",4,"FIT4-1_35","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_E12","Feng city","FIT",7,"FIT7_3","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_E9","Feng city","FIT",2,"FIT2-2_2","leg",100,"Feng samples only"
+"RNMB2_FXBSP4_tag07_F10","Feng city","FIT",7,"FIT7_9","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_F11","Feng city","FIT",4,"FIT4-2_1","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_F12","Feng city","FIT",7,"FIT7_7","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_F9","Feng city","FIT",3,"FIT3-2_36","leg",150,"Feng samples only"
+"RNMB2_FXBSP4_tag07_G10","Feng city","FIT",1,"FIT1-1_1","leg",25,"Feng samples only"
+"RNMB2_FXBSP4_tag07_G11","Feng city","FIT",4,"FIT4-3_18","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_G12","Feng city","L/N",5,"L/N5-2","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_G9","Feng city","FIT",4,"FIT4-1_2","head",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_H10","Feng city","FIT",1,"FIT1-2_1","leg",25,"Feng samples only"
+"RNMB2_FXBSP4_tag07_H11","Feng city","FIT",5,"FIT5-1","body",50,"Feng samples only"
+"RNMB2_FXBSP4_tag07_H12","Feng city","MT",6,"MT6_10","body",34,"Feng samples only"
+"RNMB2_FXBSP4_tag07_H9","Feng city","FIT",4,"FIT4-1_34","head",50,"Feng samples only"
