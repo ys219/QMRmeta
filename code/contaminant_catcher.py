@@ -44,9 +44,9 @@ if __name__=="__main__":
                             else:
                                 conta_count_dic[ref_head]=len(tmp_seq_list)
                                 conta_dic[ref_head] = tmp_seq_list
-                                break
+
                         else:
-                            tmp_seq_list.append(seq)
+                            tmp_seq_list.append(seq.rstrip())
             else:
                 pass
     
@@ -57,14 +57,18 @@ if __name__=="__main__":
         for head , seq in SimpleFastaParser(ASV_file):
             ASV_list.append(seq.rstrip())
     
+    fil_conta_dic = {}
     # then filter concat dict:
     for key, values in conta_dic.items():
         # rm = 0 # record how many been removed
+        tmp_seq_list = []
         for seq in values:
-            if seq not in ASV_list:
-                conta_dic[key].remove(seq)
-        conta_count_dic[key] = len(values)
+            if seq in ASV_list:
+                tmp_seq_list.append(seq)
+        fil_conta_dic[key] = tmp_seq_list
+        conta_count_dic[key] = len(tmp_seq_list)
     
+    del conta_dic
     # extract mb file names
     with open(args.mb_file_names,"r") as mb_names:
         mb_names_list = mb_names.readlines()
@@ -83,37 +87,17 @@ if __name__=="__main__":
                 score[mb_f][ref_key] = None
                 if ref_seq in mb_tmp:
                     tmp_score = 0
-                    if ref_seq in conta_dic.keys() and len(conta_dic[ref_key]) != 0 :#check if barcoding exist in contaminant dict and contaminat is not empty
-                        for con_seq in conta_dic[ref_key]:
+                    if ref_seq in fil_conta_dic.keys() and len(fil_conta_dic[ref_key]) != 0 :#check if barcoding exist in contaminant dict and contaminat is not empty
+                        for con_seq in fil_conta_dic[ref_key]:
                             if con_seq in mb_tmp:
                                 tmp_score += 1 
-                        tmp_score = tmp_score/ len(conta_dic[ref_key])
+                        tmp_score = tmp_score/ len(fil_conta_dic[ref_key])
                     score[mb_f][ref_key] = tmp_score
-    # score = {}
-    # for  path,dirs , files in os.walk(args.mb_dir):
-    #     for f in files:
-    #         score[f] = {}
-            
-    #         tmp = {}
-    #         with open (path+f,'r') as mb:#open each mb file
-    #             for head, seq in SimpleFastaParser(mb):#extract a tmp dict
-    #                 tmp[head] = seq
-                    
-    #         for ref_key , ref_seq in ref_dic.items(): #loop through ref_dict
-    #             score[f][ref_key] = None #inf retaining score
-    #             if ref_seq in tmp.values():
-    #                 tmp_score = 0
-    #                 if ref_key in conta_dic.keys() and len(conta_dic[ref_key]) != 0 :#check if barcoding exist in current file
-    #                     for con_seq in conta_dic[ref_key]:
-    #                         if con_seq in tmp.values():
-    #                             tmp_score += 1 
-    #                     tmp_score = tmp_score/ len(conta_dic[ref_key])
-    #                 score[f][ref_key] = tmp_score
     
     out_df = pd.DataFrame(score).T
     out_df.to_csv(args.conta_score_out,index = True)
     with open(args.conta_reads_out, "w") as conta_reads:
-        for key, value in conta_dic.items():
+        for key, value in fil_conta_dic.items():
             for reads in value:
-                conta_reads.write(key+"_"+str(value.index(reads)+1)+"\n")
+                conta_reads.write(">"+key+"_"+str(value.index(reads)+1)+"\n")
                 conta_reads.write(reads+"\n")
