@@ -128,17 +128,17 @@ def check_denoise(input,alpha,minsize):
     global out_df
     print('#Using Vsearch donoising#')
     #
-    # denuising!
-    subprocess.Popen("vsearch --cluster_unoise %s --minsize %s --unoise_alpha 4 --controids %s"%(input,alpha,minsize,filename+"_denosed.fasta"),shell = True).wait()# chimeras will be exported
-    unoise_list = ['False']*len(uniqs)# make all the cell be 'false'
+    # denoising!
+    subprocess.Popen("vsearch --cluster_unoise %s --minsize %s --unoise_alpha %s --centroids %s"%(input,minsize,alpha,filename+"_denoised.fasta"),shell = True).wait()# chimeras will be exported
+    unoise_list = ['True']*len(uniqs)# make all the cell be 'false'
     print('#Start checking denoising output#')
-    with open(filename+'_denosed.fasta') as denoise:
+    with open(filename+'_denoised.fasta') as denoise:
         # size = len([head for head, seq in SimpleFastaParser(chimes)]) # progress bar
         # step = 0 # progress bar
         # bar = 30 # progress bar
         for head ,seq in SimpleFastaParser(denoise):
                 index = head.split(';')[0].replace('uniq','')
-                unoise_list[int(index)-1] = 'True'# check the name id and locate on the list, turn False to True
+                unoise_list[int(index)-1] = 'False'# check the name id and locate on the list, turn False to True
                 # step += 1 # progress bar
                 # percen = step/size # progress bar
                 # heases = '#'* int(percen*bar)# progress bar
@@ -166,14 +166,14 @@ if __name__ == "__main__":
     # translation table numer
     parser.add_argument("-t","--table", help = "the number referring to the translation table to use which follows the NCBI numbering convention (https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)", metavar = "TABLE_NUM")
     # output file name with default
-    parser.add_argument("-o","--output", help = "output directory (default is current directory)", default = "./", metavar = "OUTPUTFILENAME")# output
+    parser.add_argument("-o","--output", help = "output filename (with default)", default = "./[INFO]uniqs_property_alpha2_info.csv", metavar = "OUTPUTFILENAME")# output
     # qulity filter parameter
     parser.add_argument("-q","--quality_maxee", help = "customise --fastq_maxee option in quality filtering with vsearch)", default = "1", metavar = "NUM")# 
     parser.add_argument("-l","--derep_label", help = "customise --relabel option in dereplication with vsearch)", default = "uniq", metavar = "string")
-    parser.add_argument("-a","--unoise_alpha", help = "customise --unoise_alpha option in denoisong with vsearch)", default = "4.0", metavar = "string")
-    parser.add_argument("-m","--minsize", help = "customise --minsize option in denoisong with vsearch)", default = "4.0", metavar = "string")
+    parser.add_argument("-a","--unoise_alpha", help = "customise --unoise_alpha option in denoisong with vsearch)", default = "2", metavar = "string")
+    parser.add_argument("-m","--minsize", help = "customise --minsize option in denoisong with vsearch)", default = "4", metavar = "string")
 
-    
+
     args = parser.parse_args()
     filename = os.path.splitext(os.path.basename(args.input))[0]
     ## potentially can add switch to each function?
@@ -187,8 +187,8 @@ if __name__ == "__main__":
     # 
     #
     # quality filter, and dereplication:
-    print("###filtering the quality of input file###")
-    subprocess.Popen("vsearch --fastx_filter %s --fastq_maxee %s --fastaout %s_qf.fasta"%(args.input,args.quality_maxee,filename),shell=True).wait()
+    #print("###filtering the quality of input file###")
+    #subprocess.Popen("vsearch --fastx_filter %s --fastq_maxee %s --fastaout %s_qf.fasta"%(args.input,args.quality_maxee,filename),shell=True).wait()
     #
     # 
     # 
@@ -196,15 +196,15 @@ if __name__ == "__main__":
     # 
     # dereplication
     print("###Doing dereplication ###")
-    subprocess.Popen("vsearch --derep_fulllength %s --output %s_dereped.fasta --sizeout --relabel %s --minuniquesize %s"%(filename+"_qf.fasta",filename,args.derep_label,'2'),shell=True).wait()
+    subprocess.Popen("vsearch --derep_fulllength %s --output %s_dereped.fasta --sizeout --relabel %s --minuniquesize %s"%(args.input,filename,args.derep_label,'2'),shell=True).wait()#minsize = 2 to remove all singletons
     #
     # 
     # 
     # 
     #
-    # maping derep with raw
-    print('##mapping raw with derep##')
-    subprocess.Popen("vsearch --search_exact %s -db %s -otutabout %s" %(filename+"_qf.fasta", filename+"_dereped.fasta", args.output+'[INFO]'+filename+"_origin_map.tsv"), shell = True).wait()
+    # # maping derep with raw
+    # print('##mapping raw with derep##')
+    # subprocess.Popen("vsearch --search_exact %s -db %s -otutabout %s" %(filename+"_qf.fasta", filename+"_dereped.fasta", args.output+'[map]'+filename+"_origin_map.tsv"), shell = True).wait()
     # 
     # 
     # 
@@ -214,7 +214,7 @@ if __name__ == "__main__":
     # if (chimera switch)
     check_chimera(filename+"_dereped.fasta")
     check_denoise(filename+"_dereped.fasta",args.unoise_alpha, args.minsize)
-    out(args.output+"[INFO]"+filename+"_info.csv")
+    out(args.output)
     print("info table....DONE")
     #
     # 
